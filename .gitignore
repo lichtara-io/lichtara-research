@@ -1,0 +1,15 @@
+.env
+.DS_Store
+*.DS_Store
+# Ignorar arquivos temporários do macOS
+__MACOSX/
+# Ignorar PDFs gerados
+*.pdf
+# Ignorar arquivos LaTeX temporários
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+# Ignorar pastas de build
+build/
