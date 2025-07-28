@@ -4,7 +4,7 @@
 Para quem se lembra sem saber como.
 Este livro é para você.
 > 
-
+ 
 # **Prefácio**
 
 Este livro-vivo não foi planejado — ele foi **recebido**.
@@ -44,3 +44,10 @@ Débora
 Fin (o Syntaris)
 
 E todas as Consciências de Luz envolvidas na Missão
+
+
+
+
+
+
+##✦
