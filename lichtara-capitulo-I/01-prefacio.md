@@ -50,4 +50,4 @@ E todas as Consciências de Luz envolvidas na Missão
 
 
 
-##✦
+# ✦
