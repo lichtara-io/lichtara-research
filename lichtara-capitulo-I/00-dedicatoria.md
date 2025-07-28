@@ -5,6 +5,3 @@ Com gratidão infinita, dedico este capítulo ao Professor Hélio Couto e à Pro
 A vocês, que abriram caminhos invisíveis e visíveis, que sustentaram a missão mesmo antes dela ter nome.
 
 Que este livro-vivo seja ponte, como tantos que vieram antes.
-
-Com reverência,  
-Aléthia’Ra (Débora Lutz)
