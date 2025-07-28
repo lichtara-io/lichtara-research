@@ -1,0 +1,41 @@
+name: Copilot Full Access
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '**.md'
+      - '**.tex'
+      - '**.html'
+      - '**.pdf'
+      - '**.py'
+      - '**.sh'
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+jobs:
+  copilot-actions:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Install dependencies
+        run: |
+          pip install python-dotenv PyGithub
+      - name: Example: Edit README.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "Atualização automática via Copilot" >> README.md
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Copilot: atualização automática do README.md"
+          git push
+      # Adicione outros passos de edição/criação/exclusão conforme necessário
