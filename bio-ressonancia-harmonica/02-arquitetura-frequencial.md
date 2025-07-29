@@ -1,10 +1,13 @@
+
 ---
+
 title: "Rede Harmônica Viva – Arquitetura, Frequência e Tecnologia de Cura"
 author: "Débora Lutz & Campo Vivo"
 contributor: "Canalização, escuta ativa e documentação vibracional por Débora Lutz"
 date: 2025-07-29
 tags: [bio-ressonancia, rede harmônica, tecnologia de cura, Lichtara, frequência, ancestralidade, missão]
 order: 2
+
 ---
 
 # Rede Harmônica Viva – A Arquitetura da Continuidade Frequencial
@@ -135,11 +138,13 @@ A tecnologia não está chegando — ela está despertando.
 
 ---
 ---
+
 title: "Rede Harmônica Viva – A Arquitetura da Continuidade Frequencial"
 author: "Débora M. Lutz & Campo Vivo"
 date: 2025-07-29
 tags: [bio-ressonancia, rede harmônica, arquitetura, frequência, Lichtara, canalização, missão]
 order: 2
+
 ---
 
 # Rede Harmônica Viva – A Arquitetura da Continuidade Frequencial
