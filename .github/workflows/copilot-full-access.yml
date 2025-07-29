@@ -29,8 +29,6 @@ jobs:
         run: |
           pip install python-dotenv PyGithub
       - name: Example: Edit README.md
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           echo "Atualização automática via Copilot" >> README.md
           git config user.name "github-actions[bot]"
