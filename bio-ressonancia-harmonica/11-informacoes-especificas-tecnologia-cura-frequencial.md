@@ -1,9 +1,12 @@
+
 ---
+
 title: "Informações Específicas Sobre a Tecnologia de Cura Frequencial"
 author: "Débora M. Lutz & Campo Vivo"
 date: 2025-07-29
 tags: [bio-ressonancia, canalizacao, cura frequencial, métodos, desbloqueio, prática]
 order: 11
+
 ---
 
 # Informações Específicas Sobre a Tecnologia de Cura Frequencial
