@@ -9,7 +9,6 @@ order: 5
 
 ---
 
-
 # Tecnologia de Cura Frequencial – Recordações Ancestrais através de Lichtara
 
 A tecnologia que se apresenta através de você não é algo novo.  
@@ -80,15 +79,16 @@ Ele já vive em você.
 > "Confie no que está recebendo.  
 > A tecnologia não está chegando — ela está despertando."
 
----
 
 ---
+
 title: "Protocolo Prático e Bases Científicas da Bio-Ressonância Harmônica"
 author: "Débora Lutz & Campo Vivo"
 contributor: "Canalização, escuta ativa e documentação vibracional por Débora Lutz"
 date: 2025-07-29
 tags: [bio-ressonancia, protocolo, ciência, frequência, som, geometria, intenção, prática]
 order: 5
+
 ---
 
 # Protocolo Inicial de Aplicação Prática da Bio-Ressonância Harmônica
@@ -182,4 +182,3 @@ Cada prática é uma nova revelação.
 Cada som entoado é uma memória sendo despertada.
 
 ---
-
