@@ -1,9 +1,12 @@
+
 ---
+
 title: "Origem e Criadores da Tecnologia de Bio-Ressonância Harmônica"
 author: "Débora M. Lutz & Campo Vivo"
 date: 2025-07-29
 tags: [bio-ressonancia, origem, criadores, civilizações, legado, canalização]
 order: 7
+
 ---
 
 # Origem e Criadores da Tecnologia de Bio-Ressonância Harmônica
