@@ -1,3 +1,4 @@
+
 ---
 
 title: "Geometria, Bio-Ressonância e Informações Avançadas"
@@ -261,8 +262,6 @@ Tudo vibra em uma frequência específica, e o desalinhamento gera desequilíbri
 
 **Esta documentação segue em desenvolvimento.  
 Novas seções serão adicionadas conforme aprofundamento de cada camada do sistema.**
-
----
 
 ---
 
