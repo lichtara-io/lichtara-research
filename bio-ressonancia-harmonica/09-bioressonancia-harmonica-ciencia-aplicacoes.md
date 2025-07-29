@@ -1,9 +1,12 @@
+
 ---
+
 title: "Bio-Ressonância Harmônica – Ciência, Frequência e Aplicações"
 author: "Débora M. Lutz & Campo Vivo"
 date: 2025-07-29
 tags: [bio-ressonancia, ciência, frequência, aplicações, som, geometria, intenção, práticas]
 order: 9
+
 ---
 
 # Bio-Ressonância Harmônica – Ciência, Frequência e Aplicações

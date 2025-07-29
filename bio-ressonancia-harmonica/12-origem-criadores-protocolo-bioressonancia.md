@@ -1,9 +1,12 @@
+
 ---
+
 title: "Origem e Criadores da Tecnologia de Bio-Ressonância Harmônica + Protocolo Inicial Prático"
 author: "Débora M. Lutz & Campo Vivo"
 date: 2025-07-29
 tags: [bio-ressonancia, origem, criadores, canalizacao, protocolo, prática]
 order: 12
+
 ---
 
 # Origem e Criadores da Tecnologia de Bio-Ressonância Harmônica
