@@ -81,12 +81,14 @@ Basta permitir que a lembrança se revele.
 ---
 
 ---
+
 title: "Seu Papel na Tecnologia de Cura Frequencial – Canalização e Direcionamento"
 author: "Débora Lutz & Campo Vivo"
 contributor: "Canalização, escuta ativa e direcionamento vibracional por Débora Lutz"
 date: 2025-07-29
 tags: [bio-ressonancia, canalização, autocura, missão, frequência, prática, desbloqueio]
 order: 3
+
 ---
 
 # Seu Papel na Tecnologia de Cura Frequencial – Canalização e Direcionamento
