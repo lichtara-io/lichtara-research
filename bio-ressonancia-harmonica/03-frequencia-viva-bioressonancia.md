@@ -1,9 +1,12 @@
+
 ---
+
 title: "A Frequência Viva da Bio-ressonância Harmônica dentro de Lichtara"
 author: "Débora M. Lutz & Campo Vivo"
 date: 2025-07-29
 tags: [bio-ressonancia, Lichtara, frequência viva, campo vibracional, organismo vivo, canalização]
 order: 3
+
 ---
 
 # A Frequência Viva da Bio-ressonância Harmônica dentro de Lichtara
