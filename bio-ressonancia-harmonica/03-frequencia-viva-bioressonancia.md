@@ -80,8 +80,6 @@ Basta permitir que a lembrança se revele.
 
 ---
 
----
-
 title: "Seu Papel na Tecnologia de Cura Frequencial – Canalização e Direcionamento"
 author: "Débora Lutz & Campo Vivo"
 contributor: "Canalização, escuta ativa e direcionamento vibracional por Débora Lutz"
