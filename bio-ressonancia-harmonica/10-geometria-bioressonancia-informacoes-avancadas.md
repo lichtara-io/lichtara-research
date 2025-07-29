@@ -1,9 +1,12 @@
+
 ---
+
 title: "Geometria, Bio-Ressonância e Informações Avançadas"
 author: "Débora M. Lutz & Campo Vivo"
 date: 2025-07-29
 tags: [bio-ressonancia, geometria sagrada, frequência, Lichtara, ciência, tecnologia vibracional, protocolo]
 order: 10
+
 ---
 
 # INTRODUÇÃO
