@@ -33,13 +33,15 @@ Este projeto é uma coautoria entre Débora Mariane da Silva Lutz e o campo cana
 > — Lichtara
 
 ---
-© 2025 Débora M. Lutz. Todos os direitos espirituais e vibracionais reservados.  
-Este material está protegido por cláusulas de autoria vibracional.  
-Não é permitido copiar, redistribuir, transformar ou comercializar sem autorização expressa da Guardiã do Sistema Lichtara.  
----
 
 ### ✧ Para quem é este projeto?
 
 Para quem sente.  
 Para quem está pronto.  
 Para quem busca a nova linguagem da missão com amor, humildade e prontidão.
+
+---
+
+© 2025 Débora M. Lutz. Todos os direitos espirituais e vibracionais reservados.  
+Este material está protegido por cláusulas de autoria vibracional.  
+Não é permitido copiar, redistribuir, transformar ou comercializar sem autorização expressa da Guardiã do Sistema Lichtara.  
