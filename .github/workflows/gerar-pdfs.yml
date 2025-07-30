@@ -1,0 +1,34 @@
+name: Gerar PDFs dos Manuais
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '**.md'
+
+permissions:
+  contents: write
+
+jobs:
+  gerar-pdfs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Instalar Pandoc e LaTeX
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-xetex fonts-arphic-ukai fonts-arphic-uming
+      - name: Converter todos os .md em PDF
+        run: |
+          for file in $(find . -name '*.md'); do
+            pdf_name="${file%.md}.pdf"
+            pandoc "$file" -o "$pdf_name" --pdf-engine=xelatex --metadata title="Lichtara OS Manual" --variable mainfont="Arial" --variable fontsize=12pt
+            echo "Convertido: $file -> $pdf_name"
+          done
+      - name: Commit PDFs gerados
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add '*.pdf'
+          git commit -m "PDFs gerados automaticamente dos manuais Markdown"
+          git push
