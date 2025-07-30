@@ -1,9 +1,10 @@
-name: Gerar PDFs dos Manuais
-on:
-  workflow_dispatch:
-  push:
-    paths:
-      - '**.md'
+
+# name: Gerar PDFs dos Manuais
+# on:
+#   workflow_dispatch:
+#   push:
+#     paths:
+#       - '**.md'
 
 permissions:
   contents: write

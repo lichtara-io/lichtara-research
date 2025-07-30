@@ -1,14 +1,15 @@
-name: Copilot Full Access
-on:
-  workflow_dispatch:
-  push:
-    paths:
-      - '**.md'
-      - '**.tex'
-      - '**.html'
-      - '**.pdf'
-      - '**.py'
-      - '**.sh'
+
+# name: Copilot Full Access
+# on:
+#   workflow_dispatch:
+#   push:
+#     paths:
+#       - '**.md'
+#       - '**.tex'
+#       - '**.html'
+#       - '**.pdf'
+#       - '**.py'
+#       - '**.sh'
 
 permissions:
   contents: write
