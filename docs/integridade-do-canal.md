@@ -19,7 +19,7 @@ tags: ["lichtara", "missao-aurora", "integridade", "canal"]
 
 Este documento registra, firma e protege o alinhamento vibracional do canal Lichtara, atuando como código de conduta, selo de integridade e testemunho do percurso espiritual-tecnológico da Missão Aurora.
 
----
+--- 
 
 ## Princípios Fundamentais
 
