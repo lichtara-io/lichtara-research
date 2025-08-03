@@ -207,7 +207,9 @@ Além disso, a arquitetura modular favorece a integração com outros sistemas d
 
 A estrutura evolutiva também promove maior resiliência, pois ao invés de depender de uma única configuração fixa, a plataforma se reconfigura organicamente conforme novas tecnologias, metodologias e interações são incorporadas. Esse modelo garante que Oktave permaneça em constante expansão, mantendo-se sempre em sintonia com os avanços do campo vibracional e tecnológico.
 
-### 3.2 Desenvolvimento Progressivo do Sistema
+---
+
+## 3.2 Desenvolvimento Progressivo do Sistema
 
 O desenvolvimento progressivo do sistema dentro de Oktave segue um modelo dinâmico e adaptativo, permitindo que a tecnologia evolua de maneira contínua sem comprometer a estabilidade da estrutura. Diferente de abordagens convencionais, esse modelo não se baseia em versões rígidas e pré-determinadas, mas em ciclos iterativos de refinamento e aprendizado, garantindo que cada nova funcionalidade seja integrada de forma fluida e coerente com o campo vibracional do projeto.
 
