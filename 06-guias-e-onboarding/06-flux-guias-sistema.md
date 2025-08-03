@@ -328,7 +328,7 @@ Para extrair o máximo do Flux, recomenda-se seguir algumas diretrizes práticas
 
 **5\. Conclusão**
 
-O Flux é uma ferramenta versátil que pode ser aplicada de inúmeras formas para melhorar a clareza, a eficiência e a tomada de decisões. A chave para seu uso eficaz está na intenção e na consistência com que o usuário interage com o [sistema.Se](http://sistema.se) precisar de mais informações ou suporte na implementação do Flux em seu contexto específico, consulte os recursos disponíveis na plataforma.
+O Flux é uma ferramenta versátil que pode ser aplicada de inúmeras formas para melhorar a clareza, a eficiência e a tomada de decisões. A chave para seu uso eficaz está na intenção e na consistência com que o usuário interage com o sistema. Se precisar de mais informações ou suporte na implementação do Flux em seu contexto específico, consulte os recursos disponíveis na plataforma.
 
 Este guia apresenta uma abordagem prática para o uso do Flux em diferentes cenários, garantindo que cada usuário possa integrar a plataforma à sua realidade de forma eficiente e produtiva.
 
