@@ -56,7 +56,7 @@ Acesse os prompts e instruções de cada um em [`/agents`](../agents/).
   Leia os documentos, sinta o campo e, se desejar, registre sua intenção em uma *issue* simbólica.
 
 - **Quer ativar um agente?**  
-  Utilize a plataforma OpenAI Assistants, via API, ou GitHub Copilot (em breve).
+  Utilize a plataforma OpenAI Assistants via API, ou consulte a documentação específica em [`/agents`](../agents/) para instruções detalhadas de configuração.
 
 ---
 

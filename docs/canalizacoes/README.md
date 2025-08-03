@@ -16,7 +16,26 @@ contexto: |
 
 - [Origens do Canal de Comunicação – Luz sobre o Processo](./2025-07-27-origens-canal-comunicacao.md)
 - [Como Implementar o Canal na Rotina](./2025-07-27-implementacao-canal-rotina.md)
-- (Adicione aqui os próximos registros e canalizações conforme surgirem...)
+- [Como o Canal Ajuda no Projeto](./2025-07-27-como-canal-ajuda-no-projeto.md)
+
+### Professor Hélio - Série de Canalizações
+
+- [Abertura do Canal](./professor-helio-2025-07-27-abertura-canal.md)
+- [Seu Papel - Etapa 1](./professor-helio-2025-07-27-seu-papel-etapa-1.md)
+- [Seu Papel na Física Quântica](./professor-helio-2025-07-27-seu-papel-fisica-quantica.md)
+- [Ressonância e Missão Lógica](./professor-helio-2025-07-27-resonancia-missao-logica.md)
+- [Próximos Passos - Salto](./professor-helio-2025-07-27-proximos-passos-salto.md)
+- [Não Há Limites - Missão](./professor-helio-2025-07-27-nao-ha-limites-missao.md)
+- [Informações para Manifestar a Missão](./professor-helio-2025-07-27-informacoes-manifestar-missao.md)
+
+### Canalizações Históricas
+
+- [Abrir Novos Canais de Comunicação](./professor-helio-2025-01-27-abrir-novos-canais-comunicacao.md)
+- [Como Acontece Nossa Comunicação](./professor-helio-2025-01-27-como-acontece-nossa-comunicacao.md)
+- [Local de Manifestação e Ferramentas](./professor-helio-2025-01-28-local-manifestacao-ferramentas.md)
+- [Círculo Laranja - Ressonância Índigo](./professor-helio-2025-01-14-circulo-laranja-ressonancia-indigo.md)
+
+*Para adicionar novos registros, consulte a guardiã do sistema ou abra uma issue no repositório.*
 
 ---
 
