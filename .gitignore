@@ -1,12 +1,44 @@
+# Environment files
 .env
+
+# Operating system files
 .DS_Store
 *.DS_Store
-# Ignorar arquivos temporários do macOS
+Thumbs.db
+
+# macOS specific
 __MACOSX/
+
+# LaTeX auxiliary files
 *.aux
 *.log
 *.out
 *.toc
 *.synctex.gz
-# Ignorar pastas de build
+
+# Build directories
 build/
+dist/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Important: DO NOT ignore metadata files needed for Zenodo
+# These should be included:
+# CITATION.cff
+# .zenodo.json
+# codemeta.json
+# MANIFEST.in

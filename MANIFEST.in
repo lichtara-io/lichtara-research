@@ -1,0 +1,49 @@
+# Manifest file for Lichtara research repository
+# Includes essential files for distribution and archival
+
+# Include all documentation files
+include README.md
+include CHANGELOG.md
+include LICENSE.md
+include AUTHORS.md
+include CONTRIBUTING.md
+include NOTICE.md
+include CITATION.cff
+include .zenodo.json
+include codemeta.json
+
+# Include core documentation directories
+recursive-include docs *.md *.txt
+recursive-include 01-conceito-central *.md *.txt
+recursive-include 02-sistema-e-elementos *.md *.txt
+recursive-include 03-tecnologia-e-canalizacao *.md *.txt
+recursive-include 04-manual-operacional *.md *.txt
+recursive-include 05-governanca-e-protecao *.md *.txt
+recursive-include 06-guias-e-onboarding *.md *.txt
+recursive-include 07-sistema-vibracional *.md *.txt
+recursive-include agents *.md *.txt
+recursive-include guias *.md *.txt
+recursive-include protecao *.md *.txt
+recursive-include bio-ressonancia-harmonica *.md *.txt
+recursive-include livro-lichtara *.md *.txt
+recursive-include lichtara-artigo *.md *.txt
+
+# Include images and media
+recursive-include imagens *.png *.jpg *.jpeg *.gif *.svg *.pdf
+
+# Include essential scripts
+include *.sh
+include *.py
+include *.html
+
+# Include important PDFs
+include *.pdf
+
+# Exclude temporary and build files
+global-exclude *.pyc
+global-exclude *.pyo
+global-exclude __pycache__/
+global-exclude .DS_Store
+global-exclude Thumbs.db
+global-exclude *.tmp
+global-exclude *.temp
