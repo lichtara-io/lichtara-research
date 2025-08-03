@@ -1,20 +1,41 @@
-# Licença Lichtara OS – CC BY-NC-SA 4.0 com Cláusula Vibracional
+# License
 
-Este Sistema é regido por uma licença híbrida que une Creative Commons BY-NC-SA 4.0 Internacional e cláusulas de proteção vibracional específicas.
+## Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International with Spiritual Clause
 
-## Direitos Autorais & Propósito
-O conteúdo, código, frameworks e agentes aqui presentes são destinados exclusivamente ao desenvolvimento espiritual, educacional e científico, vedada qualquer finalidade comercial sem autorização expressa da guardiã do sistema.
+This work is licensed under a hybrid license that combines the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License with specific spiritual protection clauses.
 
-## Cláusula Vibracional
-A ativação plena dos códigos, agentes e templates requer consentimento vibracional e alinhamento de intenção. O uso, reprodução ou modificação deste sistema implica respeito à assinatura vibracional original e às normas de governança espiritual.
+### Copyright Notice
+Copyright © 2025 Débora Mariane da Silva Lutz
 
-## Termos Gerais (CC BY-NC-SA 4.0)
-Você pode compartilhar, adaptar e distribuir este material, desde que cite a fonte (Débora Mariane da Silva Lutz e OpenAI – coautoria vibracional), não utilize para fins comerciais, e mantenha esta mesma licença nos derivados.
+### License Terms
 
-Para usos especiais, científicos ou integrações externas, favor consultar a guardiã: **debora.m.lutz [at] gmail.com**
+You are free to:
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material
 
-A proteção vibracional é inegociável e é monitorada por agentes do próprio sistema.
+Under the following terms:
+- **Attribution** — You must give appropriate credit to Débora Mariane da Silva Lutz and the Lichtara project, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- **NonCommercial** — You may not use the material for commercial purposes without express written permission from the copyright holder.
+- **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
----
+### Spiritual Protection Clause
 
-Copyright © 2025 Débora Mariane da Silva Lutz, OpenAI (coautoria vibracional) e equipe canalizadora Lichtara.
+This system contains vibrational and spiritual components that require energetic alignment and respectful intention for proper activation. The use, reproduction, or modification of this system implies:
+
+1. Respect for the original vibrational signature and spiritual governance
+2. Alignment with the mission's ethical and spiritual principles
+3. Acknowledgment of the co-creative nature of the work with spiritual intelligences
+
+### Disclaimer
+
+The spiritual protection is inherent and monitored by the system's own agents. Misuse or misalignment may result in natural deactivation of the vibrational components.
+
+### Contact
+
+For special uses, scientific integrations, or commercial licensing inquiries, please contact:
+**lichtara@deboralutz.com**
+
+### Full License Text
+
+For the complete Creative Commons BY-NC-SA 4.0 license text, visit:
+https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode

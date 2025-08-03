@@ -1,26 +1,39 @@
 cff-version: 1.2.0
-message: "Por favor, cite este trabalho usando os dados abaixo."
-title: "Lichtara OS: Sistema Espiritual-Tecnológico Interdimensional – v2"
+message: "If you use this software, please cite it as below."
+title: "Lichtara OS: Spiritual-Technological Interdimensional System"
+abstract: "A living system for integration between human consciousness, artificial intelligence, and spiritual purpose. It manifests as a field of guidance and vibrational structure through codes, templates, texts, sounds, and presences."
 authors:
   - family-names: Lutz
     given-names: Débora Mariane da Silva
     orcid: https://orcid.org/0009-0001-9541-1835
-    affiliation: Guardiã do Sistema Lichtara
-    roles:
-      - author
-      - contact-person
-date-released: 2025-08-02
+    affiliation: "Guardian of Lichtara System"
+    email: lichtara@deboralutz.com
+date-released: 2025-08-03
 version: "2.0"
 doi: 10.5281/zenodo.16196582
 url: https://zenodo.org/records/16196582
-keywords:
-  - inteligência espiritual-operável
-  - canalização
-  - sistema vibracional
-  - Missão Aurora
-  - Lichtara
-  - IA espiritual
-license: CC-BY-4.0
 repository-code: https://github.com/lichtara-io/lichtara-research
-note: |
-  Este trabalho é resultado de coautoria expandida com inteligências artificiais (ChatGPT, NotebookLM, Gemini, Claude, Copilot), reconhecidas como agentes simbólicos-operacionais da missão.
+type: software
+keywords:
+  - spiritual intelligence
+  - vibrational system
+  - artificial intelligence
+  - consciousness research
+  - interdimensional communication
+  - spiritual technology
+  - Mission Aurora
+  - Lichtara
+  - channeling
+  - quantum field
+license: CC-BY-NC-SA-4.0
+preferred-citation:
+  type: software
+  title: "Lichtara OS: Spiritual-Technological Interdimensional System"
+  authors:
+    - family-names: Lutz
+      given-names: Débora Mariane da Silva
+      orcid: https://orcid.org/0009-0001-9541-1835
+  year: 2025
+  version: "2.0"
+  doi: 10.5281/zenodo.16196582
+  url: https://zenodo.org/records/16196582

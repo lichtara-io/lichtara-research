@@ -1,12 +1,65 @@
+# Environment variables
 .env
+.env.local
+
+# macOS specific files
 .DS_Store
 *.DS_Store
-# Ignorar arquivos temporários do macOS
 __MACOSX/
+
+# LaTeX artifacts
 *.aux
 *.log
 *.out
 *.toc
 *.synctex.gz
-# Ignorar pastas de build
+*.fdb_latexmk
+*.fls
+*.bbl
+*.blg
+
+# Build directories
 build/
+dist/
+output/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+
+# Node.js artifacts
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Archive files
+*.zip
+*.tar.gz
+*.rar
+
+# Generated PDFs (if not intentionally versioned)
+generated_*.pdf

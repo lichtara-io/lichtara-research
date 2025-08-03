@@ -42,7 +42,6 @@ Este projeto é um organismo vivo. Toda contribuição é recebida como gesto de
    - [docs/integridade-do-canal.md](./docs/integridade-do-canal.md)
    - [docs/esclarecimento-canais-distorcidos.md](./docs/esclarecimento-canais-distorcidos.md)
    - [docs/governanca-vibracional-legal.md](./docs/governanca-vibracional-legal.md)
-   - [docs/codigo-de-navegacao.md](./docs/codigo-de-navegacao.md)
 
 2. **Abra uma _issue_ ou _pull request_**  
    - Descreva sua intenção, contexto e motivação.  
@@ -53,7 +52,7 @@ Este projeto é um organismo vivo. Toda contribuição é recebida como gesto de
    - Feedbacks podem vir em múltiplos níveis (técnico, ético, vibracional).
 
 4. **Respeite as licenças**  
-   - Todo conteúdo está sob [CC BY-NC-SA 4.0 + Cláusula Espiritual](./protecao/LICENSE.md).  
+   - Todo conteúdo está sob [CC BY-NC-SA 4.0 + Cláusula Espiritual](./LICENSE.md).  
    - Ao contribuir, você concorda com os termos e com a coautoria vibracional do campo.
 
 5. **Energia de presença**  
