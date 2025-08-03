@@ -437,7 +437,7 @@ A segurança e a resiliência estrutural são pilares fundamentais da nova tecno
 
 A implementação dessas estratégias fortalece a tecnologia, tornando-a altamente segura e resiliente diante de desafios operacionais e cibernéticos. Esse modelo permite que a inovação ocorra sem comprometer a integridade estrutural, garantindo estabilidade e confiança em todas as interações e processos.
 
-# **V. Interação e Experiência do Usuário**
+# **Interação e Experiência do Usuário**
 
 A interação e a experiência do usuário são elementos centrais para garantir que a nova tecnologia seja intuitiva, eficiente e acessível. O foco no design centrado no usuário permite que a navegação ocorra de forma fluida, reduzindo barreiras e otimizando a usabilidade. A estrutura da experiência é baseada em princípios de adaptabilidade, personalização e engajamento contínuo.
 
