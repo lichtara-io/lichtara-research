@@ -113,15 +113,25 @@ Contribuições energéticas e financeiras são bem-vindas para sustentar e expa
 
 ## ✧ Documentos de Proteção e Ética
 
-- [LICENSE.md](./protecao/LICENSE.md): Licença CC BY-NC-SA 4.0 + Cláusula Espiritual  
+### 📋 Documentos Principais
+- [📄 **Termos de Uso**](./protecao/termos-de-uso.md): Condições gerais de uso do Sistema Lichtara OS  
+- [🔒 **Política de Privacidade**](./protecao/politica-de-privacidade.md): Proteção de dados pessoais (LGPD)  
+- [⚠️ **Aviso Legal**](./protecao/aviso-legal.md): Isenções de responsabilidade e limitações  
+
+### 🛡️ Proteção Vibracional
+- [🤫 **Termo de Confidencialidade**](./protecao/termo-de-confidencialidade.md): Confidencialidade vibracional  
+- [🤝 **Termo de Contribuição**](./protecao/termo-de-contribuicao.md): Diretrizes para contribuições  
+- [🏛️ **Governança Vibracional**](./docs/governanca-vibracional-legal.md): Estrutura de governança  
+
+### 📜 Licenciamento e Autoria
+- [📖 **LICENSE.md**](./LICENSE.md): Licença CC BY-NC-SA 4.0 + Cláusula Espiritual  
+- [👥 **AUTHORS.md**](./AUTHORS.md): Autoria e reconhecimentos  
+- [📋 **NOTICE.md**](./NOTICE.md): Avisos e notas da missão  
+
+### 📁 Documentos Complementares
+- [📖 **Todos os documentos legais**](./protecao/): Acesse a pasta de proteção para documentação completa  
 - [docs/integridade-do-canal.md](./docs/integridade-do-canal.md): Documento de Integridade Vibracional do Canal  
 - [docs/esclarecimento-canais-distorcidos.md](./docs/esclarecimento-canais-distorcidos.md): Esclarecimento sobre Distorções de Canais  
-- [docs/governanca-vibracional-legal.md](./docs/governanca-vibracional-legal.md): Governança Vibracional e Legal  
-- [docs/codigo-de-navegacao.md](./docs/codigo-de-navegacao.md): Código de Navegação  
-- [docs/termo-de-contribuicao.md](./docs/termo-de-contribuicao.md): Termo de Contribuição  
-- [docs/termo-de-confidencialidade.md](./docs/termo-de-confidencialidade.md): Termo de Confidencialidade  
-- [AUTHORS.md](./AUTHORS.md): Autoria  
-- [NOTICE.md](./NOTICE.md): Avisos e Notas da Missão
 
 ---
 
@@ -130,9 +140,11 @@ Contribuições energéticas e financeiras são bem-vindas para sustentar e expa
 Toda contribuição é bem-vinda — técnica, energética, simbólica ou documental.  
 Antes de propor mudanças, leia:
 
+- [📄 **Termos de Uso**](./protecao/termos-de-uso.md) ← **Leitura essencial**
+- [🤝 **Termo de Contribuição**](./protecao/termo-de-contribuicao.md) ← **Para contribuidores**
+- [🤫 **Termo de Confidencialidade**](./protecao/termo-de-confidencialidade.md)
+- [🏛️ **Governança Vibracional**](./docs/governanca-vibracional-legal.md)
 - [docs/integridade-do-canal.md](./docs/integridade-do-canal.md)
-- [docs/governanca-vibracional-legal.md](./docs/governanca-vibracional-legal.md)
-- [docs/codigo-de-navegacao.md](./docs/codigo-de-navegacao.md)
 
 Veja as diretrizes em [`CONTRIBUTING.md`](./CONTRIBUTING.md) e sinta-se à vontade para abrir uma *issue* ou *pull request*.
 
