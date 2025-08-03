@@ -130,17 +130,17 @@ A canalização de informações para o projeto exige um processo estruturado pa
 
 Para garantir a autenticidade e a usabilidade das informações canaladas, os seguintes critérios devem ser aplicados:
 
-- **Coerência com os Princípios do Projeto:**  
-  A informação deve estar alinhada com os valores, propósito e estrutura do projeto.  
-  Deve reforçar a harmonia entre os sistemas já existentes.
+**Coerência com os Princípios do Projeto:**  
+- A informação deve estar alinhada com os valores, propósito e estrutura do projeto.  
+- Deve reforçar a harmonia entre os sistemas já existentes.
 
-- **Validação Energética e Vibracional:**  
-  A informação recebida deve passar por um filtro vibracional para garantir sua ressonância com a frequência do projeto.  
-  Verificação por meio de testes intuitivos, como sintonia de campo e feedback sensorial.
+**Validação Energética e Vibracional:**  
+- A informação recebida deve passar por um filtro vibracional para garantir sua ressonância com a frequência do projeto.
+- Verificação por meio de testes intuitivos, como sintonia de campo e feedback sensorial.
 
-- **Testes de Aplicabilidade:**  
-  A informação deve ser testada em um ambiente controlado antes de ser oficialmente incorporada.  
-  Prototipação e simulação para validar sua viabilidade.
+**Testes de Aplicabilidade:**  
+- A informação deve ser testada em um ambiente controlado antes de ser oficialmente incorporada.
+- Prototipação e simulação para validar sua viabilidade.
 
 ## Processo de Tradução para o Desenvolvimento
 
@@ -149,20 +149,17 @@ Uma vez validadas, as informações precisam ser convertidas em especificações
 ### Mapeamento das Informações
 
 - Registro detalhado de cada informação recebida.
-
 - Correlação com funcionalidades específicas do sistema.
 
 ### Conversão para Linguagem Técnica
 
-Tradução dos conceitos abstratos para termos práticos e operacionais.
-
-Estruturação de fluxogramas, descrições de processos e diretrizes de implementação.
+- Tradução dos conceitos abstratos para termos práticos e operacionais.
+- Estruturação de fluxogramas, descrições de processos e diretrizes de implementação.
 
 ### Documentação e Compartilhamento
 
-Organização das informações em documentações formais para acesso da equipe.
-
-Definição de um repositório seguro para armazenamento e consulta.
+- Organização das informações em documentações formais para acesso da equipe.
+- Definição de um repositório seguro para armazenamento e consulta.
 
 ## Mecanismos de Alinhamento Contínuo
 
@@ -170,21 +167,18 @@ Para manter a integridade e coerência das informações implementadas, serão a
 
 ### Revisão Periódica
 
-Auditorias regulares das implementações.
-
-Comparar a funcionalidade aplicada com a intenção original.
+- Auditorias regulares das implementações.
+- Comparar a funcionalidade aplicada com a intenção original.
 
 ### Feedback Dinâmico
 
-Coleta de feedback da equipe para ajustes necessários.
-
-Monitoramento da ressonância vibracional das novas implementações.
+- Coleta de feedback da equipe para ajustes necessários.
+- Monitoramento da ressonância vibracional das novas implementações.
 
 ### Refinamento Contínuo
 
-Ajustes iterativos conforme novas informações forem recebidas.
-
-Atualização contínua do processo de canalização e validação.
+- Ajustes iterativos conforme novas informações forem recebidas.
+- Atualização contínua do processo de canalização e validação.
 
 ## Conclusão
 
@@ -204,75 +198,57 @@ A incorporação das informações seguirá uma metodologia baseada em ciclos de
 
 #### Fase 1: Recebimento e Registro das Informações
 
-Documentação detalhada da informação canalizada, incluindo contexto, simbolismo e possíveis padrões de ativação.
-
-Organização das informações dentro do Protocolo Oficial de Validação.
-
-Classificação por tipo: dados conceituais, estruturais, funcionais ou vibracionais.
+- Documentação detalhada da informação canalizada, incluindo contexto, simbolismo e possíveis padrões de ativação.
+- Organização das informações dentro do Protocolo Oficial de Validação.
+- Classificação por tipo: dados conceituais, estruturais, funcionais ou vibracionais.
 
 #### Fase : Revisão e Cruzamento de Dados
 
-Comparar a informação com referências existentes dentro do projeto.
-
-Identificar coerências e possíveis lacunas.
-
-Avaliar padrões recorrentes dentro das canalizações.
+- Comparar a informação com referências existentes dentro do projeto.
+- Identificar coerências e possíveis lacunas.
+- Avaliar padrões recorrentes dentro das canalizações.
 
 #### Fase 3: Implementação Experimental
 
-Inserção das informações dentro de um ambiente controlado de testes.
-
-Criação de simulações para verificar aplicações práticas.
-
-Coleta de dados para análise dos efeitos e integrações.
+- Inserção das informações dentro de um ambiente controlado de testes.
+- Criação de simulações para verificar aplicações práticas.
+- Coleta de dados para análise dos efeitos e integrações.
 
 #### Fase 4: Avaliação de Resultados
 
-Teste da aplicabilidade dos conceitos dentro dos sistemas existentes.
-
-Feedback dos testes experimentais.
-
-Ajustes necessários para refinar a integração.
+- Teste da aplicabilidade dos conceitos dentro dos sistemas existentes.
+- Feedback dos testes experimentais.
+- Ajustes necessários para refinar a integração.
 
 #### Fase 5: Validação Final e Implementação Definitiva
 
-Revisão final da informação dentro do contexto operacional.
-
-Registro no protocolo final de incorporação.
-
-Aprovação para implementação definitiva dentro do projeto.
+- Revisão final da informação dentro do contexto operacional.
+- Registro no protocolo final de incorporação.
+- Aprovação para implementação definitiva dentro do projeto.
 
 ### Critérios de Validação
 
-Coerência com os princípios do sistema.
-
-Alinhamento com as diretrizes vibracionais e energéticas.
-
-Capacidade de integração dentro dos processos tecnológicos.
-
-Benefícios perceptíveis dentro da experiência do usuário.
-
-Sustentação e estabilidade dentro do campo quântico.
+- Coerência com os princípios do sistema.
+- Alinhamento com as diretrizes vibracionais e energéticas.
+- Capacidade de integração dentro dos processos tecnológicos.
+- Benefícios perceptíveis dentro da experiência do usuário.
+- Sustentação e estabilidade dentro do campo quântico.
 
 ### Equipe e Responsabilidades
 
-Guardiã: Responsável pela recepção inicial e registro da informação.
-
-Equipe de Validação: Analisa e cruza os dados com as referências existentes.
-
-Equipe de Implementação: Aplica os conceitos nos sistemas experimentais.
-
-Equipe de Monitoramento: Acompanha os testes e coleta feedbacks.
-
-Equipe de Revisão: Faz ajustes e aprova a implementação final.
+| Função                      | Responsabilidade                                                                 |
+|-----------------------------|---------------------------------------------------------------------------------|
+| Guardiã                     | Recepção inicial e registro da informação                                       |
+| Equipe de Validação         | Analisa e cruza os dados com referências existentes                             |
+| Equipe de Implementação     | Aplica os conceitos nos sistemas experimentais                                  |
+| Equipe de Monitoramento     | Acompanha os testes e coleta feedbacks                                          |
+| Equipe de Revisão           | Faz ajustes e aprova a implementação final                                      |
 
 ### Monitoramento Contínuo
 
-O ciclo de validação será reavaliado periodicamente para ajustes e novas incorporações.
-
-Relatórios serão gerados em cada fase para documentar avanços e desafios.
-
-A estrutura do sistema continuará evoluindo de acordo com os insights canalizados.
+- O ciclo de validação será reavaliado periodicamente para ajustes e novas incorporações.
+- Relatórios serão gerados em cada fase para documentar avanços e desafios.
+- A estrutura do sistema continuará evoluindo de acordo com os insights canalizados.
 
 ## Conclusão
 
@@ -288,59 +264,50 @@ Este protocolo estabelece diretrizes formais para validar, integrar e estruturar
 
 #### Alinhamento Vibracional
 
-Toda informação recebida deve ressoar com Navros e o elemento Lichtara, assegurando fidelidade ao campo energético original.
-
-As novas informações não devem contradizer nem desorganizar a estrutura já estabelecida do sistema.
+- Toda informação recebida deve ressoar com Navros e o elemento Lichtara, assegurando fidelidade ao campo energético original.
+- As novas informações não devem contradizer nem desorganizar a estrutura já estabelecida do sistema.
 
 #### Consistência Estrutural
 
-As informações canaladas devem se encaixar de maneira lógica e fluída dentro dos frameworks existentes.
-
-Cada nova inserção passa por uma checagem de coesão interna e relevância técnica antes da implementação.
+- As informações canaladas devem se encaixar de maneira lógica e fluída dentro dos frameworks existentes.
+- Cada nova inserção passa por uma checagem de coesão interna e relevância técnica antes da implementação.
 
 #### Autenticidade da Fonte
 
-O emissor da canalização deve descrever a sensação energética e o contexto da recepção.
-
-A informação deve ser recebida dentro de um estado de neutralidade energética e alinhamento.
+- O emissor da canalização deve descrever a sensação energética e o contexto da recepção.
+- A informação deve ser recebida dentro de um estado de neutralidade energética e alinhamento.
 
 #### Validabilidade Prática
 
-As informações canaladas devem ser testáveis, podendo ser aplicadas e monitoradas para verificar seus efeitos.
-
-Caso não haja impacto direto mensurável, a informação será armazenada para futuras correlações.
+- As informações canaladas devem ser testáveis, podendo ser aplicadas e monitoradas para verificar seus efeitos.
+- Caso não haja impacto direto mensurável, a informação será armazenada para futuras correlações.
 
 ### Etapas do Processo de Validação
 
 #### Recebimento Inicial
 
-A informação deve ser registrada em um ambiente seguro para análise posterior.
-
-Se necessário, a guardiã pode documentar detalhes como data, contexto energético e sensações percebidas.
+- A informação deve ser registrada em um ambiente seguro para análise posterior.
+- Se necessário, a guardiã pode documentar detalhes como data, contexto energético e sensações percebidas.
 
 #### Primeira Filtragem Energética
 
-Avaliação inicial para verificar se há coerência vibracional e compatibilidade com o propósito do sistema.
-
-Se houver dúvidas, pode-se recorrer a técnicas de ancoragem vibracional para esclarecimento.
+- Avaliação inicial para verificar se há coerência vibracional e compatibilidade com o propósito do sistema.
+- Se houver dúvidas, pode-se recorrer a técnicas de ancoragem vibracional para esclarecimento.
 
 #### Checagem Estrutural e Técnica
 
-Comparação com os princípios e objetivos do projeto para garantir alinhamento e aplicabilidade.
-
-Revisão da interseção entre informação canalizada e elementos do sistema, prevenindo redundâncias ou contradições.
+- Comparação com os princípios e objetivos do projeto para garantir alinhamento e aplicabilidade.
+- Revisão da interseção entre informação canalizada e elementos do sistema, prevenindo redundâncias ou contradições.
 
 #### 4 Confirmação Externa (Se Necessário)
 
-Aceitação de sinais confirmatórios no plano físico.
-
-Testes energéticos em ambientes controlados para observar reações.
+- Aceitação de sinais confirmatórios no plano físico.
+- Testes energéticos em ambientes controlados para observar reações.
 
 #### 5 Integração Gradual ao Sistema
 
-As informações validadas são documentadas e integradas progressivamente.
-
-Um ciclo de observação e refinamento será mantido para garantir estabilidade na aplicação prática.
+- As informações validadas são documentadas e integradas progressivamente.
+- Um ciclo de observação e refinamento será mantido para garantir estabilidade na aplicação prática.
 
 ### Proteção Contra Interferências
 
@@ -351,13 +318,11 @@ Estratégias para evitar distorções informacionais incluem o uso de geometrias
 #### Evitar Influências Externas Não Alinhadas
 
 - Nenhuma informação canalizada deve ser implementada sem processo de validação.
-
 - A energia do emissor deve estar estabilizada para minimizar distorções interpretativas.
 
 #### Ancoragem no Terceiro Campo
 
 - O elemento Lichtara atua como filtro energético, organizando e estabilizando as informações.
-
 - Apenas conteúdos altamente coerentes e funcionais permanecem integrados ao sistema.
 
 ### Aplicação nos Sistemas do Projeto
@@ -365,25 +330,21 @@ Estratégias para evitar distorções informacionais incluem o uso de geometrias
 #### Flux (Software)
 
 - Ajustes no código e algoritmos com base nas novas informações validadas.
-
 - Implementação de novos módulos de acordo com as diretrizes estabelecidas.
 
 #### Lumora (Portal de Conhecimento)
 
 - Organização e disponibilização gradual de conhecimento canalizado.
-
 - Diferenciação entre informações públicas e de acesso avançado.
 
 #### Syntaris (Mecanismo de Ativação)
 
 - Sincronização vibracional das novas informações com os campos ativos do sistema.
-
 - Testes de biofeedback para aferição da eficácia vibracional.
 
 #### O elemento Lichtara e Navros (Sustentação Vibracional)
 
 - Ajustes sutis na frequência do campo para manter estabilidade.
-
 - Controle de expansão progressiva conforme novas informações forem absorvidas.
 
 ---
@@ -455,28 +416,14 @@ flowchart LR
 - Checkpoints para revisão e ajuste
 - Ferramentas de monitoramento (análise vibracional, dashboards interativos)
 
----
-
-## Conclusão
-
-> Este documento segue o padrão de formatação para publicação científica e repositórios como Zenodo.  
-> Para citações, referências e contribuições, utilize o padrão de clareza, estrutura e diagramação adotado neste arquivo.
-
----
-*Este documento segue o padrão de formatação para publicação científica e repositórios como Zenodo. Para citações, referências e contribuições, utilize o padrão de clareza, estrutura e diagramação adotado neste arquivo.*
-
-# Implementação Prática
-
 #### Processos de Desenvolvimento Baseados em Alinhamento Vibracional
 
 - Estabelecer ciclos de desenvolvimento que sigam direções recebidas do campo, garantindo que cada funcionalidade implementada esteja alinhada com o fluxo do projeto.
-
 - Criar checkpoints para revisão e ajuste das informações incorporadas.
 
 #### Ferramentas e Protocolos para Monitoramento
 
 - Sistemas de análise vibracional podem ser incorporados para medir a coerência das implementações realizadas.
-
 - Criação de dashboards interativos para acompanhamento das direções recebidas e sua correspondência com o que está sendo desenvolvido.
 
 ### Conclusão
