@@ -1,0 +1,82 @@
+/* Lichtara OS Style Sheet */
+body {
+    font-family: 'Montserrat', 'Arial', sans-serif;
+    background: #f8f5fa;
+    color: #2c1e38;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+    line-height: 1.6;
+}
+
+h1 {
+    color: #2c1e38;
+    margin: 20px 0;
+    font-size: 2.2em;
+    font-weight: 300;
+}
+
+.glyph {
+    animation: spin 4s linear infinite;
+    margin: 30px auto;
+    width: 60px;
+    height: 60px;
+    display: block;
+}
+
+@keyframes spin {
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.btn {
+    background: #a479d6;
+    color: #fff;
+    border: none;
+    padding: 14px 28px;
+    margin: 8px;
+    font-size: 1.1em;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.btn:hover {
+    background: #7a50a3;
+    transform: translateY(-2px);
+}
+
+.btn:active {
+    transform: translateY(0);
+}
+
+p {
+    font-style: italic;
+    margin: 20px 0;
+    font-size: 1.1em;
+    color: #5a4a6a;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    body {
+        padding: 10px;
+    }
+    
+    h1 {
+        font-size: 1.8em;
+    }
+    
+    .btn {
+        padding: 12px 20px;
+        font-size: 1em;
+        margin: 6px;
+        display: block;
+        width: 80%;
+        max-width: 300px;
+        margin: 10px auto;
+    }
+}

@@ -2,9 +2,24 @@
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Lichtara OS: Capítulo I – A Travessia da Guardiã</title>
   <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500&display=swap" rel="stylesheet">
   <style>
+    .glyph-placeholder {
+      width: 60px;
+      height: 60px;
+      margin: 30px auto;
+      background: linear-gradient(45deg, #a479d6, #7a50a3);
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: white;
+      font-weight: bold;
+      animation: spin 4s linear infinite;
+    }
     body { font-family: 'Montserrat', sans-serif; background: #f8f5fa; color: #2c1e38; text-align: center; margin: 0; padding: 0; }
     .glyph { animation: spin 4s linear infinite; margin: 30px auto; width: 60px; }
     @keyframes spin { 100% { transform: rotate(360deg); } }
@@ -14,7 +29,8 @@
 </head>
 <body>
   <h1>Lichtara OS: Capítulo I – A Travessia da Guardiã</h1>
-  <img src="capa.png" alt="Capa Vibracional" class="glyph"/>
+  <img src="capa.png" alt="Capa Vibracional" class="glyph" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex'"/>
+  <div class="glyph-placeholder" style="display:none;">L</div>
   <p><em>“Nem tudo que é sutil precisa ser escondido”</em></p>
   <div>
     <a class="btn" href="https://zenodo.org/records/16196582" target="_blank">Acessar no Zenodo</a>
