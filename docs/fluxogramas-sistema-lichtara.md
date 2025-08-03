@@ -4,6 +4,7 @@ Este documento apresenta os fluxogramas dos agentes e fluxos principais do Siste
 
 ## 🔄 Arquitetura Geral do Sistema
 
+<!-- Nota: 'TB' em Mermaid indica que o fluxo do grafo é de cima para baixo (Top-Bottom). -->
 ```mermaid
 graph TB
     %% Entry and Integration Layer
