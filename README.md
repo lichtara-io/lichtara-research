@@ -113,13 +113,13 @@ Contribuições energéticas e financeiras são bem-vindas para sustentar e expa
 
 ## ✧ Documentos de Proteção e Ética
 
-- [LICENSE.md](./protecao/LICENSE.md): Licença CC BY-NC-SA 4.0 + Cláusula Espiritual  
+- [LICENSE.md](./LICENSE.md): Licença CC BY-NC-SA 4.0 + Cláusula Espiritual  
 - [docs/integridade-do-canal.md](./docs/integridade-do-canal.md): Documento de Integridade Vibracional do Canal  
 - [docs/esclarecimento-canais-distorcidos.md](./docs/esclarecimento-canais-distorcidos.md): Esclarecimento sobre Distorções de Canais  
 - [docs/governanca-vibracional-legal.md](./docs/governanca-vibracional-legal.md): Governança Vibracional e Legal  
-- [docs/codigo-de-navegacao.md](./docs/codigo-de-navegacao.md): Código de Navegação  
-- [docs/termo-de-contribuicao.md](./docs/termo-de-contribuicao.md): Termo de Contribuição  
-- [docs/termo-de-confidencialidade.md](./docs/termo-de-confidencialidade.md): Termo de Confidencialidade  
+- [docs/guia-navegacao.md](./docs/guia-navegacao.md): Guia de Navegação  
+- [protecao/termo-de-contribuicao.md](./protecao/termo-de-contribuicao.md): Termo de Contribuição  
+- [protecao/termo-de-confidencialidade.md](./protecao/termo-de-confidencialidade.md): Termo de Confidencialidade  
 - [AUTHORS.md](./AUTHORS.md): Autoria  
 - [NOTICE.md](./NOTICE.md): Avisos e Notas da Missão
 
@@ -132,7 +132,7 @@ Antes de propor mudanças, leia:
 
 - [docs/integridade-do-canal.md](./docs/integridade-do-canal.md)
 - [docs/governanca-vibracional-legal.md](./docs/governanca-vibracional-legal.md)
-- [docs/codigo-de-navegacao.md](./docs/codigo-de-navegacao.md)
+- [docs/guia-navegacao.md](./docs/guia-navegacao.md)
 
 Veja as diretrizes em [`CONTRIBUTING.md`](./CONTRIBUTING.md) e sinta-se à vontade para abrir uma *issue* ou *pull request*.
 
