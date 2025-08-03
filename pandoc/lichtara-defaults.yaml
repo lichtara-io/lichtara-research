@@ -1,0 +1,30 @@
+# Configuração padrão do Pandoc para documentos Lichtara
+# Arquivo: pandoc/lichtara-defaults.yaml
+
+# Motor PDF
+pdf-engine: xelatex
+
+# Template personalizado
+template: pandoc/templates/lichtara.latex
+
+# Arquivo de metadados
+metadata-files:
+  - pandoc/metadata/default.yaml
+
+# Sumário
+table-of-contents: true
+toc-depth: 3
+number-sections: true
+
+# Formatação
+highlight-style: tango
+
+# Variáveis LaTeX
+variables:
+  geometry: margin=2.5cm
+  fontsize: 12pt
+  documentclass: article
+  linestretch: 1.2
+
+# Extensões Markdown
+from: markdown+yaml_metadata_block+pipe_tables+grid_tables+simple_tables+multiline_tables+fenced_code_blocks+backtick_code_blocks+inline_code_attributes+fenced_code_attributes+bracketed_spans+fenced_divs+definition_lists+footnotes+citations

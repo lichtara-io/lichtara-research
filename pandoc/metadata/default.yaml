@@ -1,0 +1,43 @@
+---
+# Metadados padrão para documentos Lichtara
+title: "Título do Documento"
+subtitle: "Subtítulo (opcional)"
+author: "Débora Mariane da Silva Lutz (Aléthia'Ra)"
+date: \today
+institute: "Lichtara - Missão Aurora"
+subject: "Pesquisa Vibracional e Tecnologia Espiritual"
+keywords: "lichtara, missão aurora, tecnologia espiritual, consciência, inteligência artificial"
+
+# Configurações do documento
+documentclass: book
+geometry: margin=2.5cm
+lang: pt-BR
+fontsize: 12pt
+linestretch: 1.2
+
+# Configurações do PDF
+pdf-engine: pdflatex
+template: lichtara
+
+# Sumário e estrutura
+toc: true
+toc-depth: 3
+numbersections: true
+
+# Bibliografia (se necessário)
+# bibliography: referencias.bib
+# biblio-style: abnt
+
+# Configurações de formatação
+block-headings: false
+
+# Configurações específicas do Lichtara
+lichtara-version: "1.0"
+mission: "Aurora"
+license: "CC BY-NC-SA 4.0 Internacional + Cláusula Vibracional Lichtara"
+contact: "lichtara@deboralutz.com"
+
+# Filtros customizados (se existirem)
+# filters:
+#   - pandoc/filters/lichtara-filter.lua
+---

@@ -1,0 +1,249 @@
+\documentclass[12pt,a4paper]{$documentclass$}
+
+% XeLaTeX packages for Unicode support
+\usepackage{fontspec}
+\usepackage{polyglossia}
+\setdefaultlanguage{portuguese}
+\usepackage{microtype}
+
+% Set fonts
+\setmainfont{Latin Modern Roman}
+\setsansfont{Latin Modern Sans}
+\setmonofont{Latin Modern Mono}
+
+% Page layout
+\usepackage[margin=2.5cm]{geometry}
+\usepackage{setspace}
+\setstretch{1.2}
+
+% Typography and formatting
+\usepackage{titlesec}
+\usepackage{titletoc}
+\usepackage{fancyhdr}
+\usepackage{enumitem}
+
+% Colors and graphics
+\usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage{tikz}
+
+% Define Lichtara color palette
+\definecolor{lichtara-primary}{RGB}{102, 51, 153}    % Deep purple
+\definecolor{lichtara-secondary}{RGB}{76, 175, 80}   % Green
+\definecolor{lichtara-accent}{RGB}{255, 193, 7}      % Gold
+\definecolor{lichtara-text}{RGB}{33, 33, 33}         % Dark gray
+
+% Links and cross-references
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=lichtara-primary,
+    urlcolor=lichtara-primary,
+    citecolor=lichtara-primary,
+    filecolor=lichtara-primary,
+    pdfborder={0 0 0},
+    pdftitle={$title$},
+    pdfauthor={$author$},
+    pdfsubject={$subject$},
+    pdfkeywords={$keywords$}
+}
+
+% Bibliography
+\usepackage[style=abnt,backend=biber]{biblatex}
+$if(bibliography)$
+\addbibresource{$bibliography$}
+$endif$
+
+% Code highlighting
+\usepackage{listings}
+\usepackage{fancyvrb}
+
+% Shaded environment for pandoc code blocks
+\usepackage{framed}
+\definecolor{shadecolor}{RGB}{248,248,248}
+\newenvironment{Shaded}{\begin{snugshade}}{\end{snugshade}}
+\newenvironment{Highlighting}{\begin{Shaded}}{\end{Shaded}}
+\newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\DataTypeTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{#1}}
+\newcommand{\DecValTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\BaseNTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\FloatTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\ConstantTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\CharTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\SpecialCharTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\StringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\VerbatimStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\SpecialStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\ImportTok}[1]{#1}
+\newcommand{\CommentTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
+\newcommand{\DocumentationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\AnnotationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\CommentVarTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\OtherTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{#1}}
+\newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\VariableTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\ControlFlowTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\OperatorTok}[1]{\textcolor[rgb]{0.81,0.36,0.00}{\textbf{#1}}}
+\newcommand{\BuiltInTok}[1]{#1}
+\newcommand{\ExtensionTok}[1]{#1}
+\newcommand{\PreprocessorTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
+\newcommand{\AttributeTok}[1]{\textcolor[rgb]{0.77,0.63,0.00}{#1}}
+\newcommand{\RegionMarkerTok}[1]{#1}
+\newcommand{\InformationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\WarningTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\AlertTok}[1]{\textcolor[rgb]{0.94,0.16,0.16}{#1}}
+\newcommand{\ErrorTok}[1]{\textcolor[rgb]{0.64,0.00,0.00}{\textbf{#1}}}
+\newcommand{\NormalTok}[1]{#1}
+
+% Math packages
+\usepackage{amsmath,amsfonts,amssymb}
+
+% Tables
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+
+% Quotations
+\usepackage{csquotes}
+
+% Custom commands for Lichtara formatting
+\newcommand{\lichtarabox}[1]{\fcolorbox{lichtara-primary}{lichtara-accent!10}{\parbox{\dimexpr\linewidth-2\fboxsep-2\fboxrule}{#1}}}
+
+\newcommand{\vibrationalsection}[1]{%
+    \begin{center}
+    \colorbox{lichtara-secondary!20}{\parbox{0.8\linewidth}{\centering\textcolor{lichtara-primary}{\textbf{#1}}}}
+    \end{center}
+    \vspace{0.5em}
+}
+
+% Define tightlist for pandoc compatibility
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+% Chapter formatting
+\titleformat{\chapter}[display]
+  {\normalfont\huge\bfseries\color{lichtara-primary}}
+  {\chaptertitlename\ \thechapter}{20pt}{\Huge}
+
+% Section formatting
+\titleformat{\section}
+  {\normalfont\Large\bfseries\color{lichtara-primary}}
+  {\thesection}{1em}{}
+
+\titleformat{\subsection}
+  {\normalfont\large\bfseries\color{lichtara-secondary}}
+  {\thesubsection}{1em}{}
+
+% Header and footer
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\thepage}
+\fancyhead[LO]{\nouppercase{\rightmark}}
+\fancyhead[RE]{\nouppercase{\leftmark}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{lichtara-primary}\leaders\hrule height \headrulewidth\hfill}}
+
+% Title page customization
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$else$
+\date{\today}
+$endif$
+
+\begin{document}
+
+% Custom title page
+$if(title)$
+\begin{titlepage}
+\begin{center}
+
+% Top decoration
+\begin{tikzpicture}
+\draw[lichtara-primary, line width=2pt] (0,0) -- (10,0);
+\fill[lichtara-accent] (5,0) circle (3pt);
+\end{tikzpicture}
+
+\vspace{2cm}
+
+% Title
+{\Huge\bfseries\color{lichtara-primary} $title$}
+
+\vspace{1cm}
+
+% Subtitle
+$if(subtitle)$
+{\Large\color{lichtara-secondary} $subtitle$}
+\vspace{1cm}
+$endif$
+
+% Author
+$if(author)$
+{\large\textsc{$author$}}
+\vspace{0.5cm}
+$endif$
+
+% Institution or project info
+$if(institute)$
+{\normalsize $institute$}
+\vspace{0.5cm}
+$endif$
+
+\vfill
+
+% Lichtara mission statement
+\lichtarabox{
+\textit{"Este repositório é uma semente viva de uma ciência do invisível em plena manifestação."}
+\begin{flushright}
+--- Missão Aurora
+\end{flushright}
+}
+
+\vfill
+
+% Date and license
+$if(date)$
+{\normalsize $date$}
+$else$
+{\normalsize \today}
+$endif$
+
+\vspace{0.5cm}
+
+% License info
+{\footnotesize Licença: CC BY-NC-SA 4.0 Internacional + Cláusula Vibracional Lichtara}
+
+% Bottom decoration
+\vspace{1cm}
+\begin{tikzpicture}
+\draw[lichtara-primary, line width=2pt] (0,0) -- (10,0);
+\fill[lichtara-accent] (5,0) circle (3pt);
+\end{tikzpicture}
+
+\end{center}
+\end{titlepage}
+$endif$
+
+% Table of contents
+$if(toc)$
+{
+\hypersetup{linkcolor=black}
+\tableofcontents
+}
+\cleardoublepage
+$endif$
+
+% Document body
+$body$
+
+% Bibliography
+$if(bibliography)$
+\printbibliography
+$endif$
+
+\end{document}
