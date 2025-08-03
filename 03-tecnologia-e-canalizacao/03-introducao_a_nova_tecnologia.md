@@ -46,15 +46,6 @@ keywords: ["tecnologia vibracional", "inteligência adaptativa", "arquitetura vi
 - **Publicação:** Pronto para Zenodo e repositórios públicos  
 - **Última atualização:** 2025-08-03
 
----
-
-## Instruções para Submissão Zenodo/GitHub
-
-1. Confirme título, versão, autores e licença.
-2. Inclua este arquivo e todos os complementares (`LICENSE.md`, `AUTHORS.md`, `NOTICE.md`, etc.) no diretório raiz do repositório.
-3. Gere o arquivo zip para upload no Zenodo.
-4. Valide os metadados: palavras-chave, descrição, DOI.
-5. Confirme a publicação e registre o link no README principal.
 
 ---
 
@@ -172,89 +163,102 @@ O desenvolvimento e implementação dessa tecnologia seguem um modelo sustentáv
 
 ## **Estratégias para a Construção da Infraestrutura**
 
-A construção da infraestrutura da nova tecnologia segue um modelo estratégico que garante escalabilidade, segurança e eficiência operacional. A abordagem estruturada permite que a tecnologia evolua de forma progressiva, integrando-se a ecossistemas existentes sem comprometer sua estabilidade.
+## Diretrizes para a Construção da Infraestrutura
 
-## **Diretrizes para a Construção da Infraestrutura**
-
-**Modularidade e Flexibilidade Estrutural** A infraestrutura é desenvolvida com uma arquitetura modular, permitindo que novos componentes sejam adicionados de forma gradual. Esse modelo evita a necessidade de reconfigurações abruptas e possibilita ajustes contínuos conforme o sistema evolui.
-
-**Distribuição Inteligente de Recursos** A tecnologia emprega um modelo distribuído para otimizar o uso de servidores, armazenamento e processamento de dados. Essa abordagem melhora a resiliência do sistema, garantindo que falhas localizadas não comprometam a operação geral.
-
-**Integração com Protocolos Padrão** A compatibilidade com protocolos amplamente utilizados assegura que a infraestrutura possa ser integrada a diferentes plataformas e sistemas. Isso reduz barreiras para adoção e expande as possibilidades de conectividade e interoperabilidade.
-
-**Segurança e Proteção Estrutural** A implementação de camadas de proteção, como criptografia avançada e autenticação robusta, assegura a integridade dos dados e a prevenção contra ameaças externas. A segurança da infraestrutura é continuamente monitorada e ajustada conforme necessário.
-
-**Automação e Gerenciamento Inteligente** Processos automatizados são incorporados para otimizar fluxos operacionais, desde a alocação de recursos até a manutenção preventiva. Isso reduz a necessidade de intervenção manual e melhora a eficiência da gestão da infraestrutura.
-
-**Monitoramento Contínuo e Resiliência** Ferramentas avançadas de monitoramento são aplicadas para analisar métricas de desempenho, identificar possíveis gargalos e prever ajustes estruturais. Esse modelo garante que o sistema opere de forma estável, mesmo diante de variações na demanda.
-
-A construção da infraestrutura segue um planejamento orientado à eficiência e sustentabilidade, garantindo que a tecnologia se desenvolva de forma estruturada, adaptável e segura. Esse modelo permite que a expansão ocorra de maneira harmônica, maximizando seu impacto e consolidando sua operação dentro de um fluxo otimizado e resiliente.
-
-## **Modelos de Testes e Validação**
-
-Os testes e validação são etapas essenciais no desenvolvimento da nova tecnologia, garantindo que sua estrutura funcione com máxima eficiência, segurança e escalabilidade. A abordagem adotada envolve ciclos contínuos de testes, desde a fase inicial de prototipagem até a implementação plena, permitindo ajustes e otimizações antes da adoção definitiva.
-
-### **Principais Modelos de Testes**
-
-**Testes de Unidade** Cada componente individual é testado separadamente para garantir que suas funcionalidades operem conforme projetado. Isso permite a identificação e correção de falhas em nível granular, sem comprometer a estrutura global.
-
-**Testes de Integração** Avalia a compatibilidade entre os diferentes módulos e sua capacidade de operar de forma harmônica. Essa etapa assegura que a comunicação entre componentes ocorra de maneira fluida e sem interferências.
-
-**Testes de Performance** Mede a eficiência do sistema sob diferentes níveis de carga, analisando tempo de resposta, consumo de recursos e estabilidade. Esse modelo de teste permite otimizar a infraestrutura para garantir máximo desempenho mesmo sob alta demanda.
-
-**Testes de Segurança** Verifica a resiliência da tecnologia contra vulnerabilidades e ameaças externas. Técnicas como análise de código seguro, simulações de ataques e testes de autenticação são aplicadas para assegurar a integridade do sistema.
-
-**Testes de Experiência do Usuário** Avalia a usabilidade e interação dos usuários com a tecnologia, garantindo que a navegação seja intuitiva e eficiente. Feedbacks coletados são utilizados para refinamento da interface e otimização dos fluxos de uso.
-
-**Testes de Stress e Recuperação** Simula cenários extremos para verificar a capacidade da tecnologia de lidar com sobrecarga e falhas inesperadas. Essa abordagem permite validar mecanismos de recuperação e garantir a continuidade operacional.
-
-## **Processo de Validação**
-
-Após a fase de testes, a tecnologia passa por um ciclo de validação estruturado, onde métricas de desempenho e segurança são analisadas para garantir conformidade com os padrões estabelecidos. Esse processo inclui:
-
-**Comparação com diretrizes de qualidade e eficiência** para assegurar que a tecnologia atenda aos requisitos funcionais.
-
-**Monitoramento contínuo** para ajustes dinâmicos, permitindo otimizações baseadas em dados reais de uso.
-
-**Feedback iterativo e refinamento contínuo**, garantindo que a evolução da tecnologia ocorra de maneira estruturada e alinhada às necessidades do ecossistema.
-
-Os modelos de testes e validação garantem que a nova tecnologia seja implementada com confiabilidade, eficiência e segurança, assegurando sua robustez e adaptabilidade ao longo do tempo.
-
-### **Fases de Lançamento e Escalabilidade**
-
-A implementação da nova tecnologia segue um plano de lançamento estruturado em fases progressivas, garantindo que cada etapa seja validada antes da ampliação para um público maior. Esse modelo reduz riscos, permite ajustes contínuos e assegura que a escalabilidade ocorra de maneira sustentável e estratégica.
+| Diretriz                            | Descrição                                                                                                                                                                |
+|--------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Modularidade e Flexibilidade Estrutural** | Arquitetura modular permite adição gradual de componentes, evitando reconfigurações abruptas e possibilitando ajustes contínuos conforme o sistema evolui.               |
+| **Distribuição Inteligente de Recursos**    | Modelo distribuído otimiza servidores, armazenamento e processamento, aumentando resiliência e garantindo continuidade operacional mesmo diante de falhas localizadas.    |
+| **Integração com Protocolos Padrão**        | Compatibilidade com protocolos amplamente utilizados facilita integração com diferentes plataformas, reduz barreiras de adoção e amplia conectividade e interoperabilidade.|
+| **Segurança e Proteção Estrutural**         | Camadas de proteção (criptografia, autenticação robusta) asseguram integridade dos dados e prevenção contra ameaças externas, com ajuste contínuo da segurança.           |
+| **Automação e Gerenciamento Inteligente**   | Processos automatizados otimizam fluxos, alocação de recursos e manutenção, reduzindo intervenção manual e aumentando eficiência da gestão da infraestrutura.             |
+| **Monitoramento Contínuo e Resiliência**    | Ferramentas avançadas de monitoramento analisam métricas, identificam gargalos e antecipam ajustes estruturais, garantindo estabilidade mesmo em variações de demanda.    |
 
 ---
 
-## **Fases de Lançamento**
+> **Resumo do Modelo Estratégico de Infraestrutura**
+>
+> - Planejamento orientado à eficiência e sustentabilidade  
+> - Evolução progressiva, integração harmônica com ecossistemas existentes  
+> - Expansão adaptável e segura  
+> - Consolidação da operação em fluxo otimizado e resiliente
 
-### **Prototipagem e Testes Iniciais**
+---
+## Modelos de Testes e Validação
 
-Nesta etapa, um ambiente controlado é utilizado para validar os principais conceitos e funcionalidades. Os testes iniciais garantem que a base estrutural esteja operando conforme o planejado antes da expansão.
+Os testes e validação são etapas essenciais no desenvolvimento da nova tecnologia, garantindo eficiência, segurança e escalabilidade. A abordagem envolve ciclos contínuos, desde prototipagem até implementação plena, permitindo ajustes e otimizações antes da adoção definitiva.
 
-### **Lançamento em Ambiente Restrito (Beta Controlado)**
+---
 
-A tecnologia é disponibilizada para um grupo seleto de usuários, permitindo o monitoramento da experiência real de uso. Esse processo permite coleta de feedback detalhado e identificação de ajustes necessários antes da liberação ampla.
+### Principais Modelos de Testes
 
-### **Adoção Progressiva e Refinamento Contínuo**
+| Modelo de Teste                  | Objetivo / Descrição                                                                                                                         |
+|----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| **Testes de Unidade**            | Testa componentes individuais de forma isolada, identificando e corrigindo falhas em nível granular para preservar a integridade global.    |
+| **Testes de Integração**         | Avalia a compatibilidade e harmonia entre módulos, assegurando comunicação fluida e ausência de interferências entre componentes.            |
+| **Testes de Performance**        | Mede eficiência sob diferentes cargas, analisando tempo de resposta, consumo de recursos e estabilidade. Permite otimizar para alta demanda. |
+| **Testes de Segurança**          | Verifica resiliência contra vulnerabilidades externas, aplicando análise de código seguro, simulações de ataque e testes de autenticação.    |
+| **Testes de Experiência do Usuário** | Avalia usabilidade e interação, garantindo navegação intuitiva e eficiente. Feedbacks refinam interface e fluxos de uso.                |
+| **Testes de Stress e Recuperação**| Simula cenários extremos para validar mecanismos de recuperação e garantir continuidade operacional diante de sobrecargas ou falhas.        |
 
-A expansão acontece de forma gradual, com o número de usuários sendo ampliado progressivamente. Esse modelo permite ajustes contínuos com base na resposta do sistema e na interação dos usuários.
+---
 
-### **Lançamento Oficial e Monitoramento Intensivo**
+### Processo de Validação
 
-Com a validação das fases anteriores, a tecnologia é oficialmente disponibilizada. Monitoramento contínuo é realizado para garantir estabilidade e otimizar fluxos operacionais.
+1. **Comparação com Diretrizes de Qualidade e Eficiência:**  
+   Assegura conformidade com requisitos funcionais e padrões estabelecidos.
 
-## **Estratégias para Escalabilidade**
+2. **Monitoramento Contínuo:**  
+   Permite ajustes dinâmicos e otimizações baseadas em dados reais de uso.
 
-**Arquitetura Modular e Flexível** O sistema é projetado para suportar crescimento progressivo, garantindo que a adição de novos usuários e funcionalidades ocorra sem comprometer a estabilidade.
+3. **Feedback Iterativo e Refinamento Contínuo:**  
+   Garante evolução estruturada e alinhada às necessidades do ecossistema.
 
-**Otimização de Recursos** Estratégias de balanceamento de carga e distribuição inteligente de processamento asseguram que a tecnologia mantenha alta performance mesmo em momentos de maior demanda.
+---
 
-**Automação e Aprimoramento Contínuo** A escalabilidade é reforçada por mecanismos de automação que ajustam dinamicamente parâmetros operacionais, otimizando fluxos sem necessidade de intervenção manual constante.
+> **Resumo:**  
+> Os modelos de testes e validação garantem que a nova tecnologia seja implementada com confiabilidade, eficiência e segurança, assegurando robustez e adaptabilidade ao longo do tempo.
 
-**Integração com Infraestruturas Existentes** A tecnologia é desenvolvida para operar em sinergia com sistemas já implementados, permitindo expansão fluida e sem necessidade de reconstrução estrutural.
+
+---
+
+## Fases de Lançamento e Escalabilidade
+
+A implementação da nova tecnologia segue um plano estruturado em fases progressivas, garantindo validação em cada etapa antes da ampliação para públicos maiores. O modelo reduz riscos, permite ajustes contínuos e assegura escalabilidade sustentável e estratégica.
+
+---
+
+| Fase                                         | Objetivo / Descrição                                                                                                                                               |
+|-----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Prototipagem e Testes Iniciais**            | Validação de conceitos e funcionalidades em ambiente controlado. Garante que a base estrutural opere conforme planejado antes da expansão.                          |
+| **Lançamento em Ambiente Restrito (Beta)**    | Disponibilização para grupo seleto de usuários, permitindo monitoramento da experiência, coleta de feedback detalhado e identificação de ajustes antes do público.  |
+| **Adoção Progressiva e Refinamento Contínuo** | Expansão gradual do número de usuários. Ajustes contínuos baseados na resposta do sistema e interação dos usuários, refinando o produto antes da liberação ampla.   |
+| **Lançamento Oficial e Monitoramento Intensivo** | Com a validação das fases anteriores, a tecnologia é oficialmente disponibilizada. Monitoramento contínuo é realizado para garantir estabilidade e otimizar fluxos operacionais. |
+
+---
+
+> **Resumo do Modelo de Escalabilidade:**  
+> - Validação progressiva  
+> - Redução de riscos  
+> - Ajustes contínuos  
+> - Expansão sustentável e estratégica
+
+---
+
+## Estratégias para Escalabilidade
+
+| Estratégia                              | Descrição                                                                                                                                    |
+|------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| **Arquitetura Modular e Flexível**       | Suporte ao crescimento progressivo, permitindo a adição de novos usuários e funcionalidades sem comprometer a estabilidade do sistema.        |
+| **Otimização de Recursos**               | Balanceamento de carga e distribuição inteligente de processamento, mantendo alta performance mesmo em picos de demanda.                      |
+| **Automação e Aprimoramento Contínuo**   | Mecanismos de automação ajustam dinamicamente parâmetros operacionais, otimizando fluxos sem necessidade de intervenção manual constante.      |
+| **Integração com Infraestruturas Existentes** | Operação em sinergia com sistemas já implementados, possibilitando expansão fluida e sem necessidade de reconstrução estrutural.              |
+
+---
 
 A adoção desse modelo de lançamento e escalabilidade assegura que a tecnologia seja implementada de maneira segura e eficiente, possibilitando seu crescimento progressivo sem comprometer sua funcionalidade ou desempenho.
+
+----
 
 # **Componentes Tecnológicos**
 
@@ -301,6 +305,8 @@ A nova tecnologia é composta por uma série de componentes essenciais que garan
 * Adaptabilidade para evolução contínua sem reconfiguração manual excessiva.
 
 A sinergia entre esses componentes garante que a tecnologia opere dentro de um fluxo otimizado e sustentável, permitindo que a inovação ocorra de maneira progressiva e sem comprometer a estabilidade estrutural.
+
+---
 
 ### **Mecanismos de Processamento e Execução**
 
