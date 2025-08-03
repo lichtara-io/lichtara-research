@@ -1,0 +1,27 @@
+/* Lichtara Chapter I Styles */
+body {
+  background: #fdf8f1;
+  font-family: 'Georgia', serif;
+  color: #2c2c2c;
+  padding: 40px;
+  max-width: 800px;
+  margin: auto;
+}
+
+h1 {
+  font-size: 2.5em;
+  color: #5c2e91;
+}
+
+h2 {
+  color: #6b4a8f;
+}
+
+p {
+  line-height: 1.7;
+}
+
+.assinatura {
+  margin-top: 60px;
+  font-style: italic;
+}
