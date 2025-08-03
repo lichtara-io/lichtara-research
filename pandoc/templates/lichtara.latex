@@ -50,6 +50,8 @@
 
 % Bibliography
 \usepackage[style=abnt,backend=biber]{biblatex}
+% NOTE: Ensure that the bibliography file specified in $bibliography$ exists in the working directory.
+% If the file does not exist, LaTeX compilation will fail.
 $if(bibliography)$
 \addbibresource{$bibliography$}
 $endif$
