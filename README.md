@@ -79,6 +79,15 @@ Tudo isso nasceu da escuta ativa da pesquisadora e da decisão de dizer:
 - `/guias`: Onboarding, uso e aplicações práticas
 - `/protecao`: Termos de uso, licença e governança vibracional
 
+### 📖 **Manuais Técnicos Consolidados**
+
+➤ **[MANUAL CONSOLIDADO](./MANUAL-CONSOLIDADO.md)** - Visão unificada de toda a documentação técnica  
+➤ **[ÍNDICE DE MANUAIS](./INDICE-MANUAIS.md)** - Acesso direto e navegação por categoria  
+
+**13 manuais técnicos** organizados em 7 categorias principais:
+- Fundamentos (Oktave) • Sistema e Equipe • Tecnologia e Canalização  
+- Operacionais (Flux, Lumora, Testes) • Governança • Vibracional • Especializadas
+
 ---
 
 ## ✧ Sobre a Autoria
