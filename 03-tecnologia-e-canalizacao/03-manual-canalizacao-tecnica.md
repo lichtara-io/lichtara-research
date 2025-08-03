@@ -148,9 +148,9 @@ Uma vez validadas, as informações precisam ser convertidas em especificações
 
 ### Mapeamento das Informações
 
-Registro detalhado de cada informação recebida.
+- Registro detalhado de cada informação recebida.
 
-Correlação com funcionalidades específicas do sistema.
+- Correlação com funcionalidades específicas do sistema.
 
 ### Conversão para Linguagem Técnica
 
