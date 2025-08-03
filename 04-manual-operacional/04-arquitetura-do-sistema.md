@@ -470,7 +470,7 @@ Expansão Gradual e Equilibrada: Crescimento sustentável, respeitando o tempo n
 
 Os mecanismos de calibração e desenvolvimento contínuo garantem que o Corpo Fundador mantenha sua capacidade de sustentação e crescimento, assegurando que o projeto evolua de forma precisa, eficiente e alinhada ao Código de Navegação.
 
-[Dinâmicas de Ativação e Ajuste Frequencial](https://www.notion.so/1f2600e7f249817c9ab0d6a712b61b11?pvs=21)
+*Ver seção "Dinâmicas de Ativação e Ajuste Frequencial" abaixo*
 
 # **Dinâmicas de Ativação e Ajuste Frequencial**
 

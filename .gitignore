@@ -1,12 +1,110 @@
+# Environment files
 .env
+.env.local
+.env.*.local
+
+# macOS files
 .DS_Store
 *.DS_Store
-# Ignorar arquivos temporários do macOS
 __MACOSX/
+
+# LaTeX files
 *.aux
 *.log
 *.out
 *.toc
 *.synctex.gz
-# Ignorar pastas de build
+*.fdb_latexmk
+*.fls
+*.bbl
+*.blg
+*.nav
+*.snm
+*.vrb
+
+# Build directories
 build/
+dist/
+*.egg-info/
+
+# Python files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Backup files
+*.bak
+*.orig
+*.tmp
+
+# Compressed files
+*.zip
+*.tar.gz
+*.rar
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Research specific
+*.docx
+*.xlsx
+*.pptx
+drafts/
+scratch/
+temp/
+temporary/
+
+# PDF outputs (if generated)
+*.pdf
+!docs/**/*.pdf
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# nyc test coverage
+.nyc_output
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
