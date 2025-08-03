@@ -104,7 +104,6 @@ class CitationValidator:
             'Professor Hélio',
             'Hélio Couto',
             'professor Hélio Couto',  # lowercase p acceptable in some contexts
-            'professor hélio',
             'hélio couto'
         ]
         return text in acceptable_variations
