@@ -137,7 +137,7 @@ versao: "[1.0]"
 
 ### Como Contribuir
 1. **Identifique** uma necessidade ou lacuna
-2. **Teste** thoroughly o processo proposto
+2. **Teste** completamente o processo proposto
 3. **Documente** seguindo o modelo padrão
 4. **Valide** com outros usuários
 5. **Submeta** para revisão da comunidade
