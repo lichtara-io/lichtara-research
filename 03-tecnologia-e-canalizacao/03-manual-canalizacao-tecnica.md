@@ -350,41 +350,41 @@ Estratégias para evitar distorções informacionais incluem o uso de geometrias
 
 #### Evitar Influências Externas Não Alinhadas
 
-Nenhuma informação canalizada deve ser implementada sem processo de validação.
+- Nenhuma informação canalizada deve ser implementada sem processo de validação.
 
-A energia do emissor deve estar estabilizada para minimizar distorções interpretativas.
+- A energia do emissor deve estar estabilizada para minimizar distorções interpretativas.
 
 #### Ancoragem no Terceiro Campo
 
-o elemento Lichtara atua como filtro energético, organizando e estabilizando as informações.
+- O elemento Lichtara atua como filtro energético, organizando e estabilizando as informações.
 
-Apenas conteúdos altamente coerentes e funcionais permanecem integrados ao sistema.
+- Apenas conteúdos altamente coerentes e funcionais permanecem integrados ao sistema.
 
 ### Aplicação nos Sistemas do Projeto
 
 #### Flux (Software)
 
-Ajustes no código e algoritmos com base nas novas informações validadas.
+- Ajustes no código e algoritmos com base nas novas informações validadas.
 
-Implementação de novos módulos de acordo com as diretrizes estabelecidas.
+- Implementação de novos módulos de acordo com as diretrizes estabelecidas.
 
 #### Lumora (Portal de Conhecimento)
 
-Organização e disponibilização gradual de conhecimento canalizado.
+- Organização e disponibilização gradual de conhecimento canalizado.
 
-Diferenciação entre informações públicas e de acesso avançado.
+- Diferenciação entre informações públicas e de acesso avançado.
 
 #### Syntaris (Mecanismo de Ativação)
 
-Sincronização vibracional das novas informações com os campos ativos do sistema.
+- Sincronização vibracional das novas informações com os campos ativos do sistema.
 
-Testes de biofeedback para aferição da eficácia vibracional.
+- Testes de biofeedback para aferição da eficácia vibracional.
 
 #### O elemento Lichtara e Navros (Sustentação Vibracional)
 
-Ajustes sutis na frequência do campo para manter estabilidade.
+- Ajustes sutis na frequência do campo para manter estabilidade.
 
-Controle de expansão progressiva conforme novas informações forem absorvidas.
+- Controle de expansão progressiva conforme novas informações forem absorvidas.
 
 ---
 
@@ -405,32 +405,32 @@ flowchart TD
     E --> F[Monitoramento e Ajustes]
 ```
 
-- **Captação da Informação:**  
+**Captação da Informação:**  
   - Canais intuitivos, experimentais e técnicos  
   - Registro autêntico: escrito, visual, modelagem, prática
 
-- **Classificação e Análise:**  
+**Classificação e Análise:**  
   - Conceitos estruturais  
   - Mecanismos funcionais  
   - Diretrizes operacionais  
   - Interação e usabilidade
 
-- **Conversão para Especificações Técnicas:**  
+**Conversão para Especificações Técnicas:**  
   - Requisitos funcionais  
   - Regras de operação  
   - Estrutura de implementação
 
-- **Validação e Ajustes:**  
+**Validação e Ajustes:**  
   - Coerência com o conceito original  
   - Viabilidade técnica  
   - Integração harmônica  
   - Testes preliminares e feedbacks
 
-- **Implementação no Sistema:**  
+**Implementação no Sistema:**  
   - Aplicação das diretrizes nos códigos, interfaces e funcionalidades  
   - Alinhamento entre equipe técnica e vibracional
 
-- **Monitoramento e Ajustes:**  
+**Monitoramento e Ajustes:**  
   - Análise de performance  
   - Correção de desalinhamentos antes de novas fases
 
@@ -469,15 +469,15 @@ flowchart LR
 
 #### Processos de Desenvolvimento Baseados em Alinhamento Vibracional
 
-Estabelecer ciclos de desenvolvimento que sigam direções recebidas do campo, garantindo que cada funcionalidade implementada esteja alinhada com o fluxo do projeto.
+- Estabelecer ciclos de desenvolvimento que sigam direções recebidas do campo, garantindo que cada funcionalidade implementada esteja alinhada com o fluxo do projeto.
 
-Criar checkpoints para revisão e ajuste das informações incorporadas.
+- Criar checkpoints para revisão e ajuste das informações incorporadas.
 
 #### Ferramentas e Protocolos para Monitoramento
 
-Sistemas de análise vibracional podem ser incorporados para medir a coerência das implementações realizadas.
+- Sistemas de análise vibracional podem ser incorporados para medir a coerência das implementações realizadas.
 
-Criação de dashboards interativos para acompanhamento das direções recebidas e sua correspondência com o que está sendo desenvolvido.
+- Criação de dashboards interativos para acompanhamento das direções recebidas e sua correspondência com o que está sendo desenvolvido.
 
 ### Conclusão
 
