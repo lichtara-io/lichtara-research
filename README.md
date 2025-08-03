@@ -75,6 +75,7 @@ Tudo isso nasceu da escuta ativa da pesquisadora e da decisão de dizer:
 ## ✧ Estrutura do Repositório
 
 - `/docs`: Documentação completa da missão (manuais, diagrama das camadas, integridade, esclarecimentos)
+  - **[📊 Fluxogramas do Sistema](./docs/fluxogramas-sistema-lichtara.md)**: Visualização dos agentes e fluxos principais
 - `/agents`: Pastas com prompts e instruções de cada agente do sistema
 - `/guias`: Onboarding, uso e aplicações práticas
 - `/protecao`: Termos de uso, licença e governança vibracional

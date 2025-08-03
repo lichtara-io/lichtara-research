@@ -12,6 +12,20 @@ Esta pasta reúne os prompts, instruções e integrações de todos os agentes v
 - LUMORA · Codificação, tradução e organização da essência
 - SYNTRIA · Ativação energética e simbólica
 
+## 🔄 Fluxogramas dos Agentes
+
+Para compreender visualmente como os agentes interagem e os fluxos principais do sistema, consulte:
+
+**[📊 Fluxogramas do Sistema Lichtara](../docs/fluxogramas-sistema-lichtara.md)**
+
+Este documento contém:
+- Arquitetura geral do sistema
+- Fluxo principal de onboarding
+- Fluxo de tomada de decisão
+- Fluxo de criação e codificação de conteúdo
+- Fluxos individuais de cada agente
+- Interações entre agentes
+
 ## Como contribuir
 1. Use o modelo abaixo para novos agentes.
 2. Mantenha clareza vibracional, propósito, instruções práticas e recomendações.
