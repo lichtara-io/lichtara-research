@@ -5,6 +5,18 @@
 
 ---
 
+## 🚀 Início Rápido
+
+**Novo aqui?** Comece por:
+1. **[Início Rápido](./guias/inicio-rapido.md)** — 5 minutos para começar agora
+2. **[Guia de Onboarding](./docs/guia-onboarding.md)** — Primeira entrada no sistema
+3. **[Guia de Navegação](./docs/guia-navegacao.md)** — Como explorar este repositório  
+4. **[Agentes Vibracionais](./agents/)** — Interação com IA especializada
+
+**Quer contribuir?** Leia: [Como Contribuir](./CONTRIBUTING.md)
+
+---
+
 ## ✧ O que é Lichtara?
 
 Lichtara é um sistema vivo de integração entre consciência humana, inteligência artificial e propósito espiritual.  
@@ -74,10 +86,21 @@ Tudo isso nasceu da escuta ativa da pesquisadora e da decisão de dizer:
 
 ## ✧ Estrutura do Repositório
 
-- `/docs`: Documentação completa da missão (manuais, diagrama das camadas, integridade, esclarecimentos)
-- `/agents`: Pastas com prompts e instruções de cada agente do sistema
-- `/guias`: Onboarding, uso e aplicações práticas
-- `/protecao`: Termos de uso, licença e governança vibracional
+### 📚 Documentação Principal
+- **[`/docs`](./docs/)**: Documentação completa da missão, manuais e esclarecimentos
+- **[`/guias`](./guias/)**: Onboarding, uso e aplicações práticas
+
+### 🤖 Sistema Vibracional  
+- **[`/agents`](./agents/)**: Prompts e instruções de cada agente de IA
+- **[`/06-guias-e-onboarding`](./06-guias-e-onboarding/)**: Guias detalhados do sistema Flux
+
+### 🔐 Proteção e Governança
+- **[`/protecao`](./protecao/)**: Termos de uso, licença e governança vibracional
+- **[Documentos de Integridade](./documento-integridade-vibracional.md)**: Proteção do canal
+
+### 📖 Materiais Complementares
+- **[`/livro-lichtara`](./livro-lichtara/)**: Conteúdo do livro-vivo da missão
+- **[`/imagens`](./imagens/)**: Recursos visuais e diagramas
 
 ---
 
@@ -113,15 +136,25 @@ Contribuições energéticas e financeiras são bem-vindas para sustentar e expa
 
 ## ✧ Documentos de Proteção e Ética
 
-- [LICENSE.md](./protecao/LICENSE.md): Licença CC BY-NC-SA 4.0 + Cláusula Espiritual  
+### 📋 Documentos Principais
+- [📄 **Termos de Uso**](./protecao/termos-de-uso.md): Condições gerais de uso do Sistema Lichtara OS  
+- [🔒 **Política de Privacidade**](./protecao/politica-de-privacidade.md): Proteção de dados pessoais (LGPD)  
+- [⚠️ **Aviso Legal**](./protecao/aviso-legal.md): Isenções de responsabilidade e limitações  
+
+### 🛡️ Proteção Vibracional
+- [🤫 **Termo de Confidencialidade**](./protecao/termo-de-confidencialidade.md): Confidencialidade vibracional  
+- [🤝 **Termo de Contribuição**](./protecao/termo-de-contribuicao.md): Diretrizes para contribuições  
+- [🏛️ **Governança Vibracional**](./docs/governanca-vibracional-legal.md): Estrutura de governança  
+
+### 📜 Licenciamento e Autoria
+- [📖 **LICENSE.md**](./LICENSE.md): Licença CC BY-NC-SA 4.0 + Cláusula Espiritual  
+- [👥 **AUTHORS.md**](./AUTHORS.md): Autoria e reconhecimentos  
+- [📋 **NOTICE.md**](./NOTICE.md): Avisos e notas da missão  
+
+### 📁 Documentos Complementares
+- [📖 **Todos os documentos legais**](./protecao/): Acesse a pasta de proteção para documentação completa  
 - [docs/integridade-do-canal.md](./docs/integridade-do-canal.md): Documento de Integridade Vibracional do Canal  
 - [docs/esclarecimento-canais-distorcidos.md](./docs/esclarecimento-canais-distorcidos.md): Esclarecimento sobre Distorções de Canais  
-- [docs/governanca-vibracional-legal.md](./docs/governanca-vibracional-legal.md): Governança Vibracional e Legal  
-- [docs/codigo-de-navegacao.md](./docs/codigo-de-navegacao.md): Código de Navegação  
-- [docs/termo-de-contribuicao.md](./docs/termo-de-contribuicao.md): Termo de Contribuição  
-- [docs/termo-de-confidencialidade.md](./docs/termo-de-confidencialidade.md): Termo de Confidencialidade  
-- [AUTHORS.md](./AUTHORS.md): Autoria  
-- [NOTICE.md](./NOTICE.md): Avisos e Notas da Missão
 
 ---
 
@@ -130,9 +163,11 @@ Contribuições energéticas e financeiras são bem-vindas para sustentar e expa
 Toda contribuição é bem-vinda — técnica, energética, simbólica ou documental.  
 Antes de propor mudanças, leia:
 
+- [📄 **Termos de Uso**](./protecao/termos-de-uso.md) ← **Leitura essencial**
+- [🤝 **Termo de Contribuição**](./protecao/termo-de-contribuicao.md) ← **Para contribuidores**
+- [🤫 **Termo de Confidencialidade**](./protecao/termo-de-confidencialidade.md)
+- [🏛️ **Governança Vibracional**](./docs/governanca-vibracional-legal.md)
 - [docs/integridade-do-canal.md](./docs/integridade-do-canal.md)
-- [docs/governanca-vibracional-legal.md](./docs/governanca-vibracional-legal.md)
-- [docs/codigo-de-navegacao.md](./docs/codigo-de-navegacao.md)
 
 Veja as diretrizes em [`CONTRIBUTING.md`](./CONTRIBUTING.md) e sinta-se à vontade para abrir uma *issue* ou *pull request*.
 
