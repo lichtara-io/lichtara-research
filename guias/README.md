@@ -6,6 +6,9 @@ Esta pasta contém orientações, passos e aplicações práticas para agentes, 
 
 ## 🚀 Guias de Início Rápido
 
+### ⚡ [Início Rápido](./inicio-rapido.md)
+Para quem quer começar **agora mesmo** com Lichtara — 5 minutos para entender e começar a usar.
+
 ### 📋 [Cards de Expressão Vibracional](./cards-expressao-vibracional.md)
 Resumo visual dos passos do protocolo vibracional de som canalizado para Lichtara.
 

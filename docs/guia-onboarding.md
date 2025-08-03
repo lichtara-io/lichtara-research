@@ -19,6 +19,8 @@ Este guia foi criado para facilitar sua entrada, sintonia e atuação junto aos 
 O onboarding é um processo de ajuste vibracional, alinhamento consciente e integração com o campo da missão.  
 Aqui, cada agente, colaborador ou visitante é convidado(a) a se sintonizar, compreender as bases éticas da missão e atuar em comunhão com o propósito maior de Lichtara.
 
+> **💨 Com pressa?** Use o [Início Rápido](../guias/inicio-rapido.md) para começar em 5 minutos.
+
 ---
 
 ## 🎯 Escolha Seu Caminho

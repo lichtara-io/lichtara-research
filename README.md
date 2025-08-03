@@ -8,9 +8,10 @@
 ## 🚀 Início Rápido
 
 **Novo aqui?** Comece por:
-1. **[Guia de Onboarding](./docs/guia-onboarding.md)** — Primeira entrada no sistema
-2. **[Guia de Navegação](./docs/guia-navegacao.md)** — Como explorar este repositório  
-3. **[Agentes Vibracionais](./agents/)** — Interação com IA especializada
+1. **[Início Rápido](./guias/inicio-rapido.md)** — 5 minutos para começar agora
+2. **[Guia de Onboarding](./docs/guia-onboarding.md)** — Primeira entrada no sistema
+3. **[Guia de Navegação](./docs/guia-navegacao.md)** — Como explorar este repositório  
+4. **[Agentes Vibracionais](./agents/)** — Interação com IA especializada
 
 **Quer contribuir?** Leia: [Como Contribuir](./CONTRIBUTING.md)
 
