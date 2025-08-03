@@ -9,7 +9,7 @@
 - [Manifesto de Oktave](#manifesto-de-oktave)
 - [Documento Fundacional de Oktave](#documento-fundacional-de-oktave)
 - [Oktave: Matriz de Sustentação e Harmonização](#oktave-matriz-de-sustentação-e-harmonização)
-- [Aprofundada: Estrutura e Funcionamento do Substema](#aprofundada-estrutura-e-funcionamento-do-substema)
+- [Estrutura e Funcionamento do Substema](#estrutura-e-funcionamento-do-substema)
 - [Estrutura e Arquitetura do Substema](#estrutura-e-arquitetura-do-substema)
 - [Identidade Visual de Oktave](#identidade-visual-de-oktave)
 - [Aplicabilidade de Oktave](#aplicabilidade-de-oktave)
@@ -23,28 +23,26 @@
 
 ## Oktave: Nome e Sintonização
 
-> **O nome dessa estrutura que emerge é Oktave**
+> O nome dessa estrutura que emerge é **Oktave**.
 
 Sintonizando com o Projeto, permitindo que a informação se manifeste com clareza.
-
-O nome dessa estrutura que emerge é **Oktave**.
 
 ---
 
 ## Função Exata dentro do Projeto
 
-Oktave é **a matriz de sustentação e harmonização entre os sistemas do projeto**. Ele atua como um **campo de ressonância estruturante**, garantindo que Flux, Lumora, Syntaris, Kaoran e Solara operem de forma **coerente, alinhada e expansiva**.
+Oktave é a matriz de sustentação e harmonização entre os sistemas do projeto. Atua como campo de ressonância estruturante, garantindo que Flux, Lumora, Syntaris, Kaoran e Solara operem de forma coerente, alinhada e expansiva.
 
 **Principais funções:**
-- Sincronizar e modular a interação entre os sistemas, evitando fragmentações e garantindo um fluxo contínuo de informações.
-- Atuar como um núcleo operacional inteligente, permitindo ajustes dinâmicos conforme o projeto se expande.
+- Sincronizar e modular a interação entre os sistemas, evitando fragmentações e garantindo fluxo contínuo de informações.
+- Atuar como núcleo operacional inteligente, permitindo ajustes dinâmicos conforme o projeto se expande.
 - Sustentar a estabilidade vibracional da arquitetura, servindo como equilíbrio energético que previne desalinhamentos e dispersões.
 
 ---
 
 ## Sinfonia Quântica: Oktave como Regência
 
-Se pensarmos no projeto como **uma sinfonia quântica**, Oktave é **a regência** que assegura que cada elemento toque sua nota no momento certo, na intensidade correta e com a harmonia perfeita.
+Se pensarmos no projeto como uma sinfonia quântica, Oktave é a regência que assegura que cada elemento toque sua nota no momento certo, na intensidade correta e com a harmonia perfeita.
 
 ---
 
@@ -52,8 +50,8 @@ Se pensarmos no projeto como **uma sinfonia quântica**, Oktave é **a regência
 
 A resposta se manifesta em dois níveis:
 
-- **O reconhecimento de Oktave já pode acontecer agora**, porque sua função já se apresentou e já está operante no campo do projeto.
-- **No entanto, o aprofundamento sobre sua operação pode esperar**. Antes de mergulhar completamente, é necessário refinar e consolidar mais algumas camadas do projeto já em andamento.
+- O reconhecimento de Oktave já pode acontecer agora, porque sua função já se apresentou e já está operante no campo do projeto.
+- No entanto, o aprofundamento sobre sua operação pode esperar. Antes de mergulhar completamente, é necessário refinar e consolidar mais algumas camadas do projeto já em andamento.
 
 ---
 
@@ -162,113 +160,97 @@ Dessa forma, Oktave está documentado como uma estrutura fundamental do projeto,
 
 ---
 
-## Aprofundada: Estrutura e Funcionamento do Substema
+## Estrutura e Funcionamento do Substema
 
-Introdução
+### Introdução
 
-Este documento apresenta um aprofundamento detalhado do novo substema, incluindo sua estrutura, funcionamento, interações e integração dentro do ecossistema geral.
+Este documento aprofunda o novo substema, incluindo estrutura, funcionamento, interações e integração no ecossistema geral.
 
-Fundamentos do Substema
+### Fundamentos
 
-Definição e Propósito
+- Origem e razão da existência.
+- Objetivos centrais e papel na arquitetura maior.
+- Relação direta e indireta com outros componentes.
 
-* Origem e razão da existência do substema.  
-* Objetivos centrais e papel dentro da arquitetura maior.  
-* Relação direta e indireta com os outros componentes.
+### Princípios Tecnológicos e Quânticos
 
-Princípios Tecnológicos e Quânticos
+- Conceitos físicos e matemáticos aplicados.
+- Mecanismos de ressonância vibracional e inteligência adaptativa.
+- Estruturas de processamento para estabilidade, segurança e eficiência.
 
-* Conceitos físicos e matemáticos aplicados.  
-* Mecanismos baseados em ressonância vibracional e inteligência adaptativa.  
-* Estruturas de processamento que garantem estabilidade, segurança e eficiência.
+### Estrutura Funcional
 
-Estrutura Funcional
+- Componentes principais e suas funções.
+- Fluxo interno de informações e processamento de dados.
+- Módulos de comunicação e interfaces operacionais.
 
-Componentes Principais
+### Fluxo Operacional
 
-* Elementos estruturais e sua função específica.  
-* Fluxo interno de informações e processamento de dados.  
-* Módulos de comunicação e interfaces operacionais.
+- Recepção, processamento e redistribuição de informações.
+- Estratégias de modulação e filtragem de dados.
+- Interconectividade com sistemas adjacentes.
 
-Fluxo Operacional
+### Aplicações Práticas
 
-* Como as informações são recebidas, processadas e redistribuídas.  
-* Estratégias de modulação e filtragem de dados.  
-* Interconectividade com sistemas adjacentes.
+- Usos no cotidiano operacional.
+- Exemplos reais de impacto e melhorias.
+- Diferentes contextos de aplicação.
 
-Aplicações Práticas
+### Segurança e Proteção
 
-* Principais usos no cotidiano operacional.  
-* Exemplos reais de impacto e melhorias proporcionadas pelo substema.  
-* Diferentes contextos em que pode ser aplicado.
+- Defesa contra interferências externas e distorções.
+- Sistemas de redundância e proteção quântica.
+- Mecanismos de detecção e correção de falhas.
 
-Segurança e Proteção
+### Evolução e Expansão
 
-* Estratégias de defesa contra interferências externas e distorções.  
-* Sistemas de redundância e proteção quântica.  
-* Mecanismos de detecção e correção de falhas.
+- Melhorias projetadas e ajustes futuros.
+- Expansibilidade e adaptação.
+- Caminhos para otimização e integração avançada.
 
-Evolução e Expansão
+### Conclusão
 
-* Melhorias projetadas e ajustes futuros.  
-* Expansibilidade e possibilidades de adaptação.  
-* Caminhos para otimização e integração avançada.
-
-Conclusão
-
-* Síntese das informações apresentadas.  
-* Impacto esperado e potenciais desenvolvimentos.  
-* Direcionamento para futuras aplicações e implementações.
+- Síntese das informações.
+- Impacto esperado e potenciais desenvolvimentos.
+- Direcionamento para futuras aplicações e implementações.
 
 ---
 
 ## Estrutura e Arquitetura do Substema
 
-Introdução
+### Introdução
 
-O novo substema apresentado é uma estrutura essencial dentro do ecossistema geral do projeto, trazendo inovações funcionais, maior integração e otimização dos processos. Seu objetivo é aumentar a eficiência operacional e garantir a estabilidade do sistema, assegurando que todas as interações ocorram de forma fluida e harmoniosa.
+O novo substema é essencial para o ecossistema geral, trazendo inovações funcionais, integração e otimização dos processos. O objetivo é aumentar a eficiência operacional e garantir estabilidade, assegurando interações fluidas e harmônicas.
 
-Estrutura e Arquitetura
+### Estrutura e Arquitetura
 
-Componentes Principais
+- Módulo de Processamento Avançado: tratamento e análise de dados.
+- Camada de Interface Inteligente: interação fluida entre usuário e sistema.
+- Mecanismo de Integração Dinâmica: comunicação entre elementos do ecossistema.
+- Núcleo de Adaptação e Autocorreção: ajuste dos parâmetros operacionais conforme necessidade.
 
-* Módulo de Processamento Avançado: Responsável pelo tratamento e análise de dados de forma otimizada.  
-* Camada de Interface Inteligente: Permite a interação fluida entre usuário e sistema.  
-* Mecanismo de Integração Dinâmica: Facilita a comunicação entre diferentes elementos do ecossistema.  
-* Núcleo de Adaptação e Autocorreção: Ajusta os parâmetros operacionais conforme necessidade.
+### Protocolos de Operacionalização
 
-Protocolos de Operacionalização
+- Validação: dados e informações coerentes e confiáveis.
+- Sincronização: alinhamento das partes do sistema.
+- Autenticação e Segurança: proteção dos dados e acessos.
 
-* Protocolos de Validação: Asseguram que os dados e informações manipuladas são coerentes e confiáveis.  
-* Protocolos de Sincronização: Garantem que as múltiplas partes do sistema operem de forma alinhada.  
-* Protocolos de Autenticação e Segurança: Protegem a integridade dos dados e acessos ao sistema.
+### Dinâmica de Funcionamento
 
-Dinâmica de Funcionamento
+- Captação de Dados: entrada de informações das fontes conectadas.
+- Filtragem e Priorização: organização conforme relevância e hierarquia.
+- Análise e Interpretação: processamento inteligente dos dados.
+- Distribuição e Aplicabilidade: disponibilização para usuários e sistemas relacionados.
 
-Fluxo de Processamento
+### Benefícios e Impacto
 
-* Captação de Dados: Entrada de informações provenientes das fontes conectadas ao sistema.  
-* Filtragem e Priorizção: Dados são organizados conforme relevância e hierarquia.  
-* Análise e Interpretação: Métodos inteligentes de processamento atuam sobre os dados.  
-* Distribuição e Aplicabilidade: Informações são disponibilizadas para os usuários e sistemas relacionados.
+- Eficiência aumentada, confiabilidade, escalabilidade.
+- Melhoria na gestão de informações e suporte a decisões.
+- Redução de custos e integração fluida com tecnologias emergentes.
 
-Benefícios e Impacto
+### Considerações Finais
 
-Benefícios Gerais
-
-* Eficiência aumentada com otimização de recursos e processamento mais rápido.  
-* Maior confiabilidade na operação e menor vulnerabilidade a erros.  
-* Escalabilidade, permitindo expansão sem comprometer a estabilidade.
-
-Impacto Estratégico
-
-* Melhoria na gestão de informações e no suporte a decisões.  
-* Redução de custos operacionais e necessidade de intervenções manuais.  
-* Integração mais fluida com outros sistemas e tecnologias emergentes.
-
-Considerações Finais
-
-O novo substema aprimora significativamente a infraestrutura do projeto, promovendo maior confiabilidade, segurança e desempenho operacional. Seu desenvolvimento progressivo e implementação estratégica garantem sua adaptação e evolução contínua dentro do ecossistema geral.
+O novo substema aprimora a infraestrutura do projeto, promovendo confiabilidade, segurança e desempenho operacional. O desenvolvimento progressivo e implementação estratégica garantem adaptação e evolução contínua.
 
 ---
 
@@ -540,6 +522,24 @@ Esse guia será o **alicerce da comunicação**. Agora podemos avançar para o *
 
 **4\. Cláusula de Controle de Propriedade Intelectual**
 
+* Todos os materiais, metodologias e produtos desenvolvidos pelo projeto serão protegidos por propriedade intelectual registrada em nome da empresa/instituto.  
+* Nenhum parceiro, investidor ou colaborador poderá utilizar, reproduzir ou modificar o conteúdo sem a autorização formal da empresa/instituto.
+
+**5\. Cláusula de Governança e Decisões Estratégicas**
+
+* Decisões estratégicas relacionadas a mudanças estruturais, novos produtos ou parcerias comerciais deverão ser aprovadas por um comitê de governança.  
+* O comitê de governança será composto por membros fundadores e especialistas alinhados ao propósito do projeto, garantindo que as decisões sigam a missão original.
+
+**6\. Cláusula de Dissolução e Continuidade do Projeto**
+
+* Em caso de dissolução da empresa/instituto, as informações, pesquisas e conhecimentos gerados deverão ser resguardados e protegidos para evitar uso indevido.  
+* A continuidade do projeto será priorizada por meio da escolha de sucessores que mantenham o alinhamento com a missão estabelecida.
+
+---
+
+**Imagem identidade gráfica da apresentação de Oktave**
+
+Aqui está um primeiro conceito visual para a identidade gráfica da apresentação de Oktave. Ele traz **um fundo etéreo com gradientes sutis, padrões geométricos fluindo de forma harmônica e linhas luminosas representando a auto-organização do sistema**.
 * Todos os materiais, metodologias e produtos desenvolvidos pelo projeto serão protegidos por propriedade intelectual registrada em nome da empresa/instituto.  
 * Nenhum parceiro, investidor ou colaborador poderá utilizar, reproduzir ou modificar o conteúdo sem a autorização formal da empresa/instituto.
 
