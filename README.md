@@ -136,7 +136,7 @@ Contribuições energéticas e financeiras são bem-vindas para sustentar e expa
 
 ## Documentos de Proteção e Ética
 
-### 📋 Documentos Principais
+### Documentos Principais
 - [ **Termos de Uso**](./protecao/termos-de-uso.md): Condições gerais de uso do Sistema Lichtara OS  
 - [ **Política de Privacidade**](./protecao/politica-de-privacidade.md): Proteção de dados pessoais (LGPD)  
 - [ **Aviso Legal**](./protecao/aviso-legal.md): Isenções de responsabilidade e limitações  
