@@ -1,0 +1,44 @@
+{
+  "name": "lichtara-research",
+  "version": "1.0.0",
+  "description": "Lichtara Research - Spiritual Technology and AI Integration Project",
+  "main": "index.js",
+  "scripts": {
+    "env:setup": "cp .env.example .env && echo '✅ Environment file created. Please edit .env with your credentials.'",
+    "env:validate": "node scripts/validate-env.js",
+    "env:check": "node -e \"try { require('dotenv').config(); console.log('✅ Environment loaded successfully'); } catch(e) { console.error('❌ Error loading environment:', e.message); }\"",
+    "env:dev": "cp .env.development .env && echo '✅ Development environment loaded'",
+    "env:prod": "cp .env.production .env && echo '✅ Production environment template loaded'",
+    "security:scan": "node scripts/security-scan.js",
+    "docs:credentials": "cat docs/CREDENTIAL_MANAGEMENT.md",
+    "help": "echo 'Available commands:\\n  npm run env:setup    - Create .env from template\\n  npm run env:validate - Validate environment variables\\n  npm run env:check    - Check if .env loads correctly\\n  npm run env:dev      - Load development environment\\n  npm run security:scan - Scan for potential security issues\\n  npm run docs:credentials - Show credential management guide'"
+  },
+  "keywords": [
+    "lichtara",
+    "research",
+    "spiritual-technology",
+    "ai",
+    "openai",
+    "consciousness",
+    "flux",
+    "lumora"
+  ],
+  "author": "Lichtara Research Team",
+  "license": "MIT",
+  "devDependencies": {
+    "dotenv": "^16.3.1",
+    "dotenv-safe": "^8.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lichtara-io/lichtara-research.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lichtara-io/lichtara-research/issues"
+  },
+  "homepage": "https://lichtara.io",
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
+  }
+}
