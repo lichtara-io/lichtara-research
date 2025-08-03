@@ -1,0 +1,38 @@
+# Git attributes for better handling of large files and optimized repository performance
+
+# Binary files - prevent text processing
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary
+*.zip binary
+*.tar.gz binary
+
+# Large images - mark for potential LFS tracking
+*.png filter=lfs diff=lfs merge=lfs -text
+imagens/** filter=lfs diff=lfs merge=lfs -text
+
+# Cache and temporary files - do not track
+.pdf_cache/** export-ignore
+*.temp export-ignore
+*.log export-ignore
+**/.DS_Store export-ignore
+
+# Line ending normalization for text files
+*.md text eol=lf
+*.txt text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.js text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.sh text eol=lf
+*.py text eol=lf
+
+# Performance optimizations
+*.md linguist-language=Markdown
+*.py linguist-language=Python
+docs/** linguist-documentation
+imagens/** linguist-vendored

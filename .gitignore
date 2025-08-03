@@ -10,3 +10,18 @@ __MACOSX/
 *.synctex.gz
 # Ignorar pastas de build
 build/
+
+# Performance optimization cache files
+.pdf_cache/
+*.temp
+convert_pdf.log
+optimize_images.log
+
+# Image optimization backups
+*.png.bak
+*.jpg.bak
+*.jpeg.bak
+
+# Temporary files
+*.tmp
+*.temp
