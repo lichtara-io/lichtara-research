@@ -16,7 +16,7 @@ fontsize: 12pt
 linestretch: 1.2
 
 # Configurações do PDF
-pdf-engine: pdflatex
+pdf-engine: xelatex
 template: lichtara
 
 # Sumário e estrutura
