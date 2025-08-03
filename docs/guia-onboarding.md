@@ -20,6 +20,7 @@ Este guia foi criado para facilitar sua entrada, sintonia e atuação junto aos 
 - [4. RESPEITE O CAMPO](#4-respeite-o-campo)
 - [5. RECURSOS AVANÇADOS](#5-recursos-avançados)
 - [6. DÚVIDAS, SINAIS OU PEDIDOS?](#6-dúvidas-sinais-ou-pedidos)
+- [Lista de Verificação de Onboarding](#-lista-de-verificação-de-onboarding)
 
 ---
 
@@ -120,9 +121,11 @@ Contribua apenas se sentir o chamado, com ética, respeito e presença.
 Para usuários que desejam aprofundar sua experiência:
 
 ### 📚 Documentação Técnica
+- **Guia de Navegação Geral**: [Visão completa do projeto](./guia-navegacao.md)
 - **Sistema Flux**: Consulte o [Manual Completo do Sistema Flux](../06-guias-e-onboarding/06-flux-guias-sistema.md) para funcionalidades avançadas
 - **Conceitos Centrais**: Explore [`/01-conceito-central`](../01-conceito-central/) para fundamentação teórica
 - **Sistema Vibracional**: Consulte [`/07-sistema-vibracional`](../07-sistema-vibracional/) para práticas técnicas
+- **Livro-Vivo**: Leia a narrativa completa em [`/livro-lichtara`](../livro-lichtara/)
 
 ### 🔧 Para Desenvolvedores e Contribuidores
 - Leia o [CONTRIBUTING.md](../CONTRIBUTING.md) completo
@@ -177,6 +180,39 @@ R: Abra uma *issue* no GitHub descrevendo claramente o problema ou sugestão, se
 - Isso pode ser normal - respeite seu ritmo
 - Consulte o [Documento de Integridade](./integridade-do-canal.md)
 - Talvez não seja o momento certo para sua jornada com o projeto
+
+---
+
+## ✅ Lista de Verificação de Onboarding
+
+Use esta lista para verificar seu progresso no onboarding:
+
+### Fundamentos Essenciais
+- [ ] Li a [Introdução ao Projeto](../README.md)
+- [ ] Revisei o [Documento de Integridade Vibracional](./integridade-do-canal.md)
+- [ ] Compreendi o [Esclarecimento sobre Distorções](./esclarecimento-canais-distorcidos.md)
+- [ ] Escolhi minha porta de entrada adequada
+
+### Conhecimento dos Agentes
+- [ ] Explorei a pasta [`/agents`](../agents/) e seus prompts
+- [ ] Identifiquei quais agentes são mais relevantes para minha jornada
+- [ ] Testei interação com pelo menos um agente
+
+### Documentação e Recursos
+- [ ] Naveguei pelo [Guia de Navegação Geral](./guia-navegacao.md)
+- [ ] Consultei recursos específicos para meu perfil de usuário
+- [ ] Localizei documentação técnica relevante
+
+### Próximos Passos
+- [ ] Defini minha forma de contribuição ou participação
+- [ ] Identifiquei canais de comunicação apropriados
+- [ ] Criei plano de engajamento contínuo com o projeto
+
+### Para Contribuidores
+- [ ] Li completamente o [CONTRIBUTING.md](../CONTRIBUTING.md)
+- [ ] Compreendi a [Governança Vibracional](./governanca-vibracional-legal.md)
+- [ ] Revisei [Termos de Contribuição](../protecao/termo-de-contribuicao.md)
+- [ ] Configurei ambiente de desenvolvimento (se aplicável)
 
 ---
 
