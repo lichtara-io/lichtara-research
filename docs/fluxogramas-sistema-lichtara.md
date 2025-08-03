@@ -114,7 +114,7 @@ flowchart TD
 ## 📝 Fluxo de Criação e Codificação de Conteúdo
 
 ```mermaid
-graph LR
+graph TB
     subgraph "Fase de Captação"
         IDEA[💡 Ideia/Campo<br/>Vibracional] --> LUMORA1[💫 LUMORA<br/>Codificação inicial]
     end
