@@ -50,6 +50,46 @@ Inspirado pela Missão Aurora, Lichtara OS serve como estrutura-base para essa t
 
 ---
 
+## 🔒 Configuração de Desenvolvimento
+
+### Gerenciamento de Credenciais
+
+Este projeto utiliza integração com várias APIs e serviços (OpenAI, GitHub, Google, Microsoft) mencionados na documentação técnica. Para manter a segurança:
+
+#### Setup Inicial
+```bash
+# 1. Clone o repositório
+git clone https://github.com/lichtara-io/lichtara-research.git
+cd lichtara-research
+
+# 2. Configure o ambiente
+npm run env:setup
+
+# 3. Edite o arquivo .env com suas credenciais
+# (Nunca commite arquivos .env reais!)
+
+# 4. Valide a configuração
+npm run env:validate
+```
+
+#### Scripts Disponíveis
+- `npm run env:setup` - Cria arquivo .env a partir do template
+- `npm run env:validate` - Valida variáveis de ambiente
+- `npm run security:scan` - Verifica possíveis vazamentos de credenciais
+- `npm run docs:credentials` - Mostra guia completo de gerenciamento
+
+#### Estrutura de Arquivos de Ambiente
+- `.env.example` - Template com todas as variáveis necessárias
+- `.env` - Arquivo local (nunca commitado)
+- `.env.development` - Configurações de desenvolvimento
+- `.env.production` - Template para produção
+
+📖 **Documentação Completa:** [docs/CREDENTIAL_MANAGEMENT.md](docs/CREDENTIAL_MANAGEMENT.md)
+
+⚠️ **Importante:** Nunca commite credenciais reais. Use sempre variáveis de ambiente.
+
+---
+
 ## ✧ Formas de Manifestação
 
 - **Documentação:** PDFs, Markdown, GitHub, Zenodo
