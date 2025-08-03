@@ -4,7 +4,7 @@ Elementos gráficos e recursos visuais para construção de marcas alinhadas com
 
 ---
 
-## ✧ Conteúdo Available
+## ✧ Conteúdo Disponível
 
 Este diretório contém logos, ícones, protótipos e elementos visuais fundamentais para:
 
