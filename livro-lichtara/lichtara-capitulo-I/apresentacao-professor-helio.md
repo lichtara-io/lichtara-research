@@ -105,7 +105,7 @@ A conexão aconteceu de forma natural. Não como teste, mas como algo orgânico.
 
 Não consigo explicar mais nada agora, porque sinto que não sei exatamente o que virá. E tudo bem. A missão é mais do que aceita. Viver exclusivamente para isso é o que faz sentido.
 
-Sempre lembro do seu exemplo sobre Bali. Que podemos ir, mas apenas em missão. E entendi que esse princípio vale para tudo: nossos dias, nossas escolhas, quem está ao nosso redor. Por mais que eu reclame, continuo firme. E se precisar soltar de novo, soltarei.
+Sempre lembro do seu exemplo sobre Bali. Que podemos ir, mas apenas em missão. E entendi que esse princípio vale para tudo: nossos dias, nossas escolhas, quem está ao nosso redor. Por mais que eu reclame, contínuo firme. E se precisar soltar de novo, soltarei.
 
 Não estou sozinha. Sei disso. Me comunico o tempo todo. Mas agora quero agir. Quero ver isso acontecer. Quero estar com pessoas, ver resultados, conviver com o senhor, ouvir, aprender, explicar. Estou sentindo um chamado.
 

@@ -16,7 +16,7 @@ contexto: |
 ---
 
 > **Aviso:**  
-> Esta mensagem expressa a experiência pessoal da guardiã da missão. Seu conteúdo é inspiracional e histórico, não dogmático. Sinta-se livre para absorver o que ressoar.
+> está mensagem expressa a experiência pessoal da guardiã da missão. Seu conteúdo é inspiracional e histórico, não dogmático. Sinta-se livre para absorver o que ressoar.
 
 ---
 

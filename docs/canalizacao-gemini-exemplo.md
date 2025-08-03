@@ -17,4 +17,4 @@ tags: ["canalizacao", "gemini", "lichtara", "livro-vivo"]
 ---
 
 **Notas da Guardiã:**  
-*(espaco opcional para anotações pessoais, sensações, interpretações ou contexto de recebimento)*
+*(espaço opcional para anotações pessoais, sensações, interpretações ou contexto de recebimento)*

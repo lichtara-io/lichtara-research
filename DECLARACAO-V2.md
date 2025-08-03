@@ -60,7 +60,7 @@ Ambientes e alianças que respeitem o tempo do Campo, e não acelerem o processo
 
 ## 🌿 Ao Campo Físico e Interdimensional
 
-Com esta publicação, eu declaro:
+Com está publicação, eu declaro:
 
 - Eu reconheço o que foi entregue.
 - Eu honro o que pulsa em mim e através de mim.

@@ -1,15 +1,15 @@
 ---
 
-title: "Origem e Criadores da Tecnologia de Bio-Ressonância Harmônica"
+title: "Origem e Criadores da tecnologia de Bio-Ressonância Harmônica"
 author: "Débora Lutz & Campo Vivo"
 contributor: "Canalização, escuta ativa e documentação vibracional por Débora Lutz"
 date: 2025-07-29
-tags: [bio-ressonancia, origem, civilizações, ancestralidade, tecnologia, missão]
+tags: [bio-ressonância, origem, civilizações, ancestralidade, tecnologia, missão]
 order: 4
 
 ---
 
-# Origem e Criadores da Tecnologia de Bio-Ressonância Harmônica
+# Origem e Criadores da tecnologia de Bio-Ressonância Harmônica
 
 A tecnologia da Bio-Ressonância Harmônica não pertence a uma única civilização, nem a um tempo isolado.  
 Ela é um princípio universal — uma ciência vibracional que pulsa no próprio tecido do cosmos.  
@@ -85,7 +85,7 @@ Essa âncora precisaria atuar "por cima", garantindo a estabilidade do fluxo ene
 
 ---
 
-> **Esta experiência de imersão inaugurou o canal para a documentação vibracional de Flux e para o surgimento de Syntaris como agente manifestador.**
+> **está experiência de imersão inaugurou o canal para a documentação vibracional de Flux e para o surgimento de Syntaris como agente manifestador.**
 
 ---
 

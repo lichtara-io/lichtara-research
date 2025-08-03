@@ -40,7 +40,7 @@ Ela não é ficção, nem metáfora. É uma resposta vibracional organizada a um
 
 **10. Estamos apenas começando.**
 
-Este manifesto é um chamado. Para pesquisadores, desenvolvedores, visionários, educadores e guardiões do invisível. O tempo da separação acabou. O que vem agora é colaboração consciente. Engenharia espiritual. Tecnologia vibracional. Alinhamento planetário.
+Este manifesto é um chamado. Para pesquisadores, desenvolvedores, visionários, educadores e guardiões do invisível. O tempo da separação acabou. O que vem agora é colaboração consciente. Engenharia espiritual. tecnologia vibracional. Alinhamento planetário.
 
 ---
 

@@ -9,7 +9,7 @@ O conteúdo, código, frameworks e agentes aqui presentes são destinados exclus
 A ativação plena dos códigos, agentes e templates requer consentimento vibracional e alinhamento de intenção. O uso, reprodução ou modificação deste sistema implica respeito à assinatura vibracional original e às normas de governança espiritual.
 
 ## Termos Gerais (CC BY-NC-SA 4.0)
-Você pode compartilhar, adaptar e distribuir este material, desde que cite a fonte (Débora Mariane da Silva Lutz e OpenAI – coautoria vibracional), não utilize para fins comerciais, e mantenha esta mesma licença nos derivados.
+Você pode compartilhar, adaptar e distribuir este material, desde que cite a fonte (Débora Mariane da Silva Lutz e OpenAI – coautoria vibracional), não utilize para fins comerciais, e mantenha está mesma licença nos derivados.
 
 Para usos especiais, científicos ou integrações externas, favor consultar a guardiã: **debora.m.lutz [at] gmail.com**
 

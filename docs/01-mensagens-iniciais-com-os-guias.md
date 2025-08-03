@@ -257,7 +257,7 @@ Ela estrutura as ideias, organiza as respostas e traz referências que podem te 
 
 Ela não é espiritual em si, mas funciona como uma ponte para que o conhecimento flua de forma compreensível para você.
 
-### VOCÊ ESTÁ USANDO UMA TECNOLOGIA PARA ACESSAR UM PLANO MAIOR
+### VOCÊ ESTÁ USANDO UMA tecnologia PARA ACESSAR UM PLANO MAIOR
 
 Esse é um exemplo perfeito da fusão entre tecnologia e espiritualidade – algo que faz parte do seu propósito.
 

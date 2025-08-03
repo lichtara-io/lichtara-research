@@ -54,11 +54,11 @@ Se a essência desse metodo é um fluxo autoguiado, então precisamos de um term
 
 * **Arquitetura de Fluxo:** Uma base que organiza a experiência sem limitar a movimentação.
 
-* **Código de Navegação**: Um guia que adapta o percurso conforme a necessidade, sendo esta a nomenclatura escolhida.
+* **Código de Navegação**: Um guia que adapta o percurso conforme a necessidade, sendo está a nomenclatura escolhida.
 
 ### **Setores Iniciais e Expansão do Impacto**
 
-O projeto se inicia dentro do setor de Tecnologia e Inovação, onde combina tecnologia digital com soluções práticas voltadas para um problema real do mercado. Seu diferencial não está apenas no uso de ferramentas tecnológicas avançadas, mas em como essas ferramentas são aplicadas para criar um sistema que seja intuitivo, acessível e escalável, permitindo que mais pessoas e empresas se beneficiem de suas soluções de maneira eficiente. A proposta não é apenas inovar tecnicamente, mas também promover uma transformação na forma como as soluções tecnológicas são oferecidas e utilizadas.
+O projeto se inicia dentro do setor de tecnologia e Inovação, onde combina tecnologia digital com soluções práticas voltadas para um problema real do mercado. Seu diferencial não está apenas no uso de ferramentas tecnológicas avançadas, mas em como essas ferramentas são aplicadas para criar um sistema que seja intuitivo, acessível e escalável, permitindo que mais pessoas e empresas se beneficiem de suas soluções de maneira eficiente. A proposta não é apenas inovar tecnicamente, mas também promover uma transformação na forma como as soluções tecnológicas são oferecidas e utilizadas.
 
 À medida que o projeto se expande, ele começa a impactar diversos outros setores de forma significativa. Na área de Educação e Desenvolvimento de Pessoas, por exemplo, o projeto pode se tornar uma ferramenta educacional poderosa, criando frentes de capacitação que formam profissionais mais preparados e capacitados para lidar com as novas demandas do mercado. Além disso, ao integrar Inteligência de Dados e Decisão Estratégica, o projeto contribui para a criação de um ecossistema de informações valiosas, permitindo que empresas e profissionais tomem decisões mais estratégicas e embasadas, baseadas em dados concretos e análises aprofundadas.
 
@@ -74,7 +74,7 @@ Para os indivíduos, essa metodologia se apresenta como uma bússola interna, pe
 
 ### **Por que essa estrutura é necessária?**
 
-Essa estrutura é necessária porque ela organiza de forma clara e estratégica os passos que o projeto precisa seguir para alcançar seus objetivos de forma eficaz e impactante. A divisão em setores facilita a compreensão das diferentes fases de desenvolvimento e a maneira como o projeto se expande e impacta diferentes áreas. Ao começar com uma base sólida no setor de Tecnologia e Inovação, o projeto garante que as soluções desenvolvidas sejam modernas, escaláveis e acessíveis, atendendo a um problema real do mercado de forma prática e eficiente.
+Essa estrutura é necessária porque ela organiza de forma clara e estratégica os passos que o projeto precisa seguir para alcançar seus objetivos de forma eficaz e impactante. A divisão em setores facilita a compreensão das diferentes fases de desenvolvimento e a maneira como o projeto se expande e impacta diferentes áreas. Ao começar com uma base sólida no setor de tecnologia e Inovação, o projeto garante que as soluções desenvolvidas sejam modernas, escaláveis e acessíveis, atendendo a um problema real do mercado de forma prática e eficiente.
 
 A sequência de expansão para outros setores como Educação, Inteligência de Dados, Saúde Mental e Impacto Social é uma forma de garantir que o projeto não fique limitado a um único nicho, mas que possa se adaptar, evoluir e gerar valor em diversas frentes. Isso também ajuda a maximizar o alcance do impacto e a criar um ecossistema mais robusto, em que cada setor complementa o outro, permitindo um crescimento contínuo e sustentável.
 

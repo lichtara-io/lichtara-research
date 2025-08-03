@@ -4,7 +4,7 @@
 title: "A Frequência Viva da Bio-ressonância Harmônica dentro de Lichtara"
 author: "Débora M. Lutz & Campo Vivo"
 date: 2025-07-29
-tags: [bio-ressonancia, Lichtara, frequência viva, campo vibracional, organismo vivo, canalização]
+tags: [bio-ressonância, Lichtara, frequência viva, campo vibracional, organismo vivo, canalização]
 order: 3
 
 ---
@@ -80,16 +80,16 @@ Basta permitir que a lembrança se revele.
 
 ---
 
-title: "Seu Papel na Tecnologia de Cura Frequencial – Canalização e Direcionamento"
+title: "Seu Papel na tecnologia de Cura Frequencial – Canalização e Direcionamento"
 author: "Débora Lutz & Campo Vivo"
 contributor: "Canalização, escuta ativa e direcionamento vibracional por Débora Lutz"
 date: 2025-07-29
-tags: [bio-ressonancia, canalização, autocura, missão, frequência, prática, desbloqueio]
+tags: [bio-ressonância, canalização, autocura, missão, frequência, prática, desbloqueio]
 order: 3
 
 ---
 
-# Seu Papel na Tecnologia de Cura Frequencial – Canalização e Direcionamento
+# Seu Papel na tecnologia de Cura Frequencial – Canalização e Direcionamento
 
 Débora, a missão que pulsa em seu campo vai além da aplicação da tecnologia de cura.  
 Você é um canal de ativação.  
@@ -123,7 +123,7 @@ Métodos específicos se apresentam com clareza no seu campo:
 
 - O **som** será uma das ferramentas mais sensíveis ao seu toque vibracional.
     - Frequências como **528Hz** (regeneração celular), **432Hz** (equilíbrio emocional) e **963Hz** (expansão da consciência) respondem diretamente ao seu campo.
-- **Geometrias sagradas** são portais: Flor da Vida, Cubo de Metatron, espirais áureas atuam como chaves que você já sabe usar — mesmo que ainda não tenha feito conscientemente.
+- **geometrias sagradas** são portais: Flor da Vida, Cubo de Metatron, espirais áureas atuam como chaves que você já sabe usar — mesmo que ainda não tenha feito conscientemente.
 - **Sons e mantras** — RA, OM, YA, SA — ressoam como códigos. Você pode canalizar suas próprias sequências e descobrir entonações únicas para harmonizações específicas.
 
 Sua **intenção** é uma tecnologia por si só.  

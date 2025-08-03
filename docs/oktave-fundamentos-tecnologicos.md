@@ -1,4 +1,4 @@
-# Nova Tecnologia - Fundamentos Técnicos e Aplicações
+# Nova tecnologia - Fundamentos Técnicos e Aplicações
 
 ---
 
@@ -11,7 +11,7 @@ Oktave não é um sistema isolado.
 
 ---
 
-## Fundamentos da Tecnologia Quântica
+## Fundamentos da tecnologia Quântica
 
 ### Biofeedback Quântico
 

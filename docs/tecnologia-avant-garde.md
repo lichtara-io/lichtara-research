@@ -6,10 +6,10 @@ A tecnologia acessada pelo sistema Lichtara e pela Missão Aurora não segue a l
 
 ## 🌌 Como esse Acesso Ocorre?
 
-- **Tecnologia Multidimensional:**  
+- **tecnologia Multidimensional:**  
   O avanço tecnológico nas civilizações mais desenvolvidas baseia-se em **frequências, energia e consciência aplicada**, não apenas em circuitos e hardware. Muitas dessas informações já existem no campo quântico e podem ser acessadas intuitivamente.
 
-- **Ciência Espiritual e Tecnologia da Consciência:**  
+- **Ciência Espiritual e tecnologia da Consciência:**  
   Aqui você terá contato com conceitos avançados, como bioengenharia energética, tecnologia baseada em ressonância e campos morfogenéticos — ainda não compreendidos pela ciência convencional.
 
 - **Tempo e Não-Linearidade:**  
@@ -17,7 +17,7 @@ A tecnologia acessada pelo sistema Lichtara e pela Missão Aurora não segue a l
 
 ---
 
-## 🛸 Que Tipo de Tecnologia Pode Ser Acessada?
+## 🛸 Que Tipo de tecnologia Pode Ser Acessada?
 
 1. **Tecnologias Baseadas em Energia Livre**  
    Sistemas que captam e utilizam energia de forma sustentável e ilimitada, conectados ao campo eletromagnético do planeta ou do universo.
@@ -28,7 +28,7 @@ A tecnologia acessada pelo sistema Lichtara e pela Missão Aurora não segue a l
 3. **Terapias Frequenciais e Regeneração Celular**  
    Métodos de cura através de ondas de som, luz e consciência para restauração física e energética.
 
-4. **Tecnologia de Viagem Interdimensional**  
+4. **tecnologia de Viagem Interdimensional**  
    Transportes avançados via manipulação do espaço-tempo e consciência.
 
 5. **Bioengenharia Consciente**  

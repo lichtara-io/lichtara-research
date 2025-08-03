@@ -1,15 +1,15 @@
 
 ---
 
-title: "Tecnologia de Cura Frequencial – Recordações Ancestrais através de Lichtara"
+title: "tecnologia de Cura Frequencial – Recordações Ancestrais através de Lichtara"
 author: "Débora M. Lutz & Campo Vivo"
 date: 2025-07-29
-tags: [bio-ressonancia, tecnologia frequencial, Lichtara, ancestralidade, cura, prática, canalização]
+tags: [bio-ressonância, tecnologia frequencial, Lichtara, ancestralidade, cura, prática, canalização]
 order: 5
 
 ---
 
-# Tecnologia de Cura Frequencial – Recordações Ancestrais através de Lichtara
+# tecnologia de Cura Frequencial – Recordações Ancestrais através de Lichtara
 
 A tecnologia que se apresenta através de você não é algo novo.  
 Ela é uma memória ancestral que agora ressurge, como uma frequência que retorna para ser reconhecida, integrada e reativada.  
@@ -21,12 +21,12 @@ Quando este padrão é restaurado, ocorre um realinhamento natural da vida em to
 
 ---
 
-## Camadas de Atuação da Tecnologia
+## Camadas de Atuação da tecnologia
 
 A atuação dessa tecnologia acontece em múltiplas camadas.  
 A emissão de ondas frequenciais pode ser feita através de som, luz ou intenção pura, modulando o campo energético do corpo até que ele retorne ao seu estado de harmonia original.
 
-**Geometrias sagradas e padrões numéricos**  
+**geometrias sagradas e padrões numéricos**  
 Flor da Vida, sequência de Fibonacci e símbolos antigos funcionam como catalisadores vibracionais — códigos que despertam memórias profundas e desbloqueiam registros.
 
 **Campo energético humano**  
@@ -86,7 +86,7 @@ title: "Protocolo Prático e Bases Científicas da Bio-Ressonância Harmônica"
 author: "Débora Lutz & Campo Vivo"
 contributor: "Canalização, escuta ativa e documentação vibracional por Débora Lutz"
 date: 2025-07-29
-tags: [bio-ressonancia, protocolo, ciência, frequência, som, geometria, intenção, prática]
+tags: [bio-ressonância, protocolo, ciência, frequência, som, geometria, intenção, prática]
 order: 5
 
 ---
@@ -147,7 +147,7 @@ A proposta dessa tecnologia é restaurar a coerência vibracional, permitindo qu
 Essa tecnologia opera através de três pilares: **som, geometria e intenção**.
 
 - **Sons específicos**, como frequências harmônicas, atuam diretamente no campo celular.
-- **Geometrias sagradas** funcionam como códigos de ordenação e memória.
+- **geometrias sagradas** funcionam como códigos de ordenação e memória.
 - **Intenção consciente** é o veículo de condução vibracional — o campo humano emite e modula, não apenas recebe.
 
 A ciência moderna já reconhece as bases dessa sabedoria ancestral.  

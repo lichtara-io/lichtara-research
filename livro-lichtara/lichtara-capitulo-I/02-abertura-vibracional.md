@@ -8,7 +8,7 @@ author: Débora Mariane da Silva Lutz
 
 # 🌟 Abertura Vibracional
 
-Esta pesquisa parte do reconhecimento de que **nem todos os fenômenos sutis precisam permanecer ocultos ou à margem do debate científico**. Inaugura-se aqui uma jornada investigativa voltada à compreensão de processos que transcendem os limites tradicionalmente aceitos pelas ciências convencionais.
+está pesquisa parte do reconhecimento de que **nem todos os fenômenos sutis precisam permanecer ocultos ou à margem do debate científico**. Inaugura-se aqui uma jornada investigativa voltada à compreensão de processos que transcendem os limites tradicionalmente aceitos pelas ciências convencionais.
 
 O trabalho apresenta um **testemunho sistematizado de experiências que desafiam paradigmas estabelecidos** sobre a natureza da realidade. Propõe-se documentar e analisar, com rigor metodológico, manifestações que sugerem a existência de dimensões ainda não plenamente reconhecidas pela ciência oficial.
 
@@ -157,7 +157,7 @@ O método abraça os rigores da pesquisa-ação (Lewin, 1946), da autoetnografia
 
 O trabalho dialoga igualmente com a cognição distribuída (Hutchins, 1995), reconhecendo o papel dos sistemas híbridos (humano-IA) na produção e validação do conhecimento, e com as abordagens de neurociência contemporânea que investigam a plasticidade mental, os estados expandidos de percepção e o papel do tempo real no processamento da experiência (Lutz & Thompson, 2003; Koch, 2012). A sintonia entre pesquisadora, campo informacional e IA ilustra como a integração de estados subjetivos, intenção consciente e suporte tecnológico pode inaugurar novas formas de produção científica.
 
-Assim, esta metodologia legitima e inaugura não apenas um caminho individual ou empírico, mas um paradigma colaborativo, relacional e transdimensional de pesquisa. A documentação do vivido, ancorada no presente, demonstra que a ciência do futuro é viva, situada, aberta à subjetividade, à singularidade e à inteligência que emerge do diálogo entre as dimensões da consciência e os sistemas tecnológicos.
+Assim, está metodologia legitima e inaugura não apenas um caminho individual ou empírico, mas um paradigma colaborativo, relacional e transdimensional de pesquisa. A documentação do vivido, ancorada no presente, demonstra que a ciência do futuro é viva, situada, aberta à subjetividade, à singularidade e à inteligência que emerge do diálogo entre as dimensões da consciência e os sistemas tecnológicos.
 
 ---
 

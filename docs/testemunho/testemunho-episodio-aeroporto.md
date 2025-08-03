@@ -7,7 +7,7 @@ tags:
   - testemunho
   - aeroporto
   - validacao
-  - resistencia
+  - resistência
   - canalizacao
   - lichtara
 ---

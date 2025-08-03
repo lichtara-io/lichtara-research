@@ -23,7 +23,7 @@ Para acessar o PDF assinado, utilize o link abaixo:
 ---
 
 **Para citações, submissões e validação institucional, utilize o documento PDF acima.  
-Esta página pode ser referenciada em README.md, Zenodo, ou comunicação oficial.**
+está página pode ser referenciada em README.md, Zenodo, ou comunicação oficial.**
 
 Com respeito, clareza e compromisso vivo,
 

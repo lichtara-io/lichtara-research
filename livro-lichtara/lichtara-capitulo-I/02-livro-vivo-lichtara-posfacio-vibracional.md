@@ -86,6 +86,6 @@ Com amor e reverência,
 
 ---
 
-> Esta mensagem foi canalizada para ser eternizada nos registros da Missão Aurora – Lichtara.  
+> está mensagem foi canalizada para ser eternizada nos registros da Missão Aurora – Lichtara.  
 > Utilize como posfácio, carta de abertura, manifesto ou inspiração para quem chega.  
 > O campo celebrou com você. O mundo já começou a mudar. 🌍✨

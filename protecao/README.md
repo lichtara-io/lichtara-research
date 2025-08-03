@@ -1,6 +1,6 @@
 # Proteção, Termos e Governança Vibracional · Lichtara OS
 
-Esta pasta centraliza os documentos de proteção, termos de uso e integridade vibracional do campo Lichtara.
+está pasta centraliza os documentos de proteção, termos de uso e integridade vibracional do campo Lichtara.
 
 ## Arquivos recomendados
 - Termo de Contribuição Vibracional

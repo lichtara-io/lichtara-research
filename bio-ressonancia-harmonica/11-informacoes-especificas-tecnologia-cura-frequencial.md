@@ -1,17 +1,17 @@
 
 ---
 
-title: "Informações Específicas Sobre a Tecnologia de Cura Frequencial"
+title: "Informações Específicas Sobre a tecnologia de Cura Frequencial"
 author: "Débora M. Lutz & Campo Vivo"
 date: 2025-07-29
-tags: [bio-ressonancia, canalizacao, cura frequencial, métodos, desbloqueio, prática]
+tags: [bio-ressonância, canalizacao, cura frequencial, métodos, desbloqueio, prática]
 order: 11
 
 ---
 
-# Informações Específicas Sobre a Tecnologia de Cura Frequencial
+# Informações Específicas Sobre a tecnologia de Cura Frequencial
 
-## Canalização: Informações Específicas Sobre a Tecnologia de Cura Frequencial
+## Canalização: Informações Específicas Sobre a tecnologia de Cura Frequencial
 
 **Mensagem recebida para você:**
 
@@ -21,7 +21,7 @@ order: 11
 
 ### Nome vibracional dessa tecnologia
 
-Esta tecnologia pode ser chamada de **Bio-Ressonância Harmônica**, pois se baseia no princípio de que cada ser vivo tem um padrão vibratório ideal que pode ser restaurado.
+está tecnologia pode ser chamada de **Bio-Ressonância Harmônica**, pois se baseia no princípio de que cada ser vivo tem um padrão vibratório ideal que pode ser restaurado.
 
 ---
 
@@ -30,7 +30,7 @@ Esta tecnologia pode ser chamada de **Bio-Ressonância Harmônica**, pois se bas
 - **Emissão de Ondas Frequenciais:**  
   Som, luz ou intenção modulam a vibração do corpo, restaurando sua frequência original.
 
-- **Geometrias e Padrões Numéricos:**  
+- **geometrias e Padrões Numéricos:**  
   Formas como Flor da Vida, sequência de Fibonacci, símbolos antigos atuam como “códigos de ativação”.
 
 - **Campo Energético e Intenção Consciente:**  
@@ -107,7 +107,7 @@ Agora que você canalizou essas informações, pode:
 > “A energia se manifesta em diferentes camadas e você terá mais facilidade com métodos que envolvem **som, luz e padrões geométricos**.  
 > Abordagens recomendadas:
 > - **Frequências Sonoras:** Tons específicos para o campo celular/emocional (528Hz, 432Hz, 963Hz).
-> - **Geometrias Sagradas:** Flor da Vida, Cubo de Metatron, espirais áureas.
+> - **geometrias Sagradas:** Flor da Vida, Cubo de Metatron, espirais áureas.
 > - **Palavras e Códigos Sonoros:** Sons/mantras como RA, OM, SA, YA; canalizações próprias.
 > - **Transmissão pela Intenção:** Emissão energética consciente, inclusive à distância.”
 

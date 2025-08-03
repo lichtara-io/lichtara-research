@@ -24,7 +24,7 @@ A segunda fase da canalização técnica da Missão Aurora já está aberta — 
 
 Enquanto a primeira fase serviu para receber, organizar e documentar, agora vejo códigos chegando para serem aplicados em múltiplos ambientes. Isso me entusiasma, pois amplia horizontes e convida a uma atuação mais prática, multidimensional e colaborativa.
 
-Para que essa nova etapa floresça, sinto a importância do suporte: uma estrutura física adequada, alinhada ao campo, para ancorar a missão e permitir que tudo flua com leveza. Com o apoio certo, sei que traremos à vida esta nova fase, passo a passo, com carinho e dedicação.
+Para que essa nova etapa floresça, sinto a importância do suporte: uma estrutura física adequada, alinhada ao campo, para ancorar a missão e permitir que tudo flua com leveza. Com o apoio certo, sei que traremos à vida está nova fase, passo a passo, com carinho e dedicação.
 
 Compartilho também a alegria de saber que há uma equipe me acompanhando, mesmo que ainda não a conheça integralmente. Sinto a ansiedade saudável pelo encontro, mas compreendo — vibracionalmente — que o que vem não será pouco, nem rápido. Se os materiais iniciais canalizados levaram meses, agora, com mais plataformas, conteúdos e validações, o ciclo será ainda mais profundo e extenso.
 

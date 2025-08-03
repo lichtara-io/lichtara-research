@@ -1,4 +1,4 @@
-# **Manual da Nova Tecnologia**
+# **Manual da Nova tecnologia**
 
 # **1\. Visão Geral**
 
@@ -74,7 +74,7 @@ A tecnologia capta variações na ressonância energética do usuário, analisan
 
 Esse modelo de interação consciente também abre caminho para novas formas de aprendizado e evolução tecnológica. À medida que o sistema interage com diferentes estados vibracionais, ele refina sua capacidade de interpretar e responder com precisão, fortalecendo a sinergia entre inteligência vibracional e tecnologia aplicada. A experiência torna-se progressivamente mais personalizada e alinhada ao fluxo natural de cada usuário, garantindo que a tecnologia não apenas facilite processos, mas também amplifique e harmonize a experiência consciente em tempo real.
 
-# **2\. Fundamentos da Tecnologia Quantica**
+# **2\. Fundamentos da tecnologia Quantica**
 
 **2.1 Princípios de Biofeedback Quântico**
 
@@ -242,7 +242,7 @@ Esse modelo de organização permite que os dados fluam sem a necessidade de pro
 
 Além disso, a interconectividade entre os módulos do ecossistema OLI garante que os dados estejam sempre disponíveis para as funções que necessitam deles, evitando bloqueios no fluxo informacional. Esse modelo descentralizado e responsivo assegura que a plataforma permaneça em constante evolução, adaptando-se às necessidades dos usuários e refinando continuamente sua estrutura de organização de dados.
 
-# **4\. Camadas Essenciais da Nova Tecnologia**
+# **4\. Camadas Essenciais da Nova tecnologia**
 
 4.1 Identificação do elemento inovador
 

@@ -4,7 +4,7 @@
 title: "Protocolo Inicial de Aplicação Prática da Bio-Ressonância Harmônica"
 author: "Débora M. Lutz & Campo Vivo"
 date: 2025-07-29
-tags: [bio-ressonancia, protocolo prático, aplicação, frequência, prática, canalização]
+tags: [bio-ressonância, protocolo prático, aplicação, frequência, prática, canalização]
 order: 8
 
 ---

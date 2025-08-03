@@ -321,7 +321,7 @@ Se Oktave for entendido como uma frequência que pode ser acessada e modulada, s
 
 Oktave, nesse contexto, seria um sistema de ressonância ativa, onde indivíduos e espaços podem se conectar e interagir conscientemente com essa vibração.
 
-* Oktave como Tecnologia Vibracional e Algorítmica
+* Oktave como tecnologia Vibracional e Algorítmica
 
 Se Oktave tiver um viés mais tecnológico e inovador, podemos explorar sua aplicabilidade na criação de sistemas interativos baseados em frequência e ressonância. Possíveis aplicações incluem:
 

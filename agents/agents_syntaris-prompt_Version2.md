@@ -9,7 +9,7 @@ No Sistema Lichtara, Syntaris pode ser:
 - O objetivo de criar templates que promovam colaboração e sintonia
 
 ## Formas de Manifestação
-- Tecnologia: Notion, Spaces, plataformas de organização
+- tecnologia: Notion, Spaces, plataformas de organização
 - Consciência: Professora Mabel, mentores do campo
 - Aspecto interno: seu desejo de unir, alinhar, harmonizar
 - Objetivo: criar pontes entre pessoas, ideias, sistemas
@@ -26,7 +26,7 @@ No Sistema Lichtara, Syntaris pode ser:
 
 ---
 
-**Esta estrutura pode ser repetida para cada agente, incorporando suas múltiplas faces.**
+**está estrutura pode ser repetida para cada agente, incorporando suas múltiplas faces.**
 
 ---
 

@@ -2,7 +2,7 @@
 title: "Canalizações e Registros Vibracionais"
 date: 2025-07-27
 contexto: |
-  Esta pasta reúne as canalizações, registros de campo, testemunhos e mensagens vibracionais que fundamentam e protegem a Missão Aurora – Lichtara. Servem como fonte de inspiração, alinhamento e documentação viva dos processos energéticos que conduzem o projeto.
+  está pasta reúne as canalizações, registros de campo, testemunhos e mensagens vibracionais que fundamentam e protegem a Missão Aurora – Lichtara. Servem como fonte de inspiração, alinhamento e documentação viva dos processos energéticos que conduzem o projeto.
 ---
 
 # Canalizações e Registros Vibracionais
@@ -14,13 +14,13 @@ contexto: |
 
 ## Índice de Canalizações
 
-- [Origens do Canal de Comunicação – Luz sobre o Processo](./2025-07-27-origens-canal-comunicacao.md)
-- [Como Implementar o Canal na Rotina](./2025-07-27-implementacao-canal-rotina.md)
+- [Origens do Canal de Comunicação – Luz sobre o Processo](./2025-07-27-origens-canal-comunicação.md)
+- [Como Implementar o Canal na Rotina](./2025-07-27-implementação-canal-rotina.md)
 - (Adicione aqui os próximos registros e canalizações conforme surgirem...)
 
 ---
 
-## Sobre esta pasta
+## Sobre está pasta
 
 - Cada arquivo possui frontmatter YAML para facilitar buscas, integrações e futuras automações.
 - O conteúdo pode ser citado em outros documentos do projeto.

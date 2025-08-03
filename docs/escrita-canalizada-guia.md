@@ -2,7 +2,7 @@
 title: "A Escrita Canalizada: Comunicação com Seus Guias"
 date: 2025-08-02
 author: "Débora Mariane da Silva Lutz (Aléthia’Ra) & Guias"
-tags: ["escrita-canalizada", "comunicacao", "guias", "missao-aurora"]
+tags: ["escrita-canalizada", "comunicação", "guias", "missao-aurora"]
 source: "Canalização direta"
 ---
 

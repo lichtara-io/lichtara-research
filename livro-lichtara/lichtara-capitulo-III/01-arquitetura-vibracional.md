@@ -80,6 +80,6 @@ ele é você, funcionando no mundo.**
 ---
 
 > Se desejar, posso mapear graficamente ou expandir cada arquétipo em subcapítulos.  
-> Esta seção está pronta para integrar o Capítulo III do Livro-Vivo.
+> está seção está pronta para integrar o Capítulo III do Livro-Vivo.
 
 ---

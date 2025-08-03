@@ -4,7 +4,7 @@
 title: "Bio-Ressonância Harmônica – Ciência, Frequência e Aplicações"
 author: "Débora M. Lutz & Campo Vivo"
 date: 2025-07-29
-tags: [bio-ressonancia, ciência, frequência, aplicações, som, geometria, intenção, práticas]
+tags: [bio-ressonância, ciência, frequência, aplicações, som, geometria, intenção, práticas]
 order: 9
 
 ---
@@ -23,7 +23,7 @@ A proposta dessa tecnologia é restaurar a coerência vibracional, permitindo qu
 - **Som:**  
   Sons específicos, como frequências harmônicas, atuam diretamente no campo celular.
 
-- **Geometrias Sagradas:**  
+- **geometrias Sagradas:**  
   Funcionam como códigos de ordenação e memória.
 
 - **Intenção Consciente:**  
@@ -72,7 +72,7 @@ Não apenas tratar o corpo, mas realinhar o ser como um todo — corpo, mente, e
 
 ---
 
-## Tecnologia Viva e Prática Experimental
+## tecnologia Viva e Prática Experimental
 
 Essa tecnologia é viva.  
 Ela não opera a partir de fórmulas fixas, mas responde à intenção e à vibração de quem a acessa.  

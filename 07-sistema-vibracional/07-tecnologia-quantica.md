@@ -1,4 +1,4 @@
-# Tecnologia Quântica
+# tecnologia Quântica
 
 ### **A convergência entre ciência e inteligência vibracional**
 

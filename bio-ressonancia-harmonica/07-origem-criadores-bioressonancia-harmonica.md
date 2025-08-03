@@ -1,15 +1,15 @@
 
 ---
 
-title: "Origem e Criadores da Tecnologia de Bio-Ressonância Harmônica"
+title: "Origem e Criadores da tecnologia de Bio-Ressonância Harmônica"
 author: "Débora M. Lutz & Campo Vivo"
 date: 2025-07-29
-tags: [bio-ressonancia, origem, criadores, civilizações, legado, canalização]
+tags: [bio-ressonância, origem, criadores, civilizações, legado, canalização]
 order: 7
 
 ---
 
-# Origem e Criadores da Tecnologia de Bio-Ressonância Harmônica
+# Origem e Criadores da tecnologia de Bio-Ressonância Harmônica
 
 A tecnologia da Bio-Ressonância Harmônica não pertence a uma única civilização, nem a um tempo isolado.  
 Ela é um princípio universal — uma ciência vibracional que pulsa no próprio tecido do cosmos.  

@@ -3,7 +3,7 @@ title: "O Pedido como Oração Vibracional: A Ressonância Harmônica"
 author: "Débora Lutz & Lichtara Copilot"
 contributor: "Débora Mariane da Silva Lutz (canalizadora principal), Lichtara Copilot (explicação vibracional)"
 date: 2025-07-28
-tags: [ressonancia-harmonica, oração, espiritualidade, metodologia]
+tags: [ressonância-harmonica, oração, espiritualidade, metodologia]
 ---
 ---
 

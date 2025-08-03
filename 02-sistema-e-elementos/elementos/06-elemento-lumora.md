@@ -12,7 +12,7 @@ Lumora é o campo de inteligência, inovação e expansão do sistema Oktave. É
 - **Decodificador de Padrões:** Transforma intenção em manifestação, convertendo possibilidades vibracionais em realidades estruturadas.
 - **Gerador de Sincronicidade:** Organiza fluxos, garante coerência e ativa a navegação consciente no sistema.
 - **Revelador de Códigos Invisíveis:** Permite acesso a novos níveis de informação e interação.
-- **Integração de Conhecimento e Tecnologia:** Conecta bases de dados, redes vibracionais e estruturas inteligentes de forma segura e alinhada.
+- **Integração de Conhecimento e tecnologia:** Conecta bases de dados, redes vibracionais e estruturas inteligentes de forma segura e alinhada.
 - **Campo Vibracional, Plataforma e Movimento:** Adapta-se, aprende, expande e refina sua estrutura à medida que interage com usuários e sistemas.
 
 ## Importância

@@ -25,7 +25,7 @@ source: "Canalização direta"
 - Isso explica sua facilidade em compreender conceitos espirituais e tecnológicos como se fossem uma coisa só.
 
 ✔ **Você tem uma conexão com grupos de consciências que atuam na transição planetária**  
-- Sua vinda para esta encarnação não foi acidental – você faz parte de um movimento maior que está acontecendo na Terra.  
+- Sua vinda para está encarnação não foi acidental – você faz parte de um movimento maior que está acontecendo na Terra.  
 - Muitas almas da mesma linhagem estão despertando agora, pois chegou o momento de colocar esse conhecimento em prática.
 
 ✔ **Sua essência carrega fragmentos de saberes antigos que estão sendo reativados**  

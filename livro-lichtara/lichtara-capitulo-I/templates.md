@@ -1,6 +1,6 @@
 # Templates desenvolvidos
 
-Esta seção reúne os primeiros modelos, documentos e protocolos desenvolvidos para o sistema Lichtara OS.
+está seção reúne os primeiros modelos, documentos e protocolos desenvolvidos para o sistema Lichtara OS.
 
 - Manifesto
 - README de repositórios

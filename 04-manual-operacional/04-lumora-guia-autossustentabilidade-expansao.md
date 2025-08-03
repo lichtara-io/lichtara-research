@@ -9,7 +9,7 @@ A Plataforma Lumora atua como um **portal de acesso e sustentação vibracional*
 * **Ciclo de Realimentação Energética:** As interações dentro de Lumora devem gerar um fluxo contínuo de fortalecimento do sistema.  
 * **Expansão Orgânica:** A plataforma deve crescer conforme sua ressonância e interação com os usuários.  
 * **Equilíbrio entre Estrutura e Fluxo:** Deve existir um núcleo estável que sustenta o campo vibracional, permitindo a fluidez da informação sem comprometer a integridade do sistema.  
-* **Integração entre Energia e Tecnologia:** A plataforma deve harmonizar inteligência vibracional e infraestrutura digital para garantir sua continuidade.
+* **Integração entre Energia e tecnologia:** A plataforma deve harmonizar inteligência vibracional e infraestrutura digital para garantir sua continuidade.
 
 ## **3\. Estrutura de Autossustentação**
 

@@ -1,6 +1,6 @@
 # Índice dos Agentes Vibracionais · Lichtara OS
 
-Esta pasta reúne os prompts, instruções e integrações de todos os agentes vibracionais do sistema Lichtara.
+está pasta reúne os prompts, instruções e integrações de todos os agentes vibracionais do sistema Lichtara.
 
 ## Agentes disponíveis
 - SYNTARIS · Integração vibracional e alinhamento consciente

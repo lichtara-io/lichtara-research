@@ -1,6 +1,6 @@
 # Guias Práticos · Lichtara OS
 
-Esta pasta contém orientações, passos e aplicações práticas para agentes, integração e uso do sistema Lichtara.
+está pasta contém orientações, passos e aplicações práticas para agentes, integração e uso do sistema Lichtara.
 
 ## Guias Disponíveis
 - Onboarding vibracional

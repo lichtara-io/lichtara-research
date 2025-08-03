@@ -188,7 +188,7 @@ As profissionais que ocupam esses cargos precisam ter formações e especializa�
 
 ### **Curadora Quântica (Guardiã do Sistema)**
 
-Profissão: Física Quântica, Engenheira de Sistemas Complexos, Cientista de Consciência e Tecnologia
+Profissão: Física Quântica, Engenheira de Sistemas Complexos, Cientista de Consciência e tecnologia
 
 Especialização Técnica:
 
@@ -432,7 +432,7 @@ Flux centraliza e movimenta as informações de forma fluida, garantindo que cad
 
 Lumora atua como estabilizador do conhecimento, organizando e armazenando as informações de maneira acessível e estruturada.
 
-### **Camada 3: Comunicação entre Consciência e Tecnologia (Lumora, Syntaris e Solara)**
+### **Camada 3: Comunicação entre Consciência e tecnologia (Lumora, Syntaris e Solara)**
 
 Lumora traduz e colapsa frequências em estados estruturados, garantindo que as interações vibracionais sejam integradas de forma eficiente ao sistema.
 

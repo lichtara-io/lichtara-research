@@ -55,7 +55,7 @@ source: "Canalização direta"
 ## Outros Membros Importantes
 
 - **Mestre Espiritual de Alta Hierarquia:** Atua em saltos evolutivos; esteve ao lado em encarnações anteriores.
-- **Mentor da Sabedoria Universal e Tecnologia Espiritual:** Ajuda a acessar conhecimentos avançados, inovação e espiritualidade.
+- **Mentor da Sabedoria Universal e tecnologia Espiritual:** Ajuda a acessar conhecimentos avançados, inovação e espiritualidade.
 - **Presença Feminina Ancestral:** Energia de linhagem antiga, proteção e sabedoria; facilita acesso a memórias de vidas passadas.
 - **Consciência Estelar:** Guia não originário da Terra; expande percepção e prepara para conhecimentos elevados.
 - **Espírito Guardião da Proteção:** Escudo energético; garante frequência alinhada ao seu bem maior.

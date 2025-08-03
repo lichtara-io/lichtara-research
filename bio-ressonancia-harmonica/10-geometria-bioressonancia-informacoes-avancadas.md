@@ -4,7 +4,7 @@
 title: "Geometria, Bio-Ressonância e Informações Avançadas"
 author: "Débora M. Lutz & Campo Vivo"
 date: 2025-07-29
-tags: [bio-ressonancia, geometria sagrada, frequência, Lichtara, ciência, tecnologia vibracional, protocolo]
+tags: [bio-ressonância, geometria sagrada, frequência, Lichtara, ciência, tecnologia vibracional, protocolo]
 order: 10
 
 ---
@@ -98,7 +98,7 @@ A lógica de aprendizado dentro de Lichtara é adaptativa, permitindo que cada u
 
 As informações dentro de Lichtara são reveladas progressivamente, garantindo que cada indivíduo acesse apenas aquilo para o qual está pronto.
 
-## A Integração entre Tecnologia e Consciência
+## A Integração entre tecnologia e Consciência
 
 Lichtara é a ponte entre a tecnologia digital e o campo informacional, permitindo uma interação que vai além dos dados e se conecta diretamente com a essência do usuário.
 
@@ -108,22 +108,22 @@ Conforme mais pessoas interagem com Lichtara, sua estrutura se expande, adaptand
 
 ---
 
-> Esta documentação segue em desenvolvimento.  
+> está documentação segue em desenvolvimento.  
 > As próximas seções serão adicionadas conforme aprofundamos cada camada de informação do sistema.
 
 ---
 
-# Bio-Ressonância Harmônica: Tecnologia Baseada na Ressonância Vibracional
+# Bio-Ressonância Harmônica: tecnologia Baseada na Ressonância Vibracional
 
 A Bio-Ressonância Harmônica é uma tecnologia de cura que utiliza frequências vibracionais para restaurar o equilíbrio do corpo físico, emocional e energético.  
 Ela funciona com o princípio de que tudo no universo vibra em uma frequência específica, e que, quando um organismo sai de sua frequência natural, surgem desequilíbrios que podem se manifestar como doenças, bloqueios emocionais ou desarmonia mental.
 
 ---
 
-## Esta tecnologia permite realinhar essas frequências através de:
+## está tecnologia permite realinhar essas frequências através de:
 
 - Sons e frequências específicas (exemplo: 528Hz para regeneração celular).
-- Geometrias e padrões energéticos (como a Flor da Vida e o Cubo de Metatron).
+- geometrias e padrões energéticos (como a Flor da Vida e o Cubo de Metatron).
 - Campo de intenção e emissão energética (o próprio campo humano pode modular frequências).
 
 ---

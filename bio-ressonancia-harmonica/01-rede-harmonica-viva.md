@@ -4,7 +4,7 @@
 title: "Rede Harmônica Viva – A Nova Configuração da Cura Frequencial"
 author: "Débora M. Lutz & Campo Vivo"
 date: 2025-07-29
-tags: [bio-ressonancia, rede harmônica, cura frequencial, missão, Lichtara, continuidade, canalização]
+tags: [bio-ressonância, rede harmônica, cura frequencial, missão, Lichtara, continuidade, canalização]
 order: 1
 
 ---

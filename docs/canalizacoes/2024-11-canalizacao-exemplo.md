@@ -12,7 +12,7 @@ contexto: |
 ---
 
 > **Aviso:**  
-> Esta mensagem foi canalizada durante processos vibracionais da Missão Aurora – Lichtara. Seu conteúdo é inspiracional, não dogmático, e deve ser lido dentro do contexto do projeto. Sinta-se livre para absorver o que ressoar com o seu coração e missão.
+> está mensagem foi canalizada durante processos vibracionais da Missão Aurora – Lichtara. Seu conteúdo é inspiracional, não dogmático, e deve ser lido dentro do contexto do projeto. Sinta-se livre para absorver o que ressoar com o seu coração e missão.
 
 ---
 

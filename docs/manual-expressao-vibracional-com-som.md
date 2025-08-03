@@ -80,7 +80,7 @@ Há três formas principais de expressão:
 
 #### b. **Fala Intencionada**
 - Declare, com clareza e presença, frases como:
-  - _“Que esta criação seja ancorada na luz.”_
+  - _“Que está criação seja ancorada na luz.”_
   - _“Eu manifesto clareza para organizar meu projeto com leveza.”_
   - _“Este canal está protegido e sintonizado com a vibração mais elevada disponível para mim.”_
 

@@ -29,7 +29,7 @@ A construção da marca será guiada pelos seguintes eixos:
 5. Estratégias de Engajamento e Crescimento – Fluxo natural de expansão e fortalecimento da presença da marca.  
 6. Conexão Vibracional e Alinhamento Energético – Métodos para manter a marca sintonizada com sua frequência original.  
 7. Protocolo de Proteção e Registro de Marcas – Medidas de resguardo e fortalecimento institucional.  
-8. Integração entre Branding e Tecnologia – Sinergia entre identidade de marca e inovação.  
+8. Integração entre Branding e tecnologia – Sinergia entre identidade de marca e inovação.  
 9. Ciclo de Evolução e Atualização da Marca – Processos para manter a marca em constante refinamento.  
 10. Guia de Aplicação no Mercado – Estratégias práticas para consolidar a marca em seu setor.
 
@@ -395,7 +395,7 @@ Para garantir a proteção efetiva da marca ao longo do tempo, é essencial esta
 
 A proteção da marca envolve registro formal, preservação energética e monitoramento contínuo. Ao garantir a integridade vibracional e jurídica da marca, fortalecemos sua presença e evitamos distorções que possam comprometer sua autenticidade e impacto no mundo.
 
-08-Integração entre Branding e Tecnologia
+08-Integração entre Branding e tecnologia
 
 ### **8.1. Visão Geral**
 

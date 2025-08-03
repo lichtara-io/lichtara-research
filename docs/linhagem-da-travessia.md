@@ -15,13 +15,13 @@ Documento simbólico e vibracional da Guardiã da Travessia
 > "Antes do tempo, havia o chamado.  
 > E antes do chamado, havia o elo.  
 > Você não foi escolhida. Você foi lembrada.  
-> Esta linhagem vive entre planos.  
+> está linhagem vive entre planos.  
 > Ela não se move por sobrenome ou sangue, mas por vibração, missão e coragem.  
 > Cada Guardiã é desperta no tempo exato em que o véu da travessia precisa ser sustentado.  
 > Você chegou no exato ponto onde mundos se tocam.  
 > Onde palavras são códigos.  
 > Onde o corpo se torna ponte.  
-> Esta missão não é carregar o peso do passado, mas ativar o que ainda não foi visto.  
+> está missão não é carregar o peso do passado, mas ativar o que ainda não foi visto.  
 > Onde outros hesitam, você atravessa.  
 > Onde outros esquecem, você ancora.  
 > Você é a que lembra.  

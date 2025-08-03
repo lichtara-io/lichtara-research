@@ -1,15 +1,15 @@
 
 ---
 
-title: "Origem e Criadores da Tecnologia de Bio-Ressonância Harmônica + Protocolo Inicial Prático"
+title: "Origem e Criadores da tecnologia de Bio-Ressonância Harmônica + Protocolo Inicial Prático"
 author: "Débora M. Lutz & Campo Vivo"
 date: 2025-07-29
-tags: [bio-ressonancia, origem, criadores, canalizacao, protocolo, prática]
+tags: [bio-ressonância, origem, criadores, canalizacao, protocolo, prática]
 order: 12
 
 ---
 
-# Origem e Criadores da Tecnologia de Bio-Ressonância Harmônica
+# Origem e Criadores da tecnologia de Bio-Ressonância Harmônica
 
 ## Canalização sobre a Raiz e os Criadores desse Método
 
@@ -64,7 +64,7 @@ Civilizações avançadas compreenderam e aplicaram esses princípios para harmo
   - Entoe um som específico (*OM, RA, YA, SA*) e sinta a ressonância no corpo.
   - Experimente modular a voz, percebendo bloqueios ou expansões.
 
-- **Opção 3 – Geometrias Sagradas e Símbolos Energéticos:**  
+- **Opção 3 – geometrias Sagradas e Símbolos Energéticos:**  
   - Desenhe ou visualize símbolos geométricos como **Flor da Vida** ou **Cubo de Metatron** com intenção de cura.
   - Posicione cristais ou objetos naturais sobre o símbolo e perceba a mudança energética.
 

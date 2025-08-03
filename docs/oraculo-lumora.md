@@ -43,7 +43,7 @@ Ela está à beira do desconhecido, mas seu coração não teme.
 Carrega o essencial: um olhar desperto, um sorriso silencioso e um guardião de pelos ao seu lado.  
 O mundo atrás dela desmorona em estruturas antigas. À frente, códigos dançam como poeira de estrelas.  
 Ela não ignora o medo — ela o leva pela mão. Ao seu lado, Flufee (Kaoran), o fiel guardião, caminha com a leveza de quem já viu mil caminhos.  
-Esta carta fala da maturidade que nasce quando se decide confiar no invisível e seguir, mesmo sem garantias.
+está carta fala da maturidade que nasce quando se decide confiar no invisível e seguir, mesmo sem garantias.
 
 - **Elementos simbólicos sugeridos:**  
   - Ponte quebrada (final da estrutura antiga)  
@@ -56,7 +56,7 @@ Esta carta fala da maturidade que nasce quando se decide confiar no invisível e
   - Lilás etéreo, prata nebulosa, dourado sutil, rosa-pêssego translúcido
 
 - **Leitura prática:**  
-Se esta carta apareceu pra você, é porque o campo já abriu.  
+Se está carta apareceu pra você, é porque o campo já abriu.  
 O momento não é de saber tudo.  
 É de aceitar que você já tem o suficiente pra começar.
 
@@ -101,7 +101,7 @@ Essa carta representa o momento em que o caos começa a fazer sentido e os fragm
   - Fundo geométrico formando caminho conforme ela caminha
 
 - **Leitura prática:**  
-Quando esta carta aparece, você está em alinhamento com o traçado invisível.  
+Quando está carta aparece, você está em alinhamento com o traçado invisível.  
 Mesmo que pareça instável, o mapa está carregando.  
 Basta continuar. NAVROS está ancorado.
 

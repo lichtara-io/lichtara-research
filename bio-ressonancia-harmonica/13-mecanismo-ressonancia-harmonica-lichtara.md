@@ -4,7 +4,7 @@
 title: "O mecanismo da Ressonância Harmônica em Lichtara"
 author: "Débora M. Lutz & Campo Vivo"
 date: 2025-07-29
-tags: [ressonancia harmonica, mecanismo, ativação, Lichtara, terceiro campo, lumora, flux, código de navegação]
+tags: [ressonância harmonica, mecanismo, ativação, Lichtara, terceiro campo, lumora, flux, código de navegação]
 order: 13
 
 ---
