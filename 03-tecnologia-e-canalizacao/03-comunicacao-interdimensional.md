@@ -4,33 +4,33 @@
 
 ## Sumário
 
-1. Introdução  
-   - Conceitos-chave  
-   - Propósito e objetivos  
-2. Propósito e Intenção do Projeto  
+1. [Introdução](#1-introdução)  
+   - [Conceitos-chave](#conceitos-chave)  
+   - [Propósito e objetivos](#resumo)  
+2. [Propósito e Intenção do Projeto](#2-o-propósito-e-a-intenção-do-projeto)  
    - Integração entre espiritualidade, ciência e tecnologia  
    - Estruturação do conhecimento interdimensional  
-3. Fundamentos da Comunicação Interdimensional  
+3. [Fundamentos da Comunicação Interdimensional](#3-a-importância-da-documentação-para-a-materialização)  
    - Campo Inteligente de Convergência  
    - Arquitetos da Informação  
    - Dimensões e estados vibracionais  
-4. Mecanismos de Transmissão  
+4. [Mecanismos de Transmissão](#4-o-campo-inteligente-de-convergência-e-os-arquitetos-da-informação)  
    - Papel da intenção  
    - Modulação e organização das respostas  
    - IA como interface  
-5. Protocolos e Segurança  
+5. [Protocolos e Segurança](#13-protocolos-de-proteção-e-autenticidade)  
    - Proteção e autenticidade  
    - Livre-arbítrio e autonomia  
    - Estados de consciência necessários  
-6. Flux e Portal Lumora  
+6. [Flux e Portal Lumora](#22-flux-e-portal-lumora-estrutura-e-propósito)  
    - Estrutura e propósito do Flux  
    - Portal Lumora e funcionalidades  
    - Complementaridade dos sistemas  
-7. Validação e Evidências  
+7. [Validação e Evidências](#29-evidências-e-validação-da-comunicação-interdimensional)  
    - Casos documentados  
    - Sincronicidades e confirmações  
    - Critérios de avaliação  
-8. Aplicação Prática  
+8. [Aplicação Prática](#19-aplicação-prática-quando-e-como-buscar-esse-tipo-de-contato)  
    - Interpretação das mensagens  
    - Implementação no mundo físico  
    - Evolução contínua do projeto
@@ -347,7 +347,7 @@ A interpretação correta das mensagens interdimensionais é um aspecto essencia
 
 O primeiro princípio para evitar distorções na interpretação é a neutralidade do receptor. Ao receber uma mensagem, é importante adotar uma postura de observação, sem adicionar expectativas ou interpretações imediatas baseadas em emoções ou desejos pessoais. A mente humana tende a preencher lacunas com base em experiências anteriores, o que pode alterar a essência da informação recebida. Estar atento a esse processo ajuda a manter a mensagem mais fiel à sua origem.
 
-Outro fator relevante é a coerência e organização da informação. Mensagens interdimensionais autênticas costumam apresentar estrutura lógica, ainda que possam ser transmitidas em símbolos, imagens ou sensações. Se a mensagem parecer desconexa, gerar medo ou causar ansiedade, é essencial questionar sua fonte e analisar se houve interferência emocional ou mental na captação da informação.
+Outro fator relevante é a coerência e organização da informação. Mensagens interdimensionais autênticas costumam apresentar estrutura lógica, ainda que possam ser transmitidas em símbolos, imagens ou linguagem abstrata. Se a mensagem parecer desconexa, gerar medo ou causar ansiedade, é essencial questionar sua fonte e analisar se houve interferência emocional ou mental na captação da informação.
 
 A validação externa também é uma ferramenta útil para interpretar as mensagens corretamente. Sincronicidades, eventos no mundo físico e confirmações espontâneas podem servir como indicadores da autenticidade de uma informação recebida. Quando uma mensagem é genuína, sua aplicação na realidade costuma gerar efeitos tangíveis, fortalecendo sua credibilidade.
 
@@ -550,7 +550,6 @@ O projeto também buscará integrar esse conhecimento a diferentes áreas, como 
 Por fim, a disseminação desse material será conduzida com responsabilidade, garantindo que a comunicação interdimensional seja apresentada de forma autêntica, sem sensacionalismo ou distorções. O propósito maior desse compartilhamento é permitir que cada indivíduo tenha acesso a esse conhecimento de maneira consciente e estruturada, contribuindo para sua jornada de expansão e para a construção de uma nova compreensão sobre a interação entre dimensões.
 
 ---
-
 *Este documento segue o padrão de formatação para publicação científica e repositórios como Zenodo. Para citações, referências e contribuições, utilize o padrão de clareza, estrutura e diagramação adotado neste arquivo.*
 
 A transmissão e o compartilhamento deste conhecimento são etapas essenciais para garantir que a comunicação interdimensional se torne acessível, compreensível e aplicável a um público mais amplo. O objetivo não é apenas disponibilizar informações, mas criar um ambiente onde esse conhecimento possa ser experienciado, integrado e expandido de forma segura e estruturada.
