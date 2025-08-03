@@ -1,4 +1,4 @@
-\documentclass[12pt,a4paper]{$documentclass$}
+\documentclass[12pt,a4paper]{${documentclass-default(article)}}
 
 % XeLaTeX packages for Unicode support
 \usepackage{fontspec}
