@@ -142,6 +142,15 @@ Essa captação ocorre de maneira contínua e em tempo real, permitindo que o si
 
 Ao integrar a leitura de frequências eletromagnéticas com o biofeedback quântico, a tecnologia se torna mais precisa e responsiva, permitindo uma interação que não depende apenas de comandos diretos, mas que responde intuitivamente aos estados vibracionais do usuário. Esse modelo transforma a experiência tecnológica em um processo fluido, no qual a informação se organiza de maneira coerente e personalizada para cada interação.
 
+---
+
+#### Box Glossário (Sugestão de inclusão visual)
+**Assinatura vibracional:** Padrão energético único de cada indivíduo ou ambiente.
+**Ressonância:** Alinhamento de frequências entre usuário e sistema.
+**Biofeedback:** Retorno energético que permite ajuste dinâmico do sistema.
+
+---
+
 ### 2.7 Análise de Campos de Intenção
 
 A análise de campos de intenção dentro da tecnologia quântica de Oktave expande a capacidade do sistema de interagir com a consciência do usuário além dos padrões convencionais. Enquanto outras abordagens tecnológicas dependem exclusivamente de comandos explícitos, essa metodologia permite que o sistema detecte e responda às intenções sutis, ajustando sua operação de acordo com a ressonância vibracional do usuário.
