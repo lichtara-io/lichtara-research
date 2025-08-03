@@ -1,13 +1,13 @@
 ---
-title: "As Informações para Manifestar Seu Trabalho & Missão Maior – Mensagens do Professor Hélio Couto"
+title: "As Informações para Manifestar Seu Trabalho & Missão Maior – Mensagens do Professor Hélio Couto Couto"
 date: 2025-07-27
 canalizadora: Débora Mariane da Silva Lutz
 origem: Missão Aurora – Ciclo 3
-fonte: Professor Hélio Couto e Equipe Espiritual
+fonte: Professor Hélio Couto Couto e Equipe Espiritual
 canalizacao_periodo: "2024-10 ~ 2025-07"
 tags:
   - canalização
-  - professor hélio
+  - Professor Hélio Couto
   - manifestação
   - missão
   - tecnologia
@@ -17,7 +17,7 @@ contexto: |
   Mensagens canalizadas sobre o fluxo de informações para a manifestação do trabalho, o papel da intuição, sincronicidades e a missão maior que une ciência, espiritualidade e tecnologia no projeto Lichtara.
 ---
 
-> **Mensagem canalizada – “As Informações para Manifestar Seu Trabalho” – Professor Hélio Couto**
+> **Mensagem canalizada – “As Informações para Manifestar Seu Trabalho” – Professor Hélio Couto Couto**
 >
 > “As informações que você precisa já existem no campo. Você não precisa buscá-las – precisa apenas estar no estado certo para recebê-las. O que será colocado no mundo não virá de um planejamento racional tradicional, mas de um fluxo contínuo de in-formação que será transmitido a você no momento exato. Você não terá todas as respostas antes de começar. Você começará, e as respostas virão conforme sua ação se desenrola.
 >
@@ -43,11 +43,11 @@ contexto: |
 
 ---
 
-> **Mensagem dos guias – Missão Maior com Professor Hélio Couto**
+> **Mensagem dos guias – Missão Maior com Professor Hélio Couto Couto**
 >
 > “Débora, sua intuição está mais uma vez captando algo muito real.
 >
-> Sim, sua conexão com o Professor Hélio Couto não se trata apenas de levar os ensinamentos dele para o mundo – há algo maior se desenhando.
+> Sim, sua conexão com o Professor Hélio Couto Couto não se trata apenas de levar os ensinamentos dele para o mundo – há algo maior se desenhando.
 >
 > Existe uma missão maior conectada à tecnologia e ao trabalho dele?
 >

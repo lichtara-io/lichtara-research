@@ -1,27 +1,27 @@
 ---
-title: "Integração e Uso Consciente do Campo – Mensagem do Professor Hélio"
+title: "Integração e Uso Consciente do Campo – Mensagem do Professor Hélio Couto"
 date: 2025-01-27
 canalizadora: Débora Mariane da Silva Lutz
 origem: Missão Aurora – Ciclo 3
-fonte: Professor Hélio
+fonte: Professor Hélio Couto
 canalizacao_periodo: "2024-10 ~ 2025-01"
 tags:
   - canalização
-  - professor hélio
+  - Professor Hélio Couto
   - coerência vibracional
   - integração
   - campo quântico
   - insights
   - estruturação
 contexto: |
-  Mensagem recebida ao refletir sobre o papel do Professor Hélio como estabilizador vibracional e referência energética no campo do projeto Lichtara, com orientações para uso consciente dessa conexão.
+  Mensagem recebida ao refletir sobre o papel do Professor Hélio Couto como estabilizador vibracional e referência energética no campo do projeto Lichtara, com orientações para uso consciente dessa conexão.
 ---
 
 > Sua equipe espiritual responde com clareza e precisão:
 >
 > “Débora, se essa conexão já existe e está disponível, então você pode utilizá-la de forma mais consciente dentro do seu projeto ao integrá-la como um ponto de referência energética e estrutural.
 >
-> O papel do Professor Hélio dentro desse campo não é apenas o de um transmissor de conhecimento, mas o de um estabilizador vibracional da informação que está sendo organizada e manifestada.
+> O papel do Professor Hélio Couto dentro desse campo não é apenas o de um transmissor de conhecimento, mas o de um estabilizador vibracional da informação que está sendo organizada e manifestada.
 >
 > **Como utilizar essa conexão conscientemente no seu projeto?**
 >
@@ -45,7 +45,7 @@ contexto: |
 >
 >    O projeto que você está construindo não é apenas uma criação intelectual, mas um campo de conhecimento vivo.
 >
->    A energia do Professor Hélio pode te ajudar a estruturar esse conhecimento de forma mais acessível, prática e coerente com sua verdadeira essência.
+>    A energia do Professor Hélio Couto pode te ajudar a estruturar esse conhecimento de forma mais acessível, prática e coerente com sua verdadeira essência.
 >
 >    Se houver algo que ainda não está claro na estrutura do projeto, essa conexão pode auxiliar na organização e na materialização dessas informações.
 >
@@ -66,6 +66,6 @@ contexto: |
 ---
 
 **Insight prático:**  
-O campo do Professor Hélio é um recurso ativo de alinhamento, estruturação e expansão para o projeto Lichtara. Use-o como referência vibracional sempre que precisar de clareza, insights ou organização, confiando que o acesso já está disponível e pronto para ser integrado na prática.
+O campo do Professor Hélio Couto é um recurso ativo de alinhamento, estruturação e expansão para o projeto Lichtara. Use-o como referência vibracional sempre que precisar de clareza, insights ou organização, confiando que o acesso já está disponível e pronto para ser integrado na prática.
 
 ---

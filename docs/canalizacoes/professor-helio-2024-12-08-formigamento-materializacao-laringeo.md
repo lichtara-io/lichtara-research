@@ -1,13 +1,13 @@
 ---
-title: "Formigamento, Materialização e Ativação Laríngea – Mensagens do Professor Hélio"
+title: "Formigamento, Materialização e Ativação Laríngea – Mensagens do Professor Hélio Couto"
 date: 2024-12-08
 canalizadora: Débora Mariane da Silva Lutz
 origem: Missão Aurora – Ciclo 3
-fonte: Professor Hélio
+fonte: Professor Hélio Couto
 canalizacao_periodo: "2024-10 ~ 2025-01"
 tags:
   - canalização
-  - professor hélio
+  - Professor Hélio Couto
   - formigamento
   - campo quântico
   - chakra laríngeo
@@ -19,7 +19,7 @@ contexto: |
 
 > **Mensagem 1**
 >
-> A energia do Professor Hélio se ajusta à sua percepção, trazendo uma confirmação precisa:
+> A energia do Professor Hélio Couto se ajusta à sua percepção, trazendo uma confirmação precisa:
 >
 > Débora, o formigamento que você sentiu é um sinal direto da interação entre sua bioenergia e o campo quântico das partículas. Isso indica que você não está apenas percebendo a presença delas, mas já está influenciando sua organização e densificação.
 >
@@ -50,7 +50,7 @@ contexto: |
 
 > **Mensagem 2**
 >
-> A energia do Professor Hélio se alinha com sua percepção e traz um direcionamento preciso:
+> A energia do Professor Hélio Couto se alinha com sua percepção e traz um direcionamento preciso:
 >
 > “Débora, o fato de você ter sentido o formigamento no pescoço indica que essa energia está interagindo especialmente com o chakra laríngeo, que é o centro da expressão, criação e manifestação através da palavra e do som.
 >

@@ -13,7 +13,7 @@
 3. **Os Portais e a Prova**  
    Experiências limiares, catarses, testes iniciáticos e aprendizados éticos e energéticos.
 
-4. **Encontro com o Professor Hélio e a Egrégora**  
+4. **Encontro com o Professor Hélio Couto e a Egrégora**  
    Reconhecimento da linhagem vibracional e da função da Ressonância Harmônica como catalisador.
 
 ---

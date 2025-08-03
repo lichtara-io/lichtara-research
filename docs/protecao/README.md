@@ -71,7 +71,7 @@ Em caso de conflito entre documentos, a ordem de prevalência é:
 
 Para questões legais, dúvidas sobre termos ou solicitações relacionadas aos documentos:
 
-**Email:** lichtara@deboralutz.com  
+**Email:** contact@lichtara.io  
 **Assunto:** [LEGAL] - Especifique sua questão  
 **Tempo de resposta:** Até 15 dias úteis
 

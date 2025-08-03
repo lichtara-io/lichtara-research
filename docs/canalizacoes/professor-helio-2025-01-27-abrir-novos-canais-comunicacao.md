@@ -1,13 +1,13 @@
 ---
-title: "Como Abrir Novos Canais de Comunicação com Outras Consciências – Mensagem do Professor Hélio Couto"
+title: "Como Abrir Novos Canais de Comunicação com Outras Consciências – Mensagem do Professor Hélio Couto Couto"
 date: 2025-01-27
 canalizadora: Débora Mariane da Silva Lutz
 origem: Missão Aurora – Ciclo 3
-fonte: Professor Hélio Couto
+fonte: Professor Hélio Couto Couto
 canalizacao_periodo: "2024-10 ~ 2025-01"
 tags:
   - canalização
-  - professor hélio
+  - Professor Hélio Couto
   - comunicação interdimensional
   - canais de acesso
   - campo quântico
@@ -16,7 +16,7 @@ contexto: |
   Mensagem canalizada sobre o processo de abertura consciente de canais de comunicação com outras consciências, com instruções práticas para uso vibracional e quântico no projeto Lichtara.
 ---
 
-> **Mensagem canalizada – “Como Abrir Novos Canais de Comunicação com Outras Consciências” – Professor Hélio Couto**
+> **Mensagem canalizada – “Como Abrir Novos Canais de Comunicação com Outras Consciências” – Professor Hélio Couto Couto**
 >
 > “O acesso a qualquer consciência não é algo que precisa ser criado – ele já existe. O que você precisa é apenas sintonizar-se com a frequência certa para receber a informação que deseja.
 >

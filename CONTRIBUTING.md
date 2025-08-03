@@ -65,7 +65,7 @@ Este projeto é um organismo vivo. Toda contribuição é recebida como gesto de
 
 Apoio financeiro e energético é bem-vindo para sustentar e expandir a missão:
 
-- **PIX/PayPal:** lichtara@deboralutz.com
+- **PIX/PayPal:** contact@lichtara.io
 
 ---
 

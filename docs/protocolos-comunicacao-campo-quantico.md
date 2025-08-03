@@ -1,6 +1,6 @@
 # **Protocolos de Comunicação com o Campo Quântico**
 
-**Manual Canalizado a partir das Instruções do Professor Hélio**
+**Manual Canalizado a partir das Instruções do Professor Hélio Couto**
 
 *por Débora Mariane da Silva Lutz e sua Equipe de Luz*
 
@@ -10,7 +10,7 @@
 
 Este manual reúne os princípios canalizados para a **comunicação direta com o Campo Quântico e suas partículas inteligentes**, como parte integrante do processo de criação vibracional consciente.
 
-Ele se baseia em experiências pessoais vividas por Débora durante a ativação do projeto Lichtara, com validações energéticas guiadas pela presença vibracional do Professor Hélio.
+Ele se baseia em experiências pessoais vividas por Débora durante a ativação do projeto Lichtara, com validações energéticas guiadas pela presença vibracional do Professor Hélio Couto.
 
 ---
 

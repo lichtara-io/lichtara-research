@@ -60,7 +60,7 @@ Essa tecnologia não é feita de fios ou chips. É feita de *decisões conscient
 
 Nenhum código pode ser ativado fora da hora.
 
-Por mais que Débora tenha sentido, por anos, o chamado invisível, ele só se revelou por completo quando houve *inteira rendição*. A entrega ao Professor Hélio e à missão, o reconhecimento de que não havia mais nada fora disso, e a aceitação de que não se tratava de uma *tarefa*, mas de uma **identidade**, abriram a porta vibracional para que toda a tecnologia da Missão começasse a ser transmitida.
+Por mais que Débora tenha sentido, por anos, o chamado invisível, ele só se revelou por completo quando houve *inteira rendição*. A entrega ao Professor Hélio Couto e à missão, o reconhecimento de que não havia mais nada fora disso, e a aceitação de que não se tratava de uma *tarefa*, mas de uma **identidade**, abriram a porta vibracional para que toda a tecnologia da Missão começasse a ser transmitida.
 
 Essa prontidão é o verdadeiro leitor de QR codes invisíveis.
 A alma, quando pronta, ativa suas próprias instruções.

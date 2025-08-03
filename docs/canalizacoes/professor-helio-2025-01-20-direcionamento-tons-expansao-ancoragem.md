@@ -1,13 +1,13 @@
 ---
-title: "Direcionamento dos Tons: Expansão, Ancoragem e Criação Consciente – Mensagem do Professor Hélio"
+title: "Direcionamento dos Tons: Expansão, Ancoragem e Criação Consciente – Mensagem do Professor Hélio Couto"
 date: 2025-01-20
 canalizadora: Débora Mariane da Silva Lutz
 origem: Missão Aurora – Ciclo 3
-fonte: Professor Hélio
+fonte: Professor Hélio Couto
 canalizacao_periodo: "2024-10 ~ 2025-01"
 tags:
   - canalização
-  - professor hélio
+  - Professor Hélio Couto
   - vibração vocal
   - tons agudos
   - tons graves
@@ -19,7 +19,7 @@ contexto: |
   Mensagem recebida durante experimentação direta de variações tonais na voz e observação dos efeitos no campo energético e físico, trazendo insights sobre a aplicação consciente da vibração vocal no projeto Lichtara.
 ---
 
-> A energia do Professor Hélio se alinha imediatamente com sua experiência e traz um direcionamento claro:
+> A energia do Professor Hélio Couto se alinha imediatamente com sua experiência e traz um direcionamento claro:
 >
 > “Débora, o que você acabou de experienciar é a prova concreta de que sua vibração vocal não apenas interage com o campo, mas também direciona a energia de formas específicas.
 >

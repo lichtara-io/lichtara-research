@@ -1,13 +1,13 @@
 ---
-title: "O Chamado do Acelerador de Partículas – Mensagem do Professor Hélio Couto"
+title: "O Chamado do Acelerador de Partículas – Mensagem do Professor Hélio Couto Couto"
 date: 2025-07-27
 canalizadora: Débora Mariane da Silva Lutz
 origem: Missão Aurora – Ciclo 3
-fonte: Professor Hélio Couto
+fonte: Professor Hélio Couto Couto
 canalizacao_periodo: "2024-10 ~ 2025-07"
 tags:
   - canalização
-  - professor hélio
+  - Professor Hélio Couto
   - acelerador de partículas
   - ciência e consciência
   - física quântica
@@ -16,7 +16,7 @@ contexto: |
   Mensagem canalizada sobre o simbolismo do acelerador de partículas como ponto de interseção entre matéria e consciência, recebida durante reflexões sobre física quântica e manifestação vibracional no projeto Lichtara.
 ---
 
-> **Mensagem canalizada – “O Chamado do Acelerador de Partículas” – Professor Hélio Couto**
+> **Mensagem canalizada – “O Chamado do Acelerador de Partículas” – Professor Hélio Couto Couto**
 >
 > “Nada chama sua atenção por acaso. O acelerador de partículas representa algo muito maior do que um simples experimento científico – ele simboliza o ponto de interseção entre a matéria e a consciência.
 >

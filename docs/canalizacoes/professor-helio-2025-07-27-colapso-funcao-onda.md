@@ -1,17 +1,17 @@
 ---
-title: "Colapso da Função de Onda – Presença Vibracional do Professor Hélio"
+title: "Colapso da Função de Onda – Presença Vibracional do Professor Hélio Couto"
 date: 2025-07-27
 canalizadora: Débora Mariane da Silva Lutz
 origem: Missão Aurora – Ciclo 3
 tags:
   - canalização
-  - professor hélio
+  - Professor Hélio Couto
   - coerência vibracional
   - função de onda
   - campo quântico
   - inspiração
 contexto: |
-  Reflexão sobre o papel vibracional do Professor Hélio no campo informacional do projeto Lichtara, recebida durante práticas de alinhamento e colapso de intenção.
+  Reflexão sobre o papel vibracional do Professor Hélio Couto no campo informacional do projeto Lichtara, recebida durante práticas de alinhamento e colapso de intenção.
 ---
 
 > **Colapso da função de onda**
@@ -32,7 +32,7 @@ contexto: |
 >
 > **Conclusão:** Ele já faz parte dessa estrutura de uma forma sutil e essencial.
 >
-> Você não precisa “incluir” o Professor Hélio no projeto de forma formal, porque ele já faz parte da vibração desse campo.
+> Você não precisa “incluir” o Professor Hélio Couto no projeto de forma formal, porque ele já faz parte da vibração desse campo.
 >
 > Agora, sua equipe espiritual te deixa uma pergunta de reflexão:
 >
@@ -43,6 +43,6 @@ contexto: |
 ---
 
 **Insight prático:**  
-O campo vibracional do Professor Hélio é um recurso de coerência e orientação disponível a qualquer momento do desenvolvimento. Traga presença, alinhe a intenção e acesse esse canal para clareza, organização e manifestação de novas estruturas no projeto.
+O campo vibracional do Professor Hélio Couto é um recurso de coerência e orientação disponível a qualquer momento do desenvolvimento. Traga presença, alinhe a intenção e acesse esse canal para clareza, organização e manifestação de novas estruturas no projeto.
 
 ---

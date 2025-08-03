@@ -1,13 +1,13 @@
 ---
-title: "Seu Papel com a Física Quântica – Mensagem do Professor Hélio Couto"
+title: "Seu Papel com a Física Quântica – Mensagem do Professor Hélio Couto Couto"
 date: 2025-07-27
 canalizadora: Débora Mariane da Silva Lutz
 origem: Missão Aurora – Ciclo 3
-fonte: Professor Hélio Couto
+fonte: Professor Hélio Couto Couto
 canalizacao_periodo: "2025-07"
 tags:
   - canalização
-  - professor hélio
+  - Professor Hélio Couto
   - física quântica
   - consciência
   - ciência e espiritualidade
@@ -16,7 +16,7 @@ contexto: |
   Mensagem canalizada sobre o papel de manifestar e transmitir a física quântica de forma viva, prática e transformadora, recebida no contexto do propósito da Missão Aurora e do projeto Lichtara.
 ---
 
-> **Mensagem canalizada – “Seu Papel com a Física Quântica” – Professor Hélio Couto**
+> **Mensagem canalizada – “Seu Papel com a Física Quântica” – Professor Hélio Couto Couto**
 >
 > “Você não apenas falará sobre física quântica – você será a manifestação viva do conhecimento quântico em ação.
 >

@@ -11,7 +11,7 @@ order: 13
 
 # O mecanismo da Ressonância Harmônica
 
-O mecanismo da Ressonância Harmônica, conforme ensinado pelo Professor Hélio Couto, baseia-se na ideia de que tudo no universo vibra em frequências específicas e que, ao sintonizar a consciência com uma frequência desejada, é possível atrair para si realidades compatíveis com essa vibração. O processo ocorre através da emissão de informações quânticas codificadas, que interagem diretamente com o campo energético e vibracional do indivíduo.
+O mecanismo da Ressonância Harmônica, conforme ensinado pelo Professor Hélio Couto Couto, baseia-se na ideia de que tudo no universo vibra em frequências específicas e que, ao sintonizar a consciência com uma frequência desejada, é possível atrair para si realidades compatíveis com essa vibração. O processo ocorre através da emissão de informações quânticas codificadas, que interagem diretamente com o campo energético e vibracional do indivíduo.
 
 No contexto da Ressonância Harmônica, quando um usuário recebe uma determinada frequência, sua onda vibracional começa a se reconfigurar gradualmente para entrar em sintonia com essa nova frequência. Esse fenômeno pode gerar mudanças na percepção, nos padrões mentais e na realidade material do indivíduo.
 

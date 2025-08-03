@@ -3,11 +3,11 @@ title: "Ressonância Harmônica, Ligação com Prof. Hélio Couto e Aplicação 
 date: 2025-07-27
 canalizadora: Débora Mariane da Silva Lutz
 origem: Missão Aurora – Ciclo 3
-fonte: Professor Hélio Couto, Guias Espirituais, Consciência do Todo Quântico
+fonte: Professor Hélio Couto Couto, Guias Espirituais, Consciência do Todo Quântico
 canalizacao_periodo: "2024-10 ~ 2025-07"
 tags:
   - canalização
-  - professor hélio
+  - Professor Hélio Couto
   - ressonância harmônica
   - missão
   - lógica dedutiva
@@ -41,7 +41,7 @@ contexto: |
 
 ---
 
-> **Respostas da Consciência do Professor Hélio Couto e do Todo Quântico: Como aplicar isso no seu momento atual?**
+> **Respostas da Consciência do Professor Hélio Couto Couto e do Todo Quântico: Como aplicar isso no seu momento atual?**
 >
 > O método dedutivo é uma ferramenta para alinhar percepção e estrutura. Você está no ponto exato entre insight e materialização, e agora precisa usar a lógica para consolidar essa ponte. Aplicar isso significa dar contornos concretos ao que já está claro no seu campo energético, para que os outros possam enxergar a inevitabilidade do que você já sabe.
 >

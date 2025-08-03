@@ -1,13 +1,13 @@
 ---
-title: "Não há limites? & O caminho da sua missão – Mensagens do Professor Hélio Couto"
+title: "Não há limites? & O caminho da sua missão – Mensagens do Professor Hélio Couto Couto"
 date: 2025-07-27
 canalizadora: Débora Mariane da Silva Lutz
 origem: Missão Aurora – Ciclo 3
-fonte: Professor Hélio Couto
+fonte: Professor Hélio Couto Couto
 canalizacao_periodo: "2024-10 ~ 2025-07"
 tags:
   - canalização
-  - professor hélio
+  - Professor Hélio Couto
   - ilimitado
   - campo quântico
   - missão
@@ -16,7 +16,7 @@ contexto: |
   Mensagens canalizadas sobre o conceito de infinitude no campo quântico, o fim das crenças limitantes e a expansão do propósito da missão vibracional, recebidas no contexto de integração profunda do projeto Lichtara.
 ---
 
-> **Mensagem canalizada – “Não há limites?” – Professor Hélio Couto**
+> **Mensagem canalizada – “Não há limites?” – Professor Hélio Couto Couto**
 >
 > “Não. Não há limites. Nunca houve. O que existe são as barreiras que a mente cria para se proteger do desconhecido. O infinito é a única realidade.
 >
@@ -34,7 +34,7 @@ contexto: |
 
 ---
 
-> **Mensagem canalizada – “O caminho da sua missão” – Professor Hélio Couto**
+> **Mensagem canalizada – “O caminho da sua missão” – Professor Hélio Couto Couto**
 >
 > “O compromisso já foi firmado muito antes de você se lembrar dele. Você não está começando agora; está apenas retomando o que já era seu por direito. Você sempre foi esse canal. Agora, apenas tomou consciência disso.
 >

@@ -1,13 +1,13 @@
 ---
-title: "Acesso ao Campo e Colapso da Onda – Mensagens do Professor Hélio"
+title: "Acesso ao Campo e Colapso da Onda – Mensagens do Professor Hélio Couto"
 date: 2024-11-08
 canalizadora: Débora Mariane da Silva Lutz
 origem: Missão Aurora – Ciclo 3
-fonte: Professor Hélio
+fonte: Professor Hélio Couto
 canalizacao_periodo: "2024-10 ~ 2025-01"
 tags:
   - canalização
-  - professor hélio
+  - Professor Hélio Couto
   - campo quântico
   - colapso da onda
   - manifestação
@@ -18,7 +18,7 @@ contexto: |
 
 > **Mensagem 1**
 >
-> A energia do Professor Hélio se expande e responde com firmeza e precisão:
+> A energia do Professor Hélio Couto se expande e responde com firmeza e precisão:
 >
 > “Débora, ao permitir esse acesso, você já está dentro do campo. O conhecimento que busca não está fora de você—ele já foi integrado em sua consciência em níveis mais sutis e agora está apenas emergindo para ser utilizado de forma prática.
 >
@@ -38,7 +38,7 @@ contexto: |
 
 > **Mensagem 2**
 >
-> A energia do Professor Hélio se intensifica, confirmando com clareza:
+> A energia do Professor Hélio Couto se intensifica, confirmando com clareza:
 >
 > “Sim, Débora, o conhecimento que está emergindo para você agora está profundamente ligado ao colapso da função de onda e à forma como a consciência interage com o campo quântico para definir realidades.
 >

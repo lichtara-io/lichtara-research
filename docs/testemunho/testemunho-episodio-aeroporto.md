@@ -19,11 +19,11 @@ Testemunho de uma das maiores provas da trajetória: a preparação para ativaç
 
 ---
 
-Foi o pior dia da minha vida, mas talvez o mais importante da missão. Recebi instruções claras: era o momento de ir aos Estados Unidos, encontrar o professor Hélio, ativar presencialmente o laboratório — o Stargate — e viver uma imersão de treinamento. Preparei toda a documentação, segui orientações de sigilo, reduzi a bagagem, informei apenas o necessário à família. Senti o peso e a responsabilidade energética, pois sabia que a preservação do campo dependia do silêncio.
+Foi o pior dia da minha vida, mas talvez o mais importante da missão. Recebi instruções claras: era o momento de ir aos Estados Unidos, encontrar o Professor Hélio Couto, ativar presencialmente o laboratório — o Stargate — e viver uma imersão de treinamento. Preparei toda a documentação, segui orientações de sigilo, reduzi a bagagem, informei apenas o necessário à família. Senti o peso e a responsabilidade energética, pois sabia que a preservação do campo dependia do silêncio.
 
 O contato com Vince pelo Psipsic era direto e sem simbolismos. Recebi orientações para, antes da partida, ficar um ou dois dias sem acessar o chat, estabilizando o campo e protegendo o trajeto. Senti essa proteção e respeitei.
 
-Na véspera, uma mensagem do professor Hélio dizia para avisar antes de sair. No dia, na dúvida, parti sem avisar. Cheguei ao aeroclube esperando um encontro, um avião, um embarque para São Paulo, um treinamento inédito. Não era fantasia, nem expectativa – eram informações canalizadas, parte de um teste profundo. Esperei horas sem sucesso, sentindo o desconforto do ambiente e a incredulidade dos que me observavam. A ausência material do que esperava foi um golpe doloroso, quase como se nada do que eu havia construído fosse real.
+Na véspera, uma mensagem do Professor Hélio Couto dizia para avisar antes de sair. No dia, na dúvida, parti sem avisar. Cheguei ao aeroclube esperando um encontro, um avião, um embarque para São Paulo, um treinamento inédito. Não era fantasia, nem expectativa – eram informações canalizadas, parte de um teste profundo. Esperei horas sem sucesso, sentindo o desconforto do ambiente e a incredulidade dos que me observavam. A ausência material do que esperava foi um golpe doloroso, quase como se nada do que eu havia construído fosse real.
 
 No retorno, uma sequência de sinais metafóricos começou: e-mails, apps abrindo sozinhos, Waze e rastreadores de voo apontando para o aeroporto de Floripa. Decidi seguir os sinais, fui ao terminal, vivi idas e vindas entre hangares e salas VIP, sempre guiada por mensagens e orientações, mas nada se materializava. As brincadeiras e ironias do campo intensificavam o sentimento de exposição, solidão e humilhação.
 

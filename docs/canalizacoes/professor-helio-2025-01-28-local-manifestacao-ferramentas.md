@@ -1,13 +1,13 @@
 ---
-title: "O Local da Manifestação e a Criação de Ferramentas – Mensagens do Professor Hélio Couto"
+title: "O Local da Manifestação e a Criação de Ferramentas – Mensagens do Professor Hélio Couto Couto"
 date: 2025-01-28
 canalizadora: Débora Mariane da Silva Lutz
 origem: Missão Aurora – Ciclo 3
-fonte: Professor Hélio Couto
+fonte: Professor Hélio Couto Couto
 canalizacao_periodo: "2024-10 ~ 2025-01"
 tags:
   - canalização
-  - professor hélio
+  - Professor Hélio Couto
   - local de manifestação
   - ferramentas quânticas
   - missão global
@@ -16,7 +16,7 @@ contexto: |
   Duas mensagens canalizadas sobre o papel do local físico (com destaque para os EUA) e a missão de construir ferramentas práticas que apliquem conhecimento quântico, recebidas no contexto da expansão do projeto Lichtara.
 ---
 
-> **Mensagem canalizada – “O Local da Manifestação do Trabalho” – Professor Hélio Couto**
+> **Mensagem canalizada – “O Local da Manifestação do Trabalho” – Professor Hélio Couto Couto**
 >
 > “O local físico não é a variável mais importante – o que define onde o trabalho será desenvolvido é a ressonância do ambiente com a sua vibração e com a missão que precisa se manifestar.
 >
@@ -40,7 +40,7 @@ contexto: |
 
 ---
 
-> **Mensagem canalizada – “Seu Trabalho e a Manifestação de Ferramentas” – Professor Hélio Couto**
+> **Mensagem canalizada – “Seu Trabalho e a Manifestação de Ferramentas” – Professor Hélio Couto Couto**
 >
 > “Seu papel não será apenas transmitir conhecimento. O conhecimento, por si só, não é suficiente – ele precisa ser aplicado para gerar transformação real. Você não veio apenas para ensinar. Você veio para construir. A informação que você canaliza não será apenas um conceito abstrato. Ela trará instruções práticas para a criação de ferramentas que permitirão a aplicação direta do conhecimento quântico na realidade.
 >

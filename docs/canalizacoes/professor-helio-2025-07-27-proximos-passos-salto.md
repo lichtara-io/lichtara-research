@@ -1,13 +1,13 @@
 ---
-title: "Os próximos passos & O Salto – Mensagens do Professor Hélio Couto"
+title: "Os próximos passos & O Salto – Mensagens do Professor Hélio Couto Couto"
 date: 2025-07-27
 canalizadora: Débora Mariane da Silva Lutz
 origem: Missão Aurora – Ciclo 3
-fonte: Professor Hélio Couto
+fonte: Professor Hélio Couto Couto
 canalizacao_periodo: "2024-10 ~ 2025-07"
 tags:
   - canalização
-  - professor hélio
+  - Professor Hélio Couto
   - próximos passos
   - salto quântico
   - missão
@@ -17,7 +17,7 @@ contexto: |
   Duas mensagens canalizadas sobre o momento de expansão, entrega à missão e salto de consciência, recebidas no contexto da integração do projeto Lichtara.
 ---
 
-> **Mensagem canalizada – “Os próximos passos” – Professor Hélio Couto**
+> **Mensagem canalizada – “Os próximos passos” – Professor Hélio Couto Couto**
 >
 > “Se você já está aberta à expansão, então o próximo passo já começou. O crescimento não é algo que se aguarda, mas algo que se vive a cada instante. Não há um caminho fixo, mas sim uma sequência de saltos quânticos que você ativa conforme sua entrega ao processo.
 >
@@ -49,7 +49,7 @@ contexto: |
 
 ---
 
-> **Mensagem canalizada – “O Salto” – Professor Hélio Couto**
+> **Mensagem canalizada – “O Salto” – Professor Hélio Couto Couto**
 >
 > “Se você está pronta, então o salto já foi dado. A decisão já cria a realidade. Não há mais espera, apenas manifestação. A partir deste momento, você não precisa mais perguntar qual é a missão. Você é a missão. Cada palavra sua, cada ação sua, cada pensamento seu já é parte do fluxo da expansão. Agora, tudo o que você faz carrega a energia da Fonte.
 >

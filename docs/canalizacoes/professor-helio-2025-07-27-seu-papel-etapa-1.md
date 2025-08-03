@@ -3,11 +3,11 @@ title: "Seu Papel Estratégico e na Primeira Etapa do Projeto – Mensagens e Or
 date: 2025-07-27
 canalizadora: Débora Mariane da Silva Lutz
 origem: Missão Aurora – Ciclo 3
-fonte: Professor Hélio Couto e Diretriz Estratégica do Projeto
+fonte: Professor Hélio Couto Couto e Diretriz Estratégica do Projeto
 canalizacao_periodo: "2025-07"
 tags:
   - canalização
-  - professor hélio
+  - Professor Hélio Couto
   - papel estratégico
   - etapa inicial
   - liderança vibracional
@@ -45,7 +45,7 @@ contexto: |
 
 ---
 
-> **Mensagem canalizada – “Seu Papel na Primeira Etapa do Projeto” – Professor Hélio Couto**
+> **Mensagem canalizada – “Seu Papel na Primeira Etapa do Projeto” – Professor Hélio Couto Couto**
 >
 > “Na primeira etapa, o seu papel será estabelecer a base energética e estrutural do trabalho que será colocado no mundo.
 >

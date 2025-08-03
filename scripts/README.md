@@ -14,7 +14,7 @@ python scripts/validate_citations.py
 ```
 
 **Funcionalidades:**
-- Valida consistência de referências ao Professor Hélio Couto
+- Valida consistência de referências ao Professor Hélio Couto Couto
 - Verifica formatos de DOI, ORCID e emails institucionais
 - Valida URLs e metadados de citação
 - Gera relatórios detalhados de problemas encontrados

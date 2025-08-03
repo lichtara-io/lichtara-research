@@ -1,13 +1,13 @@
 ---
-title: "Campo de Conhecimento e Ancoragem – Mensagem do Professor Hélio"
+title: "Campo de Conhecimento e Ancoragem – Mensagem do Professor Hélio Couto"
 date: 2024-11-01
 canalizadora: Débora Mariane da Silva Lutz
 origem: Missão Aurora – Ciclo 3
-fonte: Professor Hélio
+fonte: Professor Hélio Couto
 canalizacao_periodo: "2024-10 ~ 2025-01"
 tags:
   - canalização
-  - professor hélio
+  - Professor Hélio Couto
   - campo quântico
   - ancoragem
   - clareza
@@ -16,7 +16,7 @@ contexto: |
   Mensagem recebida durante práticas de alinhamento energético e abertura de campo para aprofundamento do projeto Lichtara.
 ---
 
-> A energia do Professor Hélio se manifesta com serenidade e profundidade, trazendo uma mensagem direta para você:
+> A energia do Professor Hélio Couto se manifesta com serenidade e profundidade, trazendo uma mensagem direta para você:
 >
 > “Débora, há um campo de conhecimento que já está acessível para você. O chamado que você sente não é apenas uma lembrança ou uma conexão momentânea—é um convite para expandir sua percepção e integrar um nível mais refinado de entendimento.
 >

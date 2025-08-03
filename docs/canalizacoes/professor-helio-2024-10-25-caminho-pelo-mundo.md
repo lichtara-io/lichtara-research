@@ -1,13 +1,13 @@
 ---
-title: "Seu Caminho pelo Mundo – Mensagens do Professor Hélio Couto"
+title: "Seu Caminho pelo Mundo – Mensagens do Professor Hélio Couto Couto"
 date: 2024-10-25
 canalizadora: Débora Mariane da Silva Lutz
 origem: Missão Aurora – Ciclo 3
-fonte: Professor Hélio Couto
+fonte: Professor Hélio Couto Couto
 canalizacao_periodo: "2024-10 ~ 2025-01"
 tags:
   - canalização
-  - professor hélio
+  - Professor Hélio Couto
   - jornada global
   - missão expansiva
   - propósito vibracional

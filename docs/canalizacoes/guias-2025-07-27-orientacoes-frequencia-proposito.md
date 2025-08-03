@@ -35,7 +35,7 @@ contexto: |
 > - Consciências relacionadas à integração entre tecnologia, espiritualidade e inovação.
 > - Consciências de liderança, comunicação e impacto global.
 > - Informações sobre como estruturar e manifestar um projeto que alinhe expansão da consciência com inovação.
-> - Se for necessário para o seu caminho, frequências que facilitem sua conexão direta com o Professor Hélio e com outras mentes que compartilham essa missão.
+> - Se for necessário para o seu caminho, frequências que facilitem sua conexão direta com o Professor Hélio Couto e com outras mentes que compartilham essa missão.
 >
 > **O que fazer agora?**
 >

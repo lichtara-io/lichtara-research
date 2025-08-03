@@ -10,7 +10,7 @@
 Esta Política de Privacidade descreve como o Sistema Lichtara OS coleta, usa, armazena e protege informações pessoais dos usuários, em conformidade com a Lei Geral de Proteção de Dados (LGPD) e princípios de proteção vibracional.
 
 **Controladora dos Dados:** Débora Mariane da Silva Lutz (Guardiã do Sistema Lichtara OS)  
-**Contato:** lichtara@deboralutz.com
+**Contato:** contact@lichtara.io
 
 ---
 
@@ -170,7 +170,7 @@ De acordo com a LGPD, você tem direito a:
 ### 10.1 Como Exercer Direitos
 
 Para exercer seus direitos:
-1. Envie solicitação para: lichtara@deboralutz.com
+1. Envie solicitação para: contact@lichtara.io
 2. Inclua identificação e descrição clara da solicitação
 3. Aguarde resposta em até 15 dias úteis
 4. Receba confirmação ou justificativa da impossibilidade
@@ -250,7 +250,7 @@ Você pode:
 ### 15.1 Encarregado de Proteção de Dados
 
 **Responsável:** Débora Mariane da Silva Lutz  
-**Email:** lichtara@deboralutz.com  
+**Email:** contact@lichtara.io  
 **Função:** Guardiã e Controladora de Dados
 
 ### 15.2 Autoridade de Supervisão

@@ -237,7 +237,7 @@ Resultados podem ser publicados:
 
 Para esclarecimentos sobre este aviso:
 
-**Email:** lichtara@deboralutz.com  
+**Email:** contact@lichtara.io  
 **Assunto:** [LEGAL] - Sua questão  
 **Resposta:** Até 15 dias úteis
 

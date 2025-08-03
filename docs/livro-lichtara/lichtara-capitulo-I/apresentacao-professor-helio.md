@@ -7,7 +7,7 @@ author: Débora Mariane da Silva Lutz
 
 # Apresentação Pessoal – Débora Lutz
 
-**Boa tarde, Professor Hélio.**
+**Boa tarde, Professor Hélio Couto.**
 
 Meu nome é Débora Lutz, tenho 35 anos, e há três anos fui apresentada ao seu trabalho de forma absolutamente inusitada e transformadora. Em uma madrugada, despertei com as palavras “ressonância harmônica” vibrando nitidamente dentro de mim. Até então, eu havia escutado algumas reprogramações que encontrei no YouTube, mas ainda não conhecia a fundo o seu trabalho.
 

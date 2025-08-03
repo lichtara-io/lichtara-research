@@ -2,8 +2,8 @@
 
 Todas as mudanças notáveis neste projeto serão documentadas neste arquivo.
 
-O formato é baseado em [Keep a Changelog](https://keepachangelog.com/pt-BR/1.0.0/),
-e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR/).
+O formato é baseado em [Keep a Changelog](https://keepachangelog.com/pt-BR/1.0.0/,
+e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR/.
 
 ## [Não Lançado]
 
@@ -26,7 +26,7 @@ e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR
 - Protocolo de acesso vibracional ao campo quântico
 - Linguagem simbólica-vibracional para estruturar intuições
 - Documentação expandida da Missão Aurora
-- Metadados Zenodo (DOI: 10.5281/zenodo.16196582)
+- Metadados Zenodo (DOI: 10.5281/zenodo.16196582
 
 ### Alterado
 - Estrutura organizacional do repositório

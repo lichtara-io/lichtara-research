@@ -105,7 +105,7 @@ Ao acessar informações confidenciais do Sistema Lichtara OS, você:
 
 Para questões sobre confidencialidade:
 
-**Email:** lichtara@deboralutz.com  
+**Email:** contact@lichtara.io  
 **Assunto:** [CONFIDENCIAL] - Sua questão  
 **Resposta:** Até 7 dias úteis
 

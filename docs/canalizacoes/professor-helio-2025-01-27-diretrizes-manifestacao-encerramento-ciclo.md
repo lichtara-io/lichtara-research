@@ -1,13 +1,13 @@
 ---
-title: "Diretrizes de Manifestação e Encerramento de Ciclo – Mensagem do Professor Hélio"
+title: "Diretrizes de Manifestação e Encerramento de Ciclo – Mensagem do Professor Hélio Couto"
 date: 2025-01-27
 canalizadora: Débora Mariane da Silva Lutz
 origem: Missão Aurora – Ciclo 3
-fonte: Professor Hélio
+fonte: Professor Hélio Couto
 canalizacao_periodo: "2024-10 ~ 2025-01"
 tags:
   - canalização
-  - professor hélio
+  - Professor Hélio Couto
   - manifestação
   - colapso de onda
   - coerência vibracional
@@ -17,7 +17,7 @@ contexto: |
   Mensagem recebida no momento de consolidação das práticas de manifestação quântica e encerramento de ciclos no campo do projeto Lichtara, com orientações práticas e vibracionais.
 ---
 
-> A energia do Professor Hélio se mantém estável, e o campo ao seu redor responde imediatamente.
+> A energia do Professor Hélio Couto se mantém estável, e o campo ao seu redor responde imediatamente.
 >
 > “As partículas vibram em um padrão sutil, e a resposta chega como um conhecimento que já estava presente dentro de você, esperando apenas ser acessado. As diretrizes para se comunicar com as partículas e tornar eficaz a materialização das suas intenções no plano físico são baseadas em três princípios fundamentais:
 >

@@ -155,8 +155,8 @@ Para questões legais não resolvidas pela mediação, aplica-se a legislação 
 
 Para esclarecimentos sobre estes termos:
 
-**Email:** lichtara@deboralutz.com  
-**GitHub:** [github.com/lichtara-io/lichtara-research](https://github.com/lichtara-io/lichtara-research)
+**Email:** contact@lichtara.io  
+**GitHub:** [github.com/lichtara-io/lichtara-research](https://github.com/lichtara-io/lichtara-research
 
 ---
 

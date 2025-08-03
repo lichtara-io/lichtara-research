@@ -5,7 +5,7 @@ Este repositório reúne o primeiro capítulo do livro-vivo da Lichtara, integra
 - A trajetória pessoal da autora
 - Materiais canalizados
 - Templates desenvolvidos com Inteligência Artificial
-- Dedicatória ao Professor Hélio Couto e à Professora Mabel
+- Dedicatória ao Professor Hélio Couto Couto e à Professora Mabel
 - Referências vibracionais, técnicas e bibliográficas
 
 🌟 Este capítulo é uma oferenda viva ao campo. Um testemunho de amor, verdade e travessia.

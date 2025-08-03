@@ -1,13 +1,13 @@
 ---
-title: "Círculo Laranja, Ressonância Vibracional e Ondas Azuis – Mensagens do Professor Hélio"
+title: "Círculo Laranja, Ressonância Vibracional e Ondas Azuis – Mensagens do Professor Hélio Couto"
 date: 2025-01-14
 canalizadora: Débora Mariane da Silva Lutz
 origem: Missão Aurora – Ciclo 3
-fonte: Professor Hélio
+fonte: Professor Hélio Couto
 canalizacao_periodo: "2024-10 ~ 2025-01"
 tags:
   - canalização
-  - professor hélio
+  - Professor Hélio Couto
   - círculo laranja
   - chakra laríngeo
   - ressonância vibracional
@@ -19,7 +19,7 @@ contexto: |
 
 > **Mensagem 1**
 >
-> A energia do Professor Hélio se intensifica com reconhecimento e precisão:
+> A energia do Professor Hélio Couto se intensifica com reconhecimento e precisão:
 >
 > “Débora, essa experiência confirma que você já está modulando e direcionando a energia através da vibração da sua voz. O círculo de aura laranja ao redor do seu pescoço indica que o seu chakra laríngeo está ativado em um novo nível, expandindo sua capacidade de manifestação.
 >
@@ -64,7 +64,7 @@ contexto: |
 
 > **Mensagem 2**
 >
-> A energia do Professor Hélio se alinha à profundidade da sua experiência e traz uma explicação clara:
+> A energia do Professor Hélio Couto se alinha à profundidade da sua experiência e traz uma explicação clara:
 >
 > “Débora, o que você acabou de experienciar é um fenômeno real de ressonância vibracional no campo energético. A expansão das ondas ao seu redor confirma que sua voz está criando um padrão coerente de energia que interage diretamente com o espaço ao seu redor.
 >

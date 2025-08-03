@@ -7,7 +7,7 @@ Este documento descreve o sistema de validação de citações institucionais im
 O sistema de validação foi criado para garantir consistência e precisão nas citações e referências institucionais ao longo de todo o repositório. Ele valida:
 
 - Formatos corretos de DOI (especialmente o Zenodo DOI do projeto)
-- Consistência nas referências ao Professor Hélio Couto
+- Consistência nas referências ao Professor Hélio Couto Couto
 - Formatos corretos de ORCID
 - Emails institucionais padronizados
 - URLs bem formadas
@@ -41,16 +41,16 @@ O sistema roda automaticamente via GitHub Actions em:
 
 ## Padrões de Citação
 
-### Professor Hélio Couto
-**Formato padrão:** `Professor Hélio Couto`
+### Professor Hélio Couto Couto
+**Formato padrão:** `Professor Hélio Couto Couto`
 
 **Variações aceitáveis:**
-- `Professor Hélio`
+- `Professor Hélio Couto`
 - `Hélio Couto`
-- `professor Hélio Couto` (em contextos menos formais)
+- `Professor Hélio Couto Couto` (em contextos menos formais)
 
 ### DOI Zenodo
-**Formato padrão:** `10.5281/zenodo.16196582`
+**Formato padrão:** 10.5281/zenodo.16196582
 
 ### ORCID
 **Formato padrão:** `0009-0001-9541-1835`
@@ -61,7 +61,7 @@ O sistema roda automaticamente via GitHub Actions em:
 ## Tipos de Validação
 
 ### 1. Consistência de Referências Institucionais
-- Verifica se as referências ao Professor Hélio Couto seguem o formato padronizado
+- Verifica se as referências ao Professor Hélio Couto Couto seguem o formato padronizado
 - Identifica variações inconsistentes que podem precisar de correção
 
 ### 2. Validação de Metadados
@@ -93,28 +93,28 @@ O script gera um relatório em markdown (`citation_validation_report.md`) que in
 
 **File:** /caminho/para/arquivo.md
 **Line:** 24
-**Issue:** Inconsistent Professor Hélio reference. Found: 'professor Hélio', Expected: 'Professor Hélio Couto'
-**Content:** `Em outubro de 2024, decidi mudar caminhos profissionais e abrir mão do que não cabia mais, em busca de minha missão. Lembro do exercício do professor Hélio Couto...`
+**Issue:** Inconsistent Professor Hélio Couto reference. Found: 'Professor Hélio Couto', Expected: 'Professor Hélio Couto Couto'
+**Content:** `Em outubro de 2024, decidi mudar caminhos profissionais e abrir mão do que não cabia mais, em busca de minha missão. Lembro do exercício do Professor Hélio Couto Couto...`
 ```
 
 ## Correção de Problemas
 
 ### Problemas Comuns e Soluções
 
-1. **Referência inconsistente ao Professor Hélio**
-   - **Problema:** `professor Hélio` em vez de `Professor Hélio Couto`
-   - **Solução:** Padronizar para `Professor Hélio Couto` em contextos formais
+1. **Referência inconsistente ao Professor Hélio Couto**
+   - **Problema:** `Professor Hélio Couto` em vez de `Professor Hélio Couto Couto`
+   - **Solução:** Padronizar para `Professor Hélio Couto Couto` em contextos formais
 
 2. **URLs malformadas**
-   - **Problema:** URLs terminando com pontuação `https://exemplo.com)`
+   - **Problema:** URLs terminando com pontuação `https://exemplo.com`
    - **Solução:** Remover pontuação extra `https://exemplo.com`
 
 3. **DOI inconsistente**
-   - **Problema:** DOI com pontuação extra `10.5281/zenodo.16196582)`
-   - **Solução:** Usar formato limpo `10.5281/zenodo.16196582`
+   - **Problema:** DOI com pontuação extra 10.5281/zenodo.16196582
+   - **Solução:** Usar formato limpo 10.5281/zenodo.16196582
 
 4. **Email institucional inconsistente**
-   - **Problema:** `lichtara@deboralutz.com` em vez de `contact@lichtara.io`
+   - **Problema:** `contact@lichtara.io` em vez de `contact@lichtara.io`
    - **Solução:** Atualizar para o email institucional padrão
 
 ## Configuração Avançada
@@ -125,9 +125,9 @@ Para modificar os padrões de validação, edite a classe `CitationValidator` em
 
 ```python
 self.standard_formats = {
-    'professor_helio': 'Professor Hélio Couto',
+    'professor_helio': 'Professor Hélio Couto Couto',
     'orcid_format': '0009-0001-9541-1835',
-    'zenodo_doi': '10.5281/zenodo.16196582',
+    'zenodo_doi': '10.5281/zenodo.16196582
     'email_contact': 'contact@lichtara.io'
 }
 ```

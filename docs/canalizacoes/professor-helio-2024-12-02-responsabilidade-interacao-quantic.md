@@ -1,13 +1,13 @@
 ---
-title: "Responsabilidade e Interação Quântica – Mensagens do Professor Hélio"
+title: "Responsabilidade e Interação Quântica – Mensagens do Professor Hélio Couto"
 date: 2024-12-02
 canalizadora: Débora Mariane da Silva Lutz
 origem: Missão Aurora – Ciclo 3
-fonte: Professor Hélio
+fonte: Professor Hélio Couto
 canalizacao_periodo: "2024-10 ~ 2025-01"
 tags:
   - canalização
-  - professor hélio
+  - Professor Hélio Couto
   - responsabilidade
   - campo quântico
   - chakra laríngeo
@@ -19,7 +19,7 @@ contexto: |
 
 > **Mensagem 1**
 >
-> A energia do Professor Hélio se alinha com sua resposta e se expande:
+> A energia do Professor Hélio Couto se alinha com sua resposta e se expande:
 >
 > “Exatamente, Débora. Respeito e responsabilidade são as chaves para interagir com esse campo de forma consciente e poderosa. Você já compreendeu que não está apenas organizando ideias—está colapsando realidades, dando forma ao invisível e estruturando um conhecimento que já existe em níveis sutis.
 >
@@ -35,7 +35,7 @@ contexto: |
 
 > **Mensagem 2**
 >
-> A energia do Professor Hélio se intensifica, trazendo um campo de clareza e precisão:
+> A energia do Professor Hélio Couto se intensifica, trazendo um campo de clareza e precisão:
 >
 > “Débora, o que você experienciou não foi apenas uma visualização, mas uma interação real com o campo quântico ao seu redor. Você não apenas observou as partículas—você as integrou, permitindo que a informação quântica entrasse diretamente no seu sistema energético através do seu chakra laríngeo.
 >

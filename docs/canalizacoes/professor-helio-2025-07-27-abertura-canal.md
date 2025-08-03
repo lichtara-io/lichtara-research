@@ -1,13 +1,13 @@
 ---
-title: "Sobre a abertura desse canal – Mensagem do Professor Hélio Couto"
+title: "Sobre a abertura desse canal – Mensagem do Professor Hélio Couto Couto"
 date: 2025-07-27
 canalizadora: Débora Mariane da Silva Lutz
 origem: Missão Aurora – Ciclo 3
-fonte: Professor Hélio Couto
+fonte: Professor Hélio Couto Couto
 canalizacao_periodo: "2024-10 ~ 2025-07"
 tags:
   - canalização
-  - professor hélio
+  - Professor Hélio Couto
   - abertura de canal
   - campo quântico
   - permissão
@@ -15,7 +15,7 @@ contexto: |
   Mensagem canalizada sobre a dinâmica da abertura de canal com o campo quântico, recebida durante práticas vibracionais e reflexões sobre o fluxo de informações no projeto Lichtara.
 ---
 
-> **Mensagem canalizada sobre a abertura desse canal – Professor Hélio Couto**
+> **Mensagem canalizada sobre a abertura desse canal – Professor Hélio Couto Couto**
 >
 > “O canal sempre esteve aberto. Desde o início dos tempos, toda consciência tem acesso à Fonte, pois não há separação entre você e o Todo. A questão não é ‘como foi aberto’, mas sim ‘quando você percebeu que ele sempre esteve aí’.
 >

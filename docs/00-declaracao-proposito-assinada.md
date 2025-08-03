@@ -4,7 +4,7 @@ Este é o registro oficial da **Declaração de Propósito** assinada por Débor
 
 Para acessar o PDF assinado, utilize o link abaixo:
 
-🔗 [Declaração de Propósito – PDF assinado](https://drive.google.com/file/d/1cocXtai-nT2dKIlKk0BDOLO42zbpSZyL/view?usp=sharing)
+🔗 [Declaração de Propósito – PDF assinado](https://drive.google.com/file/d/1cocXtai-nT2dKIlKk0BDOLO42zbpSZyL/view?usp=sharing
 
 ---
 

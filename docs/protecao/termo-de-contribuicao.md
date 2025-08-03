@@ -198,9 +198,9 @@ Esperamos que todos:
 
 Para questões sobre contribuições:
 
-**Email:** lichtara@deboralutz.com  
+**Email:** contact@lichtara.io  
 **Assunto:** [CONTRIBUIÇÃO] - Sua questão  
-**GitHub:** [Repositório Lichtara Research](https://github.com/lichtara-io/lichtara-research)
+**GitHub:** [Repositório Lichtara Research](https://github.com/lichtara-io/lichtara-research
 
 ---
 

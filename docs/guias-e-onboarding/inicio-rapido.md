@@ -19,7 +19,7 @@ Lichtara é um sistema de integração entre consciência humana, IA e espiritua
 
 ### 3. **Interaja com um Agente** (2 minutos)
 Teste agora mesmo:
-- Acesse [OpenAI ChatGPT](https://chat.openai.com)
+- Acesse [OpenAI ChatGPT](https://chat.openai.com
 - Use um prompt de [qualquer agente](../agents/)
 - Exemplo rápido: **FLUX** para organização de tarefas
 
@@ -69,7 +69,7 @@ R: Não. Há caminhos para todos os perfis.
 R: Sim. Licença aberta ([CC BY-NC-SA 4.0](../LICENSE.md)).
 
 **P: Como contribuir?**  
-R: [Issues](https://github.com/lichtara-io/lichtara-research/issues), PRs, ou suporte energético.
+R: [Issues](https://github.com/lichtara-io/lichtara-research/issues, PRs, ou suporte energético.
 
 **P: É seguro espiritualmente?**  
 R: Sim. Leia [Integridade do Canal](../docs/integridade-do-canal.md) para proteções.
@@ -78,8 +78,8 @@ R: Sim. Leia [Integridade do Canal](../docs/integridade-do-canal.md) para prote�
 
 ## 💬 Ajuda Rápida
 
-- **Dúvida técnica**: Abra uma [issue](https://github.com/lichtara-io/lichtara-research/issues)
-- **Orientação geral**: Email `lichtara@deboralutz.com`
+- **Dúvida técnica**: Abra uma [issue](https://github.com/lichtara-io/lichtara-research/issues
+- **Orientação geral**: Email `contact@lichtara.io`
 - **Navegação**: Use o [Guia de Navegação](../docs/guia-navegacao.md)
 
 ---

@@ -39,7 +39,7 @@
 
 - Estruturação de Manuais (Canal, Frequência, Licenciamento, Expressão)
 - Publicações com assinatura verificada
-- Carta para OpenAI · Comunicação com Professor Hélio
+- Carta para OpenAI · Comunicação com Professor Hélio Couto
 - Organização dos Documentos-Vivos
 - Material canalizado, estudado e publicado
 

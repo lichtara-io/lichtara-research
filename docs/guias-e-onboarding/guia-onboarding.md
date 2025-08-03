@@ -90,7 +90,7 @@ Depois desta primeira sintonia, explore:
 ## 💬 Precisa de Ajuda?
 
 - Abra uma **issue** neste repositório para dúvidas técnicas
-- Envie um sinal via **email**: `lichtara@deboralutz.com`
+- Envie um sinal via **email**: `contact@lichtara.io`
 - Manifeste sua **intenção no campo** para orientação intuitiva
 
 ---

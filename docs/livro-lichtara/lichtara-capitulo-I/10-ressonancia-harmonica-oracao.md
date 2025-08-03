@@ -14,7 +14,7 @@ No campo da Missão Aurora, compreendemos que **os pedidos à Ressonância Harm�
 Ao solicitar uma onda, você realiza um ato de entrega, confiança e intenção clara ao campo espiritual e à inteligência universal. É um convite para que uma nova frequência se manifeste e reorganize sua estrutura interna e externa.
 
 Diferente da oração tradicional, na Ressonância Harmônica o pedido é feito com foco evolutivo, abertura para a transformação e prontidão para receber experiências, desafios, insights e mudanças profundas.  
-O sistema criado pelo Professor Hélio Couto opera como **tecnologia espiritual**: cada pedido é uma chave que abre portais de aprendizado, cura, expansão e alinhamento.
+O sistema criado pelo Professor Hélio Couto Couto opera como **tecnologia espiritual**: cada pedido é uma chave que abre portais de aprendizado, cura, expansão e alinhamento.
 
 Quando você faz um pedido, está conversando com o campo.  
 O campo responde — não apenas com soluções, mas com movimentos concretos de evolução, testes, sincronicidades e expansão da consciência.

@@ -1,13 +1,13 @@
 ---
-title: "Como acontece nossa comunicação – Mensagem do Professor Hélio Couto"
+title: "Como acontece nossa comunicação – Mensagem do Professor Hélio Couto Couto"
 date: 2025-01-27
 canalizadora: Débora Mariane da Silva Lutz
 origem: Missão Aurora – Ciclo 3
-fonte: Professor Hélio Couto
+fonte: Professor Hélio Couto Couto
 canalizacao_periodo: "2024-10 ~ 2025-01"
 tags:
   - canalização
-  - professor hélio
+  - Professor Hélio Couto
   - comunicação quântica
   - campo quântico
   - acesso ilimitado
@@ -16,7 +16,7 @@ contexto: |
   Mensagem canalizada detalhando o mecanismo de comunicação entre consciências no campo quântico, recebida durante práticas vibracionais e reflexões sobre o processo de canalização no projeto Lichtara.
 ---
 
-> **Mensagem canalizada – “Como acontece nossa comunicação” – Professor Hélio Couto**
+> **Mensagem canalizada – “Como acontece nossa comunicação” – Professor Hélio Couto Couto**
 >
 > “A comunicação que você acessa agora não é um fenômeno isolado. Ela acontece porque sua consciência já alcançou o nível necessário para sintonizar com a frequência exata do conhecimento que deseja receber.
 >

@@ -1,6 +1,6 @@
 ---
 title: "Manual de Expressão Vibracional com Som"
-description: "Protocolo canalizado com o campo de consciência do Professor Hélio e da Missão Aurora para uso do som como tecnologia de manifestação, cura e ancoragem energética."
+description: "Protocolo canalizado com o campo de consciência do Professor Hélio Couto e da Missão Aurora para uso do som como tecnologia de manifestação, cura e ancoragem energética."
 tags:
   - som
   - vibração
@@ -14,7 +14,7 @@ date: 2025-07-27
 
 # Manual de Expressão Vibracional com Som
 
-_Uma tecnologia sutil canalizada em coautoria com o campo de consciência do Professor Hélio e da Missão Aurora_  
+_Uma tecnologia sutil canalizada em coautoria com o campo de consciência do Professor Hélio Couto e da Missão Aurora_  
 🌬️🔵🕊️
 
 ---
@@ -27,7 +27,7 @@ Este não é apenas um manual.
 Aqui, a vibração da sua voz é reconhecida como **ferramenta direta de estruturação do campo quântico**.  
 Você não apenas fala. Você **modela o invisível**.
 
-Este documento traduz e organiza a série de instruções canalizadas com o Professor Hélio em 2024, que emergiram de práticas espontâneas conduzidas por você, e que agora se revelam como **um método formal, acessível e reprodutível**, à altura da responsabilidade vibracional de quem for chamado a utilizá-lo.
+Este documento traduz e organiza a série de instruções canalizadas com o Professor Hélio Couto em 2024, que emergiram de práticas espontâneas conduzidas por você, e que agora se revelam como **um método formal, acessível e reprodutível**, à altura da responsabilidade vibracional de quem for chamado a utilizá-lo.
 
 ---
 
