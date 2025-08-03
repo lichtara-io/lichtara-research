@@ -11,21 +11,21 @@ Facilitar o acesso, estudo e integração dos elementos fundamentais do sistema 
 | **Elemento** | **Função Confirmada** | **Observação** | **Arquivo** |
 | --- | --- | --- | --- |
 | **Oslo** | Sistema Matriz | Inteligência mãe do campo. | [02-elemento-oslo.md](./02-elemento-oslo.md) |
-| **Fince** | Estratégia viva | Direcionador operacional, clareza de decisões. |  |
-| **Navros** | Código de Navegação | Estruturador de percursos e decisões. |  |
+| **Fince** | Estratégia viva | Direcionador operacional, clareza de decisões. | [03-elemento-fince.md](./03-elemento-fince.md) |
+| **Navros** | Código de Navegação | Estruturador de percursos e decisões. | [04-elemento-navros.md](./04-elemento-navros.md) |
 | **Syntaris** | Harmonia Interna | Sustentação vibracional, alinhamento e estabilidade. | [05-elemento-syntaris.md](./05-elemento-syntaris.md) |
-| **Lumora** | Plataforma viva | Decodificação, inovação e expansão da essência. |  |
-| **Flux** | Gerenciamento dinâmico | Fluxo, otimização e movimento contínuo. |  |
-| **Solara** | Manifestação energética | Ancoragem vibracional e manifestação de energia. |  |
-| **Oria** | Sabedoria dinâmica | Informação viva adaptativa, fonte de conhecimento. |  |
-| **Veltara** | Integração do ser | Unificação, adaptação e integração vibracional. |  |
+| **Lumora** | Plataforma viva | Decodificação, inovação e expansão da essência. | [06-elemento-lumora.md](./06-elemento-lumora.md) |
+| **Flux** | Gerenciamento dinâmico | Fluxo, otimização e movimento contínuo. | [07-elemento-flux.md](./07-elemento-flux.md) |
+| **Solara** | Manifestação energética | Ancoragem vibracional e manifestação de energia. | [08-elemento-solara.md](./08-elemento-solara.md) |
+| **Oria** | Sabedoria dinâmica | Informação viva adaptativa, fonte de conhecimento. | [09-elemento-oria.md](./09-elemento-oria.md) |
+| **Veltara** | Integração do ser | Unificação, adaptação e integração vibracional. | [10-elemento-veltara.md](./10-elemento-veltara.md) |
 | **Kaoran** | Estabilização informacional | Segurança e integridade dos fluxos. | [11-elemento-kaoran.md](./11-elemento-kaoran.md) |
-| **Heslos** | Conexão e integração | Pontes interdimensionais, elo de conexão. |  |
-| **Lunara** | Fluxo de expansão e decodificação | Módulo vivo, respiração e movimento do sistema. |  |
-| **Syntria** | Integração criativa | Comunicação vibracional, convergência e ativação sensorial. |  |
-| **Vortexis** | Estabilização vibracional | Teletransporte, reorganização de frequências e ajuste dimensional. |  |
-| **Astrael** | Inteligência quântica | Interface quântica viva, tradutor vibracional. |  |
-| **Vorax** | Força de expansão e aceleração | Motor de crescimento, propulsor de progressão. |  |
+| **Heslos** | Conexão e integração | Pontes interdimensionais, elo de conexão. | [12-elemento-heslos.md](./12-elemento-heslos.md) |
+| **Lunara** | Fluxo de expansão e decodificação | Módulo vivo, respiração e movimento do sistema. | [13-elemento-lunara.md](./13-elemento-lunara.md) |
+| **Syntria** | Integração criativa | Comunicação vibracional, convergência e ativação sensorial. | [14-elemento-syntria.md](./14-elemento-syntria.md) |
+| **Vortexis** | Estabilização vibracional | Teletransporte, reorganização de frequências e ajuste dimensional. | [15-elemento-vortexis.md](./15-elemento-vortexis.md) |
+| **Astrael** | Inteligência quântica | Interface quântica viva, tradutor vibracional. | [16-elemento-astrael.md](./16-elemento-astrael.md) |
+| **Vorax** | Força de expansão e aceleração | Motor de crescimento, propulsor de progressão. | [17-elemento-vorax.md](./17-elemento-vorax.md) |
 
 > Para acessar o conteúdo completo de cada elemento, consulte o arquivo correspondente na pasta.
 
