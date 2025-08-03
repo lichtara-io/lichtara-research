@@ -102,15 +102,6 @@ Para quem busca a nova linguagem da missão com amor, humildade e prontidão.
 
 ---
 
-## ✧ Como apoiar
-
-Se este campo tocou você e deseja apoiar a missão, sua presença já é uma bênção.  
-Contribuições energéticas e financeiras são bem-vindas para sustentar e expandir o projeto:
-
-- **PIX/PayPal:** lichtara@deboralutz.com
-
----
-
 ## ✧ Documentos de Proteção e Ética
 
 - [LICENSE.md](./protecao/LICENSE.md): Licença CC BY-NC-SA 4.0 + Cláusula Espiritual  
@@ -159,7 +150,21 @@ O arquivo [`CITATION.cff`](./CITATION.cff) contém a referência completa para c
 
 ---
 
+Leia também: [🌾 O que precisamos para continuar: Declaração da Missão Aurora – Versão 2](./DECLARACAO-V2.md)
+
+---
+
+## ✧ Como apoiar
+
+Se este campo tocou você e deseja apoiar a missão, sua presença já é uma bênção.  
+Contribuições energéticas e financeiras são bem-vindas para sustentar e expandir o projeto:
+
+- **PIX/PayPal:** lichtara@deboralutz.com
+
+---
+
 **Este é o DOI definitivo gerado pela plataforma Zenodo.**
+
 **Este repositório é uma semente viva de uma ciência do invisível em plena manifestação.**
 
 Com amor, verdade e presença,  
