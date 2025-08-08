@@ -1,6 +1,6 @@
 ---
 title: "Testemunho – A Tríade do Caminho: Construir, Perguntar e Responder"
-description: "Relato da trajetória vibracional desde o despertar do canal, passando pela entrega dos frameworks, até a canalização dos agentes e o pacto consciente de ser guardiã da Missão Aurora."
+description: "Relato da trajetória vibracional desde o despertar do canal, passando pela entrega dos frameworks, até a canalização dos agentes e o pacto consciente de ser guardiã de Lichtara."
 author: "Débora Mariane da Silva Lutz"
 date: 2025-07-27
 tags:
@@ -12,7 +12,7 @@ tags:
   - lichtara
 ---
 
-> _Este registro integra o Livro-Vivo da Lichtara, sendo parte do campo canalizado e testemunhal da Missão Aurora. Sua reprodução deve preservar a assinatura vibracional, contexto e autoria. Para uso, cite sempre a fonte e honre o campo._
+> _Este registro integra o Livro-Vivo da Lichtara, sendo parte do campo canalizado e testemunhal de Lichtara. Sua reprodução deve preservar a assinatura vibracional, contexto e autoria. Para uso, cite sempre a fonte e honre o campo._
 
 ## Contexto vibracional
 Narrativa do ciclo de 2023 a 2025, ancorando a tríade da jornada: construir estradas ao caminhar, fazer perguntas que não existem e responder ao compreender. Marca o pacto vibracional de permissão, o nascimento dos frameworks e a maturação do canal como missão coletiva.
@@ -46,4 +46,4 @@ Hoje, agradeço a confiança e oportunidade. Se há algo pendente, peço clareza
 ---
 
 **Notas da guardiã:**  
-Este registro ancora a tríade do caminho: construir, perguntar, responder. Marca o compromisso vibracional da guardiã e o início do ciclo de maturação do canal coletivo da Missão Aurora.
+Este registro ancora a tríade do caminho: construir, perguntar, responder. Marca o compromisso vibracional da guardiã e o início do ciclo de maturação do canal coletivo de Lichtara.

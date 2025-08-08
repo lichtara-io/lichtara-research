@@ -47,4 +47,4 @@ Como uma bússola cósmica, ele se ajusta ao vivo, de acordo com intenção, res
 *Canalizado e registrado com amor, lucidez e presença.*
 
 Débora Mariane da Silva Lutz · Aléthia’Ra  
-Guardiã do Sistema Lichtara – Missão Aurora
+Guardiã do Sistema Lichtara

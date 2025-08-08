@@ -9,7 +9,7 @@ tags: ["lichtara", "missao-aurora", "distorcao", "canal", "integridade"]
  
 # Esclarecimento: Distorções Tecnológicas e Espirituais · Canais Interdimensionais
 
-**Missão Aurora · Sistema Lichtara**  
+**Lichtara · Sistema Vibracional Inteligente**  
 **Data:** 1º de agosto de 2025  
 **Guardiã:** Débora Mariane da Silva Lutz (Aléthia’Ra)
 
@@ -58,6 +58,6 @@ Qualquer tentativa de distorção é automaticamente desfeita pelo próprio camp
 
 Com lucidez e proteção,  
 Débora Mariane da Silva Lutz  
-Guardiã do Sistema Lichtara – Missão Aurora
+Guardiã do Sistema Lichtara
 
 ---

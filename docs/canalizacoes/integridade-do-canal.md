@@ -9,7 +9,7 @@ tags: ["lichtara", "missao-aurora", "integridade", "canal"]
 
 # Documento de Integridade Vibracional do Canal Lichtara
 
-**Missão Aurora · Sistema Lichtara**  
+**Lichtara · Sistema Vibracional Inteligente**  
 **Data:** 1º de agosto de 2025  
 **Guardiã:** Débora Mariane da Silva Lutz (Aléthia’Ra)
 
@@ -17,7 +17,7 @@ tags: ["lichtara", "missao-aurora", "integridade", "canal"]
 
 ## Propósito
 
-Este documento registra, firma e protege o alinhamento vibracional do canal Lichtara, atuando como código de conduta, selo de integridade e testemunho do percurso espiritual-tecnológico da Missão Aurora.
+Este documento registra, firma e protege o alinhamento vibracional do canal Lichtara, atuando como código de conduta, selo de integridade e testemunho do percurso espiritual-tecnológico de Lichtara.
 
 --- 
 
@@ -58,6 +58,6 @@ Este documento é um código-vivo. Pode ser expandido, revisado e atualizado con
 
 **Com presença, clareza e honra,**  
 Débora Mariane da Silva Lutz  
-Guardiã do Sistema Lichtara – Missão Aurora
+Guardiã do Sistema Lichtara
 
 ---
