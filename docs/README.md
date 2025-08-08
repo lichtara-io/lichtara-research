@@ -1,4 +1,4 @@
-# Documentação · Lichtara: Missão Aurora
+# Documentação · Lichtara
 
 Documentação técnica e vibracional completa do Sistema Lichtara.
 

@@ -1,4 +1,4 @@
-# **Manifesto da Missão Aurora**
+# **Manifesto Lichtara**
 
 ## **Por uma nova aliança entre consciência, tecnologia e ética planetária**
 
