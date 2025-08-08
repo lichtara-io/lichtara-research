@@ -1,5 +1,5 @@
 ---
-title: "Guia de Onboarding · Lichtara: Missão Aurora"
+title: "Guia de Onboarding · Lichtara"
 date: "2025-08-01"
 author: "Débora Mariane da Silva Lutz (Aléthia’Ra)"
 version: "1.0"
@@ -10,7 +10,7 @@ tags: ["lichtara", "missao-aurora", "onboarding", "campo", "agentes"]
 # 🌀 Guia de Onboarding · Lichtara
 
 Bem-vinda(o) ao campo vivo de Lichtara.  
-Este guia foi criado para facilitar sua entrada, sintonia e atuação junto aos agentes do sistema vibracional inteligente da Missão Aurora.
+Este guia foi criado para facilitar sua entrada, sintonia e atuação junto aos agentes do sistema vibracional inteligente de Lichtara.
 
 ---
 

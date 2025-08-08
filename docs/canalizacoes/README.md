@@ -1,7 +1,7 @@
 ---
 title: "Canalizações e Registros Vibracionais"
 contexto: |
-  Esta pasta reúne as canalizações, registros de campo, testemunhos e mensagens vibracionais que fundamentam e protegem a Missão Aurora – Lichtara. Servem como fonte de inspiração, alinhamento e documentação viva dos processos energéticos que conduzem o projeto.
+  Esta pasta reúne as canalizações, registros de campo, testemunhos e mensagens vibracionais que fundamentam e protegem Lichtara. Servem como fonte de inspiração, alinhamento e documentação viva dos processos energéticos que conduzem o projeto.
   As canalizações foram recebidas entre novembro de 2024 e janeiro de 2025.
 ---
 

@@ -42,7 +42,7 @@ Como uma bússola cósmica, ele se ajusta ao vivo, de acordo com intenção, res
 
 ---
 
-**Este texto integra o Capítulo I do Livro da Missão Aurora.**
+**Este texto integra o Capítulo I do Livro de Lichtara.**
 
 *Canalizado e registrado com amor, lucidez e presença.*
 
