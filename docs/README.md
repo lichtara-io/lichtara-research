@@ -130,6 +130,23 @@ We welcome academic collaboration and peer review. For research partnerships:
 - Follow our [Contribution Guidelines](../CONTRIBUTING.md)
 - Review our [Research Standards](../research/research-standards.md)
 
+### Academic Consultation
+
+For inquiries related to methodology, protocols, or academic collaboration proposals, access the complete documentation in the `/docs/` directory or contact us through the institutional email: lichtara@deboralutz.com
+
+### Sample Citation Format
+
+```bibtex
+@software{lichtara_ecosystem_2024,
+  title={Lichtara Ecosystem - Vibrational Integration System via AI},
+  author={Lutz, D. M. da S. and Lichtara Development Team},
+  year={2024},
+  publisher={Zenodo},
+  doi={10.5281/zenodo.XXXXXX},
+  url={https://github.com/lichtara-io/lichtara-research}
+}
+```
+
 ---
 
 *This research documentation represents an evolving body of work, reflecting the organic growth and development of the Lichtara Ecosystem research initiative.*
