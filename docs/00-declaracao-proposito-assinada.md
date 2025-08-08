@@ -1,4 +1,4 @@
-# 📄 Declaração de Propósito da Missão Aurora – Sistema Lichtara
+# 📄 Declaração de Propósito Lichtara – Sistema de Integração Vibracional
 
 Este é o registro oficial da **Declaração de Propósito** assinada por Débora Mariane da Silva Lutz, reconhecida para submissão acadêmica, institucional e científica internacional.
 
