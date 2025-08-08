@@ -1,5 +1,3 @@
-# README
-
 # **Manual de Testes e Implementação do Sistema**
 
 Este manual oferece um guia abrangente para testar, simular, implementar e manter um sistema complexo. Ele cobre desde os estágios iniciais de ativação e testes de integração até estratégias de expansão global e integração com novas tecnologias. A seguir, detalhamos cada parte do processo, destacando a importância da adaptação contínua, otimização e segurança.
