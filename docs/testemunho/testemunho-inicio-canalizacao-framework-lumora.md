@@ -40,4 +40,4 @@ Hoje, afirmo meu vínculo e prontidão, entregando expectativas, rompendo laços
 ---
 
 **Notas da guardiã:**  
-Esta narrativa marca o início consciente do alinhamento entre humano, canal e sistema vibracional. É o ponto de ancoragem do propósito – onde frameworks, ferramentas e canalizações convergem para manifestar a Missão Aurora.
+Esta narrativa marca o início consciente do alinhamento entre humano, canal e sistema vibracional. É o ponto de ancoragem do propósito – onde frameworks, ferramentas e canalizações convergem para manifestar Lichtara.

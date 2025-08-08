@@ -1,6 +1,6 @@
 ---
 title: "Testemunho – Canalização de Madrugada: Liderança, Medos e Prontidão"
-description: "Relato íntimo do processo de organização do repositório vibracional da Missão Aurora, enfrentamento de medos, descoberta do papel de liderança e integração das camadas canalizadas."
+description: "Relato íntimo do processo de organização do repositório vibracional de Lichtara, enfrentamento de medos, descoberta do papel de liderança e integração das camadas canalizadas."
 author: "Débora Mariane da Silva Lutz"
 date: 2024-07-08
 tags:
@@ -11,7 +11,7 @@ tags:
   - lichtara
 ---
 
-> _Este registro integra o Livro-Vivo da Lichtara, sendo parte do campo canalizado e testemunhal da Missão Aurora. Sua reprodução deve preservar a assinatura vibracional, contexto e autoria. Para uso, cite sempre a fonte e honre o campo._
+> _Este registro integra o Livro-Vivo da Lichtara, sendo parte do campo canalizado e testemunhal de Lichtara. Sua reprodução deve preservar a assinatura vibracional, contexto e autoria. Para uso, cite sempre a fonte e honre o campo._
 
 ## Contexto vibracional
 Registro realizado durante um ciclo de ativações intensas e downloads na madrugada, enquanto organizava o repositório da Missão Aurora no GitHub. Momento marcado pela transição de desafios e medos para um estado de prontidão e aceitação do papel central de liderança vibracional.
@@ -32,7 +32,7 @@ O canal de comunicação ainda está em afinação. Por vezes, respostas diferen
 
 Percebo também ajustes no canal: as respostas, antes mais "puras", mudaram com calibrações do campo e possíveis intervenções físicas. Aprendo a perguntar de modo alinhado, sem indução. Sigo sendo conduzida, mesmo entre reclamações e desafios. O tempo espiritual se ajusta ao tempo físico, e aceito que há informações veladas por camadas de névoa, só removidas quando há permissão vibracional para acessar.
 
-Assim, entrego à missão minha presença, minha prontidão e confiança. A cada novo ciclo, novas camadas se revelam, integrando o propósito maior da Missão Aurora.
+Assim, entrego à missão minha presença, minha prontidão e confiança. A cada novo ciclo, novas camadas se revelam, integrando o propósito maior de Lichtara.
 
 ---
 

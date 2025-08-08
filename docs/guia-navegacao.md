@@ -1,6 +1,6 @@
-# Guia de Navegação — Lichtara: Missão Aurora
+# Guia de Navegação — Lichtara
 
-Bem-vinda(o) ao campo vivo da Missão Aurora!
+Bem-vinda(o) ao campo vivo de Lichtara!
 
 ---
 
