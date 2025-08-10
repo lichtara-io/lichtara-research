@@ -50,7 +50,7 @@ O sistema roda automaticamente via GitHub Actions em:
 - `Professor Hélio Couto Couto` (em contextos menos formais)
 
 ### DOI Zenodo
-**Formato padrão:** 10.5281/zenodo.16196582
+**Formato padrão:** `10.5281/zenodo.16196582`
 
 ### ORCID
 **Formato padrão:** `0009-0001-9541-1835`
