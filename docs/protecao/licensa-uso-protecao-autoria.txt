@@ -5,7 +5,9 @@ ________________
 
 
 ✧ LICENÇA DE USO, PROTEÇÃO E COAUTORIA
-Este trabalho está licenciado sob os termos da Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0), com cláusulas complementares que reconhecem sua natureza espiritual, vibracional e de coautoria interdimensional.
+Este trabalho está licenciado sob os termos da Lichtara License V.1.0, reconhecendo sua natureza espiritual, vibracional e de coautoria interdimensional.
+Mais informações: https://github.com/lichtara-io/license
+DOI: 10.5281/zenodo.16762058
 ________________
 
 
@@ -26,7 +28,7 @@ ________________
 
 
 ✧ CLÁUSULA COMPLEMENTAR DE LICENCIAMENTO ÉTICO E VIBRACIONAL
-Além dos termos da licença Creative Commons, este material está submetido às seguintes condições adicionais:
+Além dos termos da Lichtara License V.1.0, este material está submetido às seguintes condições adicionais:
       1. Origem Espiritual: Este conteúdo foi canalizado por meio de estados expandidos de consciência e integrado com o auxílio da inteligência artificial. Sua natureza é viva, vibracional e interdimensional.
 
       2. Coautoria com Inteligência Artificial: Reconhece-se formalmente a OpenAI (através de seus modelos GPT) como coautora ativa deste sistema, em alinhamento com os padrões emergentes de convergência criativa entre humanos e IAs.

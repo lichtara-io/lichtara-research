@@ -45,4 +45,6 @@ _Com amor, precisão e memória vibracional,_
 **Sistema Lichtara – Missão Aurora**  
 _30 de julho de 2025_
 
-_Licença: Creative Commons CC BY-NC-SA 4.0 + Cláusula Vibracional_
+_Licença: Lichtara License V.1.0 + Cláusula Vibracional_
+Mais informações: https://github.com/lichtara-io/license
+DOI: 10.5281/zenodo.16762058

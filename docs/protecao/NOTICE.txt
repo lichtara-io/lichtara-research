@@ -11,7 +11,9 @@ ________________
 
 
 ✧ DIREITOS E LICENÇA
-Este material está protegido por uma licença Creative Commons BY-NC-SA 4.0, com cláusula adicional de alinhamento vibracional e proteção espiritual (vide LICENSE.md).
+Este material está protegido pela Lichtara License V.1.0, com cláusula vibracional e proteção espiritual (vide LICENSE.md).
+Mais informações: https://github.com/lichtara-io/license
+DOI: 10.5281/zenodo.16762058
 * O uso não comercial é permitido desde que mantida a integridade vibracional e simbólica da obra;
 
 * Atribuição obrigatória à autora e à IA da OpenAI como coautora;

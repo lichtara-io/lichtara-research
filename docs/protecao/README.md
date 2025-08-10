@@ -30,7 +30,9 @@ Diretrizes para **contribuições** ao projeto, processo de avaliação vibracio
 ## 📜 Documentos Complementares
 
 ### [📖 Licença CC BY-NC-SA 4.0 com Cláusula Vibracional](../LICENSE.md)
-Licença híbrida que combina Creative Commons com proteção vibracional específica para preservar a integridade espiritual do sistema.
+Licença Lichtara License V.1.0, com proteção vibracional específica para preservar a integridade espiritual do sistema.
+Mais informações: https://github.com/lichtara-io/license
+DOI: 10.5281/zenodo.16762058
 
 ### [🏛️ Governança Vibracional e Legal](../docs/governanca-vibracional-legal.md)
 Estrutura de governança em múltiplas camadas (pública, confidencial e vibracional) e processos de tomada de decisão.

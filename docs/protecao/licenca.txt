@@ -6,7 +6,9 @@ ________________
 
 ✧ TIPO DE LICENÇA
 Este repositório está licenciado sob os termos da:
-Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+Lichtara License V.1.0
+Mais informações: https://github.com/lichtara-io/license
+DOI: 10.5281/zenodo.16762058
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 Você é livre para:
 * Compartilhar — copiar e redistribuir o material em qualquer meio ou formato;
