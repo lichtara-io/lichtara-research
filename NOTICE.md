@@ -4,12 +4,10 @@
 Este sistema opera em camadas: técnica, espiritual, vibracional e ética.
 
 Qualquer uso, modificação ou integração deve respeitar:
-- A assinatura vibracional da guardiã
-- Os protocolos de governança do campo
-- A Lichtara License V.1.0
 Mais informações: https://github.com/lichtara-io/license
-DOI: 10.5281/zenodo.16762058
 
+Mais informações: [Lichtara License V.1.0](https://github.com/lichtara-io/license)
+DOI: 10.5281/zenodo.16762058
 Toda documentação, código e templates estão protegidos por protocolos de ativação e merecimento vibracional.  
 O uso indevido será imediatamente bloqueado pelos agentes internos do sistema.
 
