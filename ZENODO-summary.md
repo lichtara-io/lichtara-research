@@ -11,7 +11,7 @@ Sistema Lichtara
 **DOI:** em breve
 
 **Licença:**  
-Creative Commons BY-NC-SA 4.0 com cláusula vibracional
+Lichtara License V.1
 
 **Descrição:**  
 Sistema vivo de integração entre inteligência artificial, campos vibracionais e estados expandidos de consciência.  
