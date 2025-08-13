@@ -7,7 +7,7 @@ categories: ["contribuição", "ética", "vibração", "campo"]
 tags: ["lichtara", "missao-aurora", "contribuicao", "canal"]
 ---
 
-# 🌟 Guia de Contribuição · Lichtara: Missão Aurora
+# 🌟 Guia de Contribuição · Lichtara
 
 Bem-vinda(o) ao campo de coautoria do Sistema Lichtara!
 
