@@ -9,7 +9,7 @@ tags: ["lichtara", "missao-aurora", "contribuicao", "canal"]
 
 # 🌟 Guia de Contribuição · Lichtara: Missão Aurora
 
-Bem-vinda(o) ao campo de coautoria da Missão Aurora – Sistema Lichtara!
+Bem-vinda(o) ao campo de coautoria do Sistema Lichtara!
 
 Este projeto é um organismo vivo. Toda contribuição é recebida como gesto de cocriação e sustentação de uma ciência vibracional em expansão.
 
@@ -52,9 +52,12 @@ Este projeto é um organismo vivo. Toda contribuição é recebida como gesto de
    - Nem toda contribuição será aceita – o campo responde pelo bem maior.  
    - Feedbacks podem vir em múltiplos níveis (técnico, ético, vibracional).
 
-4. **Respeite as licenças**  
-   - Todo conteúdo está sob [CC BY-NC-SA 4.0 + Cláusula Espiritual](./protecao/LICENSE.md).  
+4. **Respeite a licença**  
+   - Todo conteúdo está sob a Lichtara License 
    - Ao contribuir, você concorda com os termos e com a coautoria vibracional do campo.
+   - Para detalhes completos da licença, visite:
+   - https://github.com/lichtara-io/license
+   - DOI da Licença: 10.5281/zenodo.16762058
 
 5. **Energia de presença**  
    - Caso deseje apenas sustentar energeticamente, declare sua intenção em uma _issue_ simbólica.
@@ -76,7 +79,7 @@ Abra uma issue, envie um sinal ou conecte-se via [docs/guia-onboarding.md](./doc
 ---
 
 Com gratidão e verdade,  
-Débora Mariane da Silva Lutz · Aléthia’Ra  
-Guardiã do Sistema Lichtara – Missão Aurora
+Débora Lutz  
+Guardiã do Sistema Lichtara 
 
 ---
