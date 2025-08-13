@@ -1,7 +1,7 @@
 ---
-title: "Guia de Contribuição · Lichtara: Missão Aurora"
+title: "Guia de Contribuição · Lichtara"
 date: "2025-08-01"
-author: "Débora Mariane da Silva Lutz (Aléthia’Ra)"
+author: "Débora Mariane da Silva Lutz"
 version: "1.0"
 categories: ["contribuição", "ética", "vibração", "campo"]
 tags: ["lichtara", "missao-aurora", "contribuicao", "canal"]
