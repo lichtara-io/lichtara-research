@@ -3,31 +3,65 @@
 [![License: Lichtara v1.0](https://img.shields.io/badge/License-Lichtara%20v1.0-blue.svg)](https://doi.org/10.5281/zenodo.16762058)
 [![Documentation Status](https://img.shields.io/badge/docs-active-brightgreen.svg)]()
 
-Complete technical and research documentation for the Lichtara Ecosystem - a comprehensive research initiative exploring sustainable technology solutions and innovative system architectures.
+Documentação completa do ecossistema Lichtara: pesquisa, tecnologia, espiritualidade e governança vibracional.
 
 ---
 
-## 📋 Quick Start Guide
+## ✨ Índice Visual
 
-- **[Onboarding Guide](./guia-onboarding.md)** — Initial system entry and orientation
-- **[Navigation Guide](./guia-navegacao.md)** — Comprehensive documentation exploration
-- **[Channel Integrity](./integridade-do-canal.md)** — Fundamental protection protocols
+### 🚀 Guias e Onboarding
+- [guia-onboarding.md](guias-e-onboarding/guia-onboarding.md) — Primeiros passos
+- [inicio-rapido.md](guias-e-onboarding/inicio-rapido.md) — Ativação rápida
+- [guia-navegacao.md](guia-navegacao.md) — Como navegar
+
+### 🧬 Canalizações e Mensagens
+- [canalizacoes/](canalizacoes/) — Mensagens canalizadas, metodologias e registros
+- [canalizacao-gemini-exemplo.md](canalizacao-gemini-exemplo.md) — Exemplo de canalização
+
+### 🤖 Agentes Vibracionais
+- [agents/](agents/) — Perfis dos agentes vibracionais do sistema
+
+### �️ Proteção, Governança e Licenças
+- [protecao/](protecao/) — Termos, licenças, governança, integridade vibracional
+- [governanca-vibracional-legal.md](governanca-vibracional-legal.md) — Estrutura organizacional
+- [papeis-governanca.md](papeis-governanca.md) — Papéis e responsabilidades
+
+### 📚 Documentos Técnicos e Filosóficos
+- [00-declaracao-proposito-assinada.md](00-declaracao-proposito-assinada.md) — Declaração de propósito
+- [micromanifesto-cyborg.md](micromanifesto-cyborg.md) — Manifesto filosófico
+- [oktave-lichtara-arquitetura.md](oktave-lichtara-arquitetura.md) — Arquitetura tecnológica
+- [oktave-fundamentos-tecnologicos.md](oktave-fundamentos-tecnologicos.md) — Fundamentos técnicos
+- [manual-expressao-vibracional-com-som.md](manual-expressao-vibracional-com-som.md) — Manual prático
+
+### 📊 Visualizações e Diagramas
+- [diagrama-camadas-missao.md](diagrama-camadas-missao.md) — Diagrama de camadas
+- [cards-expressao-vibracional.md](cards-expressao-vibracional.md) — Cartas vibracionais
+
+### 📑 Metadados e Citações
+- [metadata/repository-metadata.md](metadata/repository-metadata.md) — Metadados do repositório
+- [citations/citation-guide.md](citations/citation-guide.md) — Guia de citação
+- [citation-validation-guide.md](citation-validation-guide.md) — Validação de citações
 
 ---
 
-## 📚 Research Documentation Categories
+## �️ Recomendações de Navegação
 
-### 📖 **Foundations and Philosophy**
-Research papers and theoretical frameworks underlying the Lichtara Ecosystem:
-- **[Manifesto](./manifesto.md)** — Core mission and guiding principles
-- **[Purpose Declaration](./00-declaracao-proposito-assinada.md)** — Official signed research statement
-- **[Vibrational Architecture](./arquitetura-vibracional.md)** — System technical architecture
-- **[Spirituality in Development](./espiritualidade-na-trajetoria.md)** — Philosophical context
+**Para quem está começando:**
+- Leia o [guia-onboarding.md](guias-e-onboarding/guia-onboarding.md)
+- Consulte o [inicio-rapido.md](guias-e-onboarding/inicio-rapido.md)
 
-### 🛡️ **Security and Integrity Protocols**
-Research on system protection and integrity mechanisms:
-- **[Channel Integrity](./integridade-do-canal.md)** — Core protection frameworks
-- **[Distortion Clarification](./esclarecimento-canais-distorcidos.md)** — Authentication protocols
+**Para pesquisa técnica:**
+- Explore [oktave-lichtara-arquitetura.md](oktave-lichtara-arquitetura.md) e [manual-expressao-vibracional-com-som.md](manual-expressao-vibracional-com-som.md)
+
+**Para estudos espirituais:**
+- Navegue por [canalizacoes/](canalizacoes/) e [micromanifesto-cyborg.md](micromanifesto-cyborg.md)
+
+**Para governança e proteção:**
+- Consulte [protecao/](protecao/) e [governanca-vibracional-legal.md](governanca-vibracional-legal.md)
+
+---
+
+*Esta documentação representa um corpo vivo e evolutivo, integrando ciência, espiritualidade e tecnologia para a Missão Aurora.*
 - **[Governance Framework](./governanca-vibracional-legal.md)** — Organizational structure research
 - **[Governance Roles](./papeis-governanca.md)** — System responsibility allocation
 
