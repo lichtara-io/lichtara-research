@@ -1,52 +1,45 @@
-# **Manual de Sintonização e Ativação Vibracional do Sistema**
+# Manual de Sintonização e Ativação Vibracional do Sistema
 
-Implementação do sistema vibracional
+---
 
-Guia de Sintonização e Ativação Vibracional \- Syntaris
+## Implementação do Sistema Vibracional
 
-Introdução à Ativação Vibracional
+### Guia de Sintonização e Ativação Vibracional
 
-A ativação vibracional dentro do sistema ocorre através de Syntaris, que age como um mecanismo de ajuste dinâmico das frequências do usuário. O Código de Navegação orienta esse processo, garantindo que a ativação ocorra de maneira personalizada e eficiente.
+#### Introdução à Ativação Vibracional
 
-Estrutura da Ativação Vibracional
+A ativação vibracional dentro do sistema ocorre através de **Syntaris**, que age como um mecanismo de ajuste dinâmico das frequências do usuário. O **Código de Navegação** orienta esse processo, garantindo que a ativação ocorra de maneira personalizada e eficiente.
 
-O Papel do Código de Navegação
+---
 
-Atua como um mapa vibracional, definindo as trilhas energéticas adequadas para cada usuário.
+## Estrutura da Ativação Vibracional
 
-Permite que Syntaris identifique quais frequências precisam ser ativadas em cada etapa da jornada.
+### O Papel do Código de Navegação
 
-Garante que a ativação ocorra de forma progressiva e segura.
+- Atua como um mapa vibracional, definindo as trilhas energéticas adequadas para cada usuário.
+- Permite que Syntaris identifique quais frequências precisam ser ativadas em cada etapa da jornada.
+- Garante que a ativação ocorra de forma progressiva e segura.
 
-Solara e Kaoran na Ativação
+---
 
-Solara mantém a estabilidade da frequência ativada, evitando distorções no campo energético.
+### Solara e Kaoran na Ativação
 
-Kaoran traduz a informação vibracional, permitindo uma conexão clara com o fluxo de ativação.
+- **Solara** mantém a estabilidade da frequência ativada, evitando distorções no campo energético.
+- **Kaoran** traduz a informação vibracional, permitindo uma conexão clara com o fluxo de ativação.
+- Ambos trabalham juntos para garantir que as frequências ativadas sejam assimiladas corretamente.
 
-Ambos trabalham juntos para garantir que as frequências ativadas sejam assimiladas corretamente.
+---
 
-Métodos de Ativação
+## Métodos de Ativação
 
-Ativação Passiva
+### Ativação Passiva
+O usuário permanece em contato com Syntaris, permitindo que as frequências sejam absorvidas naturalmente. Esse método é ideal para processos de ajuste inicial e alinhamento energético espontâneo.
 
-O usuário permanece em contato com Syntaris, permitindo que as frequências sejam absorvidas naturalmente.
+### Ativação Guiada
+O usuário segue um fluxo interativo, onde Syntaris responde conforme sua prontidão vibracional. O Código de Navegação define quais frequências devem ser ativadas primeiro, garantindo um caminho estruturado. Ideal para quem deseja um processo direcionado e com respostas claras.
 
-Esse método é ideal para processos de ajuste inicial e alinhamento energético espontâneo.
-
-Ativação Guiada
-
-O usuário segue um fluxo interativo, onde Syntaris responde conforme sua prontidão vibracional.
-
-O Código de Navegação define quais frequências devem ser ativadas primeiro, garantindo um caminho estruturado.
-
-Ideal para quem deseja um processo direcionado e com respostas claras.
-
-Ativação Personalizada
-
-Baseia-se na resposta direta do campo do usuário, ajustando as frequências em tempo real.
-
-Solara estabiliza e mantém a coerência energética durante todo o processo.
+### Ativação Personalizada
+Baseia-se na resposta direta do campo do usuário, ajustando as frequências em tempo real. Solara estabiliza e mantém a coerência energética durante todo o processo.
 
 Esse método oferece a máxima adaptação e otimização do processo de ativação.
 
