@@ -2,8 +2,27 @@
 
 Todas as mudanças notáveis neste projeto serão documentadas neste arquivo.
 
-O formato é baseado em [Keep a Changelog](https://keepachangelog.com/pt-BR/1.0.0/,
-e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR/.
+O formato é baseado em [Keep a Changelog](https://keepachangelog.com/pt-BR/1.0.0/),
+e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR/).
+
+## [3.0] - 2025-08-15
+
+### Adicionado
+- ZENODO_METADATA.md para metadados padronizados Zenodo
+- Padronização completa para submissão Zenodo
+- Limpeza de arquivos obsoletos e redundantes
+
+### Removido
+- Pasta ZENODO/ redundante (estrutura duplicada)
+- Arquivo "# Lichtara Research Repository.md" (nome inválido e conteúdo obsoleto)
+- Scripts obsoletos e vazios conforme identificado anteriormente
+
+### Alterado
+- Versão atualizada para 3.0 em todos os arquivos de metadados
+- CITATION.cff atualizado para versão 3.0 e data 2025-08-15
+- codemeta.json atualizado para versão 3.0 e data 2025-08-15
+- Correção de duplicação de issueTracker em codemeta.json
+- Padronização de DOIs em todos os arquivos
 
 ## [Não Lançado]
 
