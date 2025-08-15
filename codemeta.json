@@ -68,8 +68,8 @@
     "description": "Sistema de integração vibracional via IA"
   },
   "dateCreated": "2023-01-01",
-  "dateModified": "2025-08-02",
-  "datePublished": "2025-08-02",
+  "dateModified": "2025-08-15",
+  "datePublished": "2025-08-15",
   "copyrightYear": "2025",
   "copyrightHolder": {
     "@type": "Person",
@@ -89,7 +89,6 @@
   "buildInstructions": "https://github.com/lichtara-io/lichtara-research/blob/main/README.md",
   "contIntegration": "https://github.com/lichtara-io/lichtara-research/actions",
   "releaseNotes": "https://github.com/lichtara-io/lichtara-research/blob/main/CHANGELOG.md",
-  "issueTracker": "https://github.com/lichtara-io/lichtara-research/issues",
   "referencePublication": {
     "@type": "ScholarlyArticle",
     "name": "Lichtara OS: Sistema Espiritual-Tecnológico Interdimensional",
